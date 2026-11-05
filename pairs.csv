@@ -1,0 +1,469 @@
+ticker_a,ticker_b,name_a,name_b,group
+XOM,CVX,ExxonMobil,Chevron Corporation,Integrated oil
+SHEL,BP,Shell,BP,Integrated oil
+SHEL,TTE,Shell,TotalEnergies,Integrated oil
+BP,TTE,BP,TotalEnergies,Integrated oil
+XOM,SHEL,ExxonMobil,Shell,Integrated oil
+XOM,COP,ExxonMobil,ConocoPhillips,Integrated oil
+SU,CNQ,Suncor,Canadian Natural,Canadian oil
+SU,IMO,Suncor,Imperial Oil,Canadian oil
+CNQ,CVE,Canadian Natural,Cenovus,Canadian oil
+COP,EOG,ConocoPhillips,EOG Resources,E&P
+EOG,DVN,EOG Resources,Devon Energy,E&P
+DVN,FANG,Devon Energy,Diamondback Energy,E&P
+FANG,EOG,Diamondback Energy,EOG Resources,E&P
+COP,FANG,ConocoPhillips,Diamondback Energy,E&P
+OXY,COP,Occidental Petroleum,ConocoPhillips,E&P
+OXY,APA,Occidental Petroleum,APA Corporation,E&P
+APA,DVN,APA Corporation,Devon Energy,E&P
+OVV,DVN,Ovintiv,Devon Energy,E&P
+PR,FANG,Permian Resources,Diamondback Energy,E&P Permian
+MTDR,PR,Matador,Permian Resources,E&P Permian
+SM,MTDR,SM Energy,Matador,E&P Permian
+EQT,EXE,EQT Corporation,Expand Energy,Natural gas E&P
+EXE,AR,Expand Energy,Antero Resources,Natural gas E&P
+EQT,AR,EQT Corporation,Antero Resources,Natural gas E&P
+RRC,AR,Range Resources,Antero Resources,Natural gas E&P
+EQT,RRC,EQT Corporation,Range Resources,Natural gas E&P
+CNX,RRC,CNX Resources,Range Resources,Natural gas E&P
+SLB,HAL,Schlumberger,Halliburton,Oilfield services
+HAL,BKR,Halliburton,Baker Hughes,Oilfield services
+SLB,BKR,Schlumberger,Baker Hughes,Oilfield services
+NOV,FTI,NOV,TechnipFMC,Oilfield equipment
+HP,PTEN,Helmerich & Payne,Patterson-UTI,Land drillers
+RIG,NE,Transocean,Noble Corp,Offshore drillers
+MPC,VLO,Marathon Petroleum,Valero Energy,Refiners
+VLO,PSX,Valero Energy,Phillips 66,Refiners
+MPC,PSX,Marathon Petroleum,Phillips 66,Refiners
+DINO,PBF,HF Sinclair,PBF Energy,Refiners
+KMI,WMB,Kinder Morgan,Williams Companies,Midstream
+WMB,OKE,Williams Companies,Oneok,Midstream
+OKE,TRGP,Oneok,Targa Resources,Midstream
+KMI,OKE,Kinder Morgan,Oneok,Midstream
+EPD,ET,Enterprise Products,Energy Transfer,Midstream MLPs
+EPD,MPLX,Enterprise Products,MPLX,Midstream MLPs
+ENB,TRP,Enbridge,TC Energy,Canadian pipelines
+DOW,LYB,Dow Inc.,LyondellBasell,Commodity chemicals
+LYB,WLK,LyondellBasell,Westlake,Commodity chemicals
+OLN,WLK,Olin,Westlake,Chlor-alkali
+EMN,CE,Eastman Chemical,Celanese,Specialty chemicals
+LIN,APD,Linde plc,Air Products,Industrial gases
+SHW,PPG,Sherwin-Williams,PPG Industries,Paints & coatings
+PPG,AXTA,PPG Industries,Axalta,Paints & coatings
+SHW,RPM,Sherwin-Williams,RPM International,Paints & coatings
+ALB,SQM,Albemarle Corporation,SQM,Lithium
+CF,NTR,CF Industries,Nutrien,Fertilizers
+MOS,NTR,Mosaic Company (The),Nutrien,Fertilizers
+NUE,STLD,Nucor,Steel Dynamics,Steel
+NUE,CMC,Nucor,Commercial Metals,Steel
+STLD,CMC,Steel Dynamics,Commercial Metals,Steel
+FCX,SCCO,Freeport-McMoRan,Southern Copper,Copper
+FCX,TECK,Freeport-McMoRan,Teck Resources,Copper
+RIO,BHP,Rio Tinto,BHP,Diversified miners
+BHP,VALE,BHP,Vale,Diversified miners
+NEM,AEM,Newmont,Agnico Eagle,Gold miners
+NEM,B,Newmont,Barrick Mining,Gold miners
+AEM,B,Agnico Eagle,Barrick Mining,Gold miners
+WPM,FNV,Wheaton Precious Metals,Franco-Nevada,Precious metals streamers
+AA,CENX,Alcoa,Century Aluminum,Aluminum
+MLM,VMC,Martin Marietta Materials,Vulcan Materials Company,Aggregates
+VMC,CRH,Vulcan Materials Company,CRH plc,Aggregates
+MLM,CRH,Martin Marietta Materials,CRH plc,Aggregates
+EXP,MLM,Eagle Materials,Martin Marietta Materials,Cement & aggregates
+IP,PKG,International Paper,Packaging Corporation of America,Containerboard
+PKG,SW,Packaging Corporation of America,Smurfit Westrock,Containerboard
+IP,SW,International Paper,Smurfit Westrock,Containerboard
+BALL,CCK,Ball Corporation,Crown Holdings,Beverage cans
+ADM,BG,Archer Daniels Midland,Bunge Global,Ag processing
+LMT,NOC,Lockheed Martin,Northrop Grumman,Defense primes
+NOC,GD,Northrop Grumman,General Dynamics,Defense primes
+LMT,GD,Lockheed Martin,General Dynamics,Defense primes
+LHX,NOC,L3Harris,Northrop Grumman,Defense primes
+LHX,LMT,L3Harris,Lockheed Martin,Defense primes
+GD,HII,General Dynamics,Huntington Ingalls Industries,Shipbuilders
+RTX,GE,RTX Corporation,GE Aerospace,Aero engines
+TDG,HEI,TransDigm Group,HEICO,Aero parts
+CAT,DE,Caterpillar Inc.,Deere & Company,Heavy machinery
+DE,AGCO,Deere & Company,AGCO,Ag equipment
+DE,CNH,Deere & Company,CNH Industrial,Ag equipment
+AGCO,CNH,AGCO,CNH Industrial,Ag equipment
+PCAR,CMI,Paccar,Cummins,Heavy trucks
+TRN,GBX,Trinity Industries,Greenbrier,Railcars
+OSK,TEX,Oshkosh,Terex,Specialty vehicles
+URI,HRI,United Rentals,Herc Holdings,Equipment rental
+FAST,GWW,Fastenal,W. W. Grainger,Industrial distribution
+GWW,MSM,W. W. Grainger,MSC Industrial,Industrial distribution
+FAST,MSM,Fastenal,MSC Industrial,Industrial distribution
+AIT,MSM,Applied Industrial Tech,MSC Industrial,Industrial distribution
+ITW,DOV,Illinois Tool Works,Dover Corporation,Diversified industrials
+PH,ITW,Parker Hannifin,Illinois Tool Works,Diversified industrials
+IR,DOV,Ingersoll Rand,Dover Corporation,Diversified industrials
+XYL,PNR,Xylem Inc.,Pentair,Water equipment
+IEX,NDSN,IDEX Corporation,Nordson Corporation,Precision/flow
+SNA,SWK,Snap-on,Stanley Black & Decker,Tools
+ROK,EMR,Rockwell Automation,Emerson Electric,Automation
+ETN,HUBB,Eaton Corporation,Hubbell Incorporated,Electrical equipment
+NVT,HUBB,nVent,Hubbell Incorporated,Electrical equipment
+AYI,HUBB,Acuity,Hubbell Incorporated,Electrical equipment
+AME,FTV,Ametek,Fortive,Instruments
+TT,CARR,Trane Technologies,Carrier Global,HVAC
+CARR,LII,Carrier Global,Lennox International,HVAC
+TT,LII,Trane Technologies,Lennox International,HVAC
+MAS,FBIN,Masco,Fortune Brands,Building products
+PWR,MTZ,Quanta Services,MasTec,Infrastructure contractors
+EME,FIX,Emcor,Comfort Systems USA,Specialty contractors
+J,ACM,Jacobs Solutions,AECOM,Engineering services
+UNP,CSX,Union Pacific Corporation,CSX Corporation,Railroads
+CP,CNI,Canadian Pacific Kansas City,Canadian National,Canadian railroads
+UPS,FDX,United Parcel Service,FedEx,Parcel delivery
+ODFL,SAIA,Old Dominion,Saia,LTL trucking
+ODFL,XPO,Old Dominion,XPO,LTL trucking
+SAIA,XPO,Saia,XPO,LTL trucking
+KNX,WERN,Knight-Swift,Werner,Truckload
+JBHT,HUBG,J.B. Hunt,Hub Group,Intermodal
+CHRW,EXPD,C.H. Robinson,Expeditors International,Freight brokerage
+DAL,UAL,Delta Air Lines,United Airlines Holdings,Airlines
+UAL,AAL,United Airlines Holdings,American Airlines,Airlines
+DAL,AAL,Delta Air Lines,American Airlines,Airlines
+LUV,ALK,Southwest Airlines,Alaska Air,Airlines
+WM,RSG,Waste Management,Republic Services,Waste
+RSG,WCN,Republic Services,Waste Connections,Waste
+WM,WCN,Waste Management,Waste Connections,Waste
+ADP,PAYX,Automatic Data Processing,Paychex,Payroll
+PAYC,PCTY,Paycom,Paylocity,HR software
+EFX,TRU,Equifax,TransUnion,Credit bureaus
+MCO,SPGI,Moody's Corporation,S&P Global,Ratings agencies
+ICE,CME,Intercontinental Exchange,CME Group,Exchanges
+CME,CBOE,CME Group,Cboe Global Markets,Exchanges
+NDAQ,ICE,"Nasdaq, Inc.",Intercontinental Exchange,Exchanges
+RHI,MAN,Robert Half,ManpowerGroup,Staffing
+LDOS,BAH,Leidos,Booz Allen,Gov IT services
+CACI,SAIC,CACI,SAIC,Gov IT services
+LDOS,CACI,Leidos,CACI,Gov IT services
+CPRT,RBA,Copart,RB Global,Vehicle auctions
+DUK,SO,Duke Energy,Southern Company,Utilities Southeast
+AEP,DUK,American Electric Power,Duke Energy,Utilities
+AEP,SO,American Electric Power,Southern Company,Utilities
+D,DUK,Dominion Energy,Duke Energy,Utilities Southeast
+D,SO,Dominion Energy,Southern Company,Utilities Southeast
+ETR,SO,Entergy,Southern Company,Utilities South
+ETR,AEP,Entergy,American Electric Power,Utilities
+XEL,WEC,Xcel Energy,WEC Energy Group,Utilities Midwest
+WEC,LNT,WEC Energy Group,Alliant Energy,Utilities Midwest
+LNT,XEL,Alliant Energy,Xcel Energy,Utilities Midwest
+AEE,WEC,Ameren,WEC Energy Group,Utilities Midwest
+DTE,WEC,DTE Energy,WEC Energy Group,Utilities Midwest
+CMS,WEC,CMS Energy,WEC Energy Group,Utilities Midwest
+CMS,DTE,CMS Energy,DTE Energy,Utilities Michigan
+DTE,AEE,DTE Energy,Ameren,Utilities Midwest
+AEE,CMS,Ameren,CMS Energy,Utilities Midwest
+EVRG,AEE,Evergy,Ameren,Utilities Midwest
+EVRG,LNT,Evergy,Alliant Energy,Utilities Midwest
+OGE,EVRG,OGE Energy,Evergy,Utilities Plains
+ED,ES,Consolidated Edison,Eversource Energy,Utilities Northeast
+ED,PEG,Consolidated Edison,Public Service Enterprise Group,Utilities Northeast
+PEG,EXC,Public Service Enterprise Group,Exelon,Utilities Mid-Atlantic
+EXC,PPL,Exelon,PPL Corporation,Utilities Mid-Atlantic
+PPL,FE,PPL Corporation,FirstEnergy,Utilities Mid-Atlantic
+FE,EXC,FirstEnergy,Exelon,Utilities Mid-Atlantic
+PPL,AEP,PPL Corporation,American Electric Power,Utilities
+EIX,PCG,Edison International,PG&E Corporation,Utilities California
+SRE,EIX,Sempra,Edison International,Utilities California
+CNP,NI,CenterPoint Energy,NiSource,Utilities gas-heavy
+NEE,DUK,NextEra Energy,Duke Energy,Utilities large-cap
+PNW,IDA,Pinnacle West Capital,IDACORP,Utilities West
+POR,IDA,Portland General,IDACORP,Utilities West
+PNW,POR,Pinnacle West Capital,Portland General,Utilities West
+ATO,OGS,Atmos Energy,ONE Gas,Gas utilities
+OGS,SR,ONE Gas,Spire,Gas utilities
+AWK,CWT,American Water Works,California Water,Water utilities
+CWT,AWR,California Water,American States Water,Water utilities
+CEG,VST,Constellation Energy,Vistra Corp.,Power generators
+VST,NRG,Vistra Corp.,NRG Energy,Power generators
+JPM,BAC,JPMorgan Chase,Bank of America,Money-center banks
+BAC,C,Bank of America,Citigroup,Money-center banks
+C,WFC,Citigroup,Wells Fargo,Money-center banks
+JPM,WFC,JPMorgan Chase,Wells Fargo,Money-center banks
+BAC,WFC,Bank of America,Wells Fargo,Money-center banks
+JPM,C,JPMorgan Chase,Citigroup,Money-center banks
+USB,PNC,U.S. Bancorp,PNC Financial Services,Super-regional banks
+PNC,TFC,PNC Financial Services,Truist Financial,Super-regional banks
+USB,TFC,U.S. Bancorp,Truist Financial,Super-regional banks
+PNC,FITB,PNC Financial Services,Fifth Third Bancorp,Super-regional banks
+FITB,HBAN,Fifth Third Bancorp,Huntington Bancshares,Regional banks
+HBAN,KEY,Huntington Bancshares,KeyCorp,Regional banks
+KEY,CFG,KeyCorp,Citizens Financial Group,Regional banks
+CFG,RF,Citizens Financial Group,Regions Financial Corporation,Regional banks
+RF,FITB,Regions Financial Corporation,Fifth Third Bancorp,Regional banks
+MTB,CFG,M&T Bank,Citizens Financial Group,Regional banks
+HBAN,RF,Huntington Bancshares,Regions Financial Corporation,Regional banks
+KEY,FITB,KeyCorp,Fifth Third Bancorp,Regional banks
+TFC,RF,Truist Financial,Regions Financial Corporation,Regional banks
+ZION,WAL,Zions,Western Alliance,Regional banks West
+ZION,KEY,Zions,KeyCorp,Regional banks
+EWBC,CATY,East West Bancorp,Cathay General,Regional banks
+FHN,RF,First Horizon,Regions Financial Corporation,Regional banks South
+WBS,VLY,Webster Financial,Valley National,Regional banks Northeast
+CFR,BOKF,Cullen/Frost,BOK Financial,Regional banks Texas/OK
+PB,CFR,Prosperity Bancshares,Cullen/Frost,Regional banks Texas
+ASB,ONB,Associated Banc-Corp,Old National,Regional banks Midwest
+UMBF,CBSH,UMB Financial,Commerce Bancshares,Regional banks Midwest
+GS,MS,Goldman Sachs,Morgan Stanley,Investment banks
+SCHW,IBKR,Charles Schwab Corporation,Interactive Brokers,Brokers
+RJF,SF,Raymond James Financial,Stifel,Wealth/brokerage
+LPLA,RJF,LPL Financial,Raymond James Financial,Wealth/brokerage
+EVR,LAZ,Evercore,Lazard,Advisory boutiques
+EVR,PJT,Evercore,PJT Partners,Advisory boutiques
+BX,KKR,Blackstone Inc.,KKR & Co.,Alt managers
+KKR,APO,KKR & Co.,Apollo Global Management,Alt managers
+APO,ARES,Apollo Global Management,Ares Management,Alt managers
+BX,APO,Blackstone Inc.,Apollo Global Management,Alt managers
+ARES,OWL,Ares Management,Blue Owl,Alt managers
+CG,KKR,Carlyle,KKR & Co.,Alt managers
+TROW,BEN,T. Rowe Price,Franklin Resources,Traditional asset managers
+BEN,IVZ,Franklin Resources,Invesco,Traditional asset managers
+TROW,IVZ,T. Rowe Price,Invesco,Traditional asset managers
+STT,NTRS,State Street Corporation,Northern Trust,Custody banks
+BNY,STT,BNY Mellon,State Street Corporation,Custody banks
+NTRS,BNY,Northern Trust,BNY Mellon,Custody banks
+AXP,COF,American Express,Capital One,Card issuers
+COF,SYF,Capital One,Synchrony Financial,Card issuers
+SYF,BFH,Synchrony Financial,Bread Financial,Private-label cards
+V,MA,Visa Inc.,Mastercard,Card networks
+PYPL,XYZ,PayPal,"Block, Inc.",Digital payments
+CPAY,WEX,Corpay,WEX,Fleet payments
+CB,TRV,Chubb Limited,Travelers Companies (The),P&C insurers
+TRV,HIG,Travelers Companies (The),Hartford (The),P&C insurers
+AIG,HIG,American International Group,Hartford (The),P&C insurers
+ALL,PGR,Allstate,Progressive Corporation,Personal auto insurers
+WRB,MKL,W. R. Berkley Corporation,Markel,Specialty insurers
+CINF,WRB,Cincinnati Financial,W. R. Berkley Corporation,P&C insurers
+AFG,CINF,American Financial,Cincinnati Financial,P&C insurers
+SIGI,THG,Selective Insurance,Hanover Insurance,Regional P&C insurers
+KNSL,RLI,Kinsale,RLI,E&S insurers
+ACGL,AXS,Arch Capital Group,AXIS Capital,Specialty insurers
+RNR,EG,RenaissanceRe,Everest Group,Reinsurers
+MET,PRU,MetLife,Prudential Financial,Life insurers
+PRU,LNC,Prudential Financial,Lincoln National,Life insurers
+CRBG,EQH,Corebridge,Equitable,Annuity writers
+AFL,UNM,Aflac,Unum,Supplemental insurers
+UNM,GL,Unum,Globe Life,Supplemental insurers
+AON,MRSH,Aon plc,Marsh McLennan,Insurance brokers
+MRSH,AJG,Marsh McLennan,Arthur J. Gallagher & Co.,Insurance brokers
+AJG,BRO,Arthur J. Gallagher & Co.,Brown & Brown,Insurance brokers
+WTW,AON,Willis Towers Watson,Aon plc,Insurance brokers
+PSA,EXR,Public Storage,Extra Space Storage,Self-storage REITs
+EXR,CUBE,Extra Space Storage,CubeSmart,Self-storage REITs
+PSA,CUBE,Public Storage,CubeSmart,Self-storage REITs
+EQIX,DLR,Equinix,Digital Realty,Data center REITs
+AMT,CCI,American Tower,Crown Castle,Tower REITs
+CCI,SBAC,Crown Castle,SBA Communications,Tower REITs
+AMT,SBAC,American Tower,SBA Communications,Tower REITs
+PLD,FR,Prologis,First Industrial,Industrial REITs
+PLD,EGP,Prologis,EastGroup,Industrial REITs
+EGP,FR,EastGroup,First Industrial,Industrial REITs
+REXR,TRNO,Rexford Industrial,Terreno,Industrial REITs
+O,NNN,Realty Income,NNN REIT,Net lease REITs
+O,ADC,Realty Income,Agree Realty,Net lease REITs
+NNN,ADC,NNN REIT,Agree Realty,Net lease REITs
+NNN,EPRT,NNN REIT,Essential Properties,Net lease REITs
+WPC,O,W. P. Carey,Realty Income,Net lease REITs
+SPG,MAC,Simon Property Group,Macerich,Mall REITs
+KIM,REG,Kimco Realty,Regency Centers,Shopping center REITs
+REG,FRT,Regency Centers,Federal Realty Investment Trust,Shopping center REITs
+KIM,BRX,Kimco Realty,Brixmor,Shopping center REITs
+FRT,KIM,Federal Realty Investment Trust,Kimco Realty,Shopping center REITs
+BRX,REG,Brixmor,Regency Centers,Shopping center REITs
+CPT,MAA,Camden Property Trust,Mid-America Apartment Communities,Apartment REITs Sunbelt
+ESS,UDR,Essex Property Trust,"UDR, Inc.",Apartment REITs coastal
+UDR,CPT,"UDR, Inc.",Camden Property Trust,Apartment REITs
+VMRK,ESS,Vivmark Residential,Essex Property Trust,Apartment REITs coastal
+INVH,AMH,Invitation Homes,American Homes 4 Rent,Single-family rental REITs
+SUI,ELS,Sun Communities,Equity LifeStyle,Manufactured housing REITs
+WELL,VTR,Welltower,Ventas,Senior housing REITs
+VTR,DOC,Ventas,Healthpeak Properties,Health care REITs
+OHI,SBRA,Omega Healthcare,Sabra,Skilled nursing REITs
+BXP,VNO,"BXP, Inc.",Vornado,Office REITs
+SLG,VNO,SL Green,Vornado,Office REITs NYC
+CUZ,HIW,Cousins Properties,Highwoods,Office REITs Sunbelt
+HST,PK,Host Hotels & Resorts,Park Hotels,Hotel REITs
+VICI,GLPI,Vici Properties,Gaming and Leisure Properties,Gaming REITs
+LAMR,OUT,Lamar,Outfront Media,Billboard REITs
+CBRE,JLL,CBRE Group,Jones Lang LaSalle,Real estate services
+MRK,PFE,Merck & Co.,Pfizer,Big pharma
+PFE,BMY,Pfizer,Bristol Myers Squibb,Big pharma
+BMY,MRK,Bristol Myers Squibb,Merck & Co.,Big pharma
+JNJ,MRK,Johnson & Johnson,Merck & Co.,Big pharma
+JNJ,PFE,Johnson & Johnson,Pfizer,Big pharma
+ABBV,BMY,AbbVie,Bristol Myers Squibb,Big pharma
+AZN,NVS,AstraZeneca,Novartis,European pharma
+GSK,SNY,GSK,Sanofi,European pharma
+AZN,GSK,AstraZeneca,GSK,European pharma
+VTRS,TEVA,Viatris,Teva,Generics
+ZTS,ELAN,Zoetis,Elanco,Animal health
+AMGN,GILD,Amgen,Gilead Sciences,Large biotech
+ABBV,AMGN,AbbVie,Amgen,Large biopharma
+SYK,ZBH,Stryker Corporation,Zimmer Biomet,Orthopedics
+ZBH,SNN,Zimmer Biomet,Smith & Nephew,Orthopedics
+MDT,BSX,Medtronic,Boston Scientific,Med devices
+ABT,MDT,Abbott Laboratories,Medtronic,Med devices
+BDX,BAX,Becton Dickinson,Baxter International,Hospital supplies
+GEHC,PHG,GE HealthCare,Philips,Imaging
+TMO,DHR,Thermo Fisher Scientific,Danaher Corporation,Life science tools
+TMO,A,Thermo Fisher Scientific,Agilent Technologies,Life science tools
+A,MTD,Agilent Technologies,Mettler Toledo,Lab instruments
+IQV,ICLR,IQVIA,ICON,CROs
+MCK,COR,McKesson,Cencora,Drug distributors
+COR,CAH,Cencora,Cardinal Health,Drug distributors
+CAH,MCK,Cardinal Health,McKesson,Drug distributors
+LH,DGX,Labcorp,Quest Diagnostics,Lab testing
+CVS,CI,CVS Health,Cigna,PBM / insurers
+HCA,UHS,HCA Healthcare,Universal Health Services,Hospitals
+HCA,THC,HCA Healthcare,Tenet,Hospitals
+UNH,ELV,UnitedHealth Group,Elevance Health,Managed care
+ELV,CI,Elevance Health,Cigna,Managed care
+CNC,MOH,Centene Corporation,Molina,Medicaid managed care
+HUM,UNH,Humana,UnitedHealth Group,Medicare Advantage
+KO,PEP,Coca-Cola Company (The),PepsiCo,Soft drinks
+TAP,BUD,Molson Coors,AB InBev,Brewers
+STZ,TAP,Constellation Brands,Molson Coors,Brewers
+BF-B,DEO,Brown-Forman,Diageo,Spirits
+MO,BTI,Altria,British American Tobacco,Tobacco
+PG,CL,Procter & Gamble,Colgate-Palmolive,Household products
+CL,CHD,Colgate-Palmolive,Church & Dwight,Household products
+CHD,CLX,Church & Dwight,Clorox,Household products
+PG,KMB,Procter & Gamble,Kimberly-Clark,Household products
+CL,KMB,Colgate-Palmolive,Kimberly-Clark,Household products
+PG,CHD,Procter & Gamble,Church & Dwight,Household products
+CL,CLX,Colgate-Palmolive,Clorox,Household products
+GIS,CAG,General Mills,Conagra,Packaged food
+CAG,CPB,Conagra,Campbell's,Packaged food
+CPB,SJM,Campbell's,J.M. Smucker Company (The),Packaged food
+SJM,CAG,J.M. Smucker Company (The),Conagra,Packaged food
+GIS,CPB,General Mills,Campbell's,Packaged food
+GIS,POST,General Mills,Post Holdings,Packaged food
+HSY,MDLZ,Hershey Company (The),Mondelez International,Confectionery
+PEP,MDLZ,PepsiCo,Mondelez International,Snacks
+HRL,TSN,Hormel Foods,Tyson Foods,Protein
+TSN,PPC,Tyson Foods,Pilgrim's Pride,Chicken
+WMT,COST,Walmart,Costco,Mass retail
+BJ,COST,BJ's Wholesale,Costco,Warehouse clubs
+DG,DLTR,Dollar General,Dollar Tree,Dollar stores
+KR,ACI,Kroger,Albertsons,Grocers
+CASY,MUSA,Casey's,Murphy USA,Convenience stores
+SYY,USFD,Sysco,US Foods,Foodservice distribution
+USFD,PFGC,US Foods,Performance Food Group,Foodservice distribution
+SYY,PFGC,Sysco,Performance Food Group,Foodservice distribution
+GM,F,General Motors,Ford Motor Company,Detroit automakers
+F,STLA,Ford Motor Company,Stellantis,Automakers
+TM,HMC,Toyota,Honda,Japanese automakers
+APTV,LEA,Aptiv,Lear,Auto parts
+BWA,LEA,BorgWarner,Lear,Auto parts
+AZO,ORLY,AutoZone,O'Reilly Automotive,Auto parts retail
+GPC,LKQ,Genuine Parts Company,LKQ,Auto parts distribution
+AN,LAD,AutoNation,Lithia Motors,Auto dealers
+PAG,GPI,Penske Automotive,Group 1 Automotive,Auto dealers
+LAD,GPI,Lithia Motors,Group 1 Automotive,Auto dealers
+ABG,AN,Asbury Automotive,AutoNation,Auto dealers
+HD,LOW,Home Depot (The),Lowe's,Home improvement
+DHI,LEN,D. R. Horton,Lennar,Homebuilders
+LEN,PHM,Lennar,PulteGroup,Homebuilders
+PHM,DHI,PulteGroup,D. R. Horton,Homebuilders
+NVR,PHM,"NVR, Inc.",PulteGroup,Homebuilders
+DHI,NVR,D. R. Horton,"NVR, Inc.",Homebuilders
+TOL,PHM,Toll Brothers,PulteGroup,Homebuilders
+KBH,MTH,KB Home,Meritage Homes,Homebuilders
+TMHC,MTH,Taylor Morrison,Meritage Homes,Homebuilders
+TJX,ROST,TJX Companies,Ross Stores,Off-price retail
+ROST,BURL,Ross Stores,Burlington,Off-price retail
+TJX,BURL,TJX Companies,Burlington,Off-price retail
+ANF,AEO,Abercrombie & Fitch,American Eagle,Teen apparel
+AEO,URBN,American Eagle,Urban Outfitters,Teen apparel
+M,KSS,Macy's,Kohl's,Department stores
+RL,TPR,Ralph Lauren Corporation,"Tapestry, Inc.",Luxury/accessible luxury
+PVH,RL,PVH,Ralph Lauren Corporation,Apparel brands
+VFC,PVH,VF Corp,PVH,Apparel brands
+NKE,LULU,"Nike, Inc.",Lululemon Athletica,Athletic apparel
+MCD,YUM,McDonald's,Yum! Brands,Quick service
+YUM,QSR,Yum! Brands,Restaurant Brands,Quick service
+MCD,QSR,McDonald's,Restaurant Brands,Quick service
+DPZ,PZZA,Domino's,Papa John's,Pizza chains
+DRI,TXRH,Darden Restaurants,Texas Roadhouse,Casual dining
+DRI,EAT,Darden Restaurants,Brinker,Casual dining
+TXRH,EAT,Texas Roadhouse,Brinker,Casual dining
+MAR,HLT,Marriott International,Hilton Worldwide,Hotels
+HLT,H,Hilton Worldwide,Hyatt,Hotels
+MAR,H,Marriott International,Hyatt,Hotels
+WH,CHH,Wyndham Hotels,Choice Hotels,Economy hotels
+CCL,RCL,Carnival Corporation,Royal Caribbean Group,Cruise lines
+RCL,NCLH,Royal Caribbean Group,Norwegian Cruise Line Holdings,Cruise lines
+CCL,NCLH,Carnival Corporation,Norwegian Cruise Line Holdings,Cruise lines
+BKNG,EXPE,Booking Holdings,Expedia Group,Online travel
+VAC,HGV,Marriott Vacations,Hilton Grand Vacations,Timeshare
+LVS,WYNN,Las Vegas Sands,Wynn Resorts,Casinos Macau/LV
+WYNN,MGM,Wynn Resorts,MGM Resorts,Casinos
+MGM,LVS,MGM Resorts,Las Vegas Sands,Casinos
+CZR,MGM,Caesars,MGM Resorts,Casinos
+CZR,BYD,Caesars,Boyd Gaming,Regional casinos
+DKNG,FLUT,DraftKings,Flutter,Online betting
+HAS,MAT,Hasbro,Mattel,Toys
+THO,WGO,Thor Industries,Winnebago,RVs
+PII,HOG,Polaris,Harley-Davidson,Powersports
+DKS,ASO,Dick's Sporting Goods,Academy Sports,Sporting goods
+WSM,RH,"Williams-Sonoma, Inc.",RH,Home furnishings
+FIVE,OLLI,Five Below,Ollie's,Discount retail
+EBAY,ETSY,eBay Inc.,Etsy,Online marketplaces
+T,VZ,AT&T,Verizon,Telecom
+VZ,TMUS,Verizon,T-Mobile US,Telecom
+T,TMUS,AT&T,T-Mobile US,Telecom
+CMCSA,CHTR,Comcast,Charter Communications,Cable
+GOOGL,META,Alphabet Inc. (Class A),Meta Platforms,Digital advertising
+PINS,SNAP,Pinterest,Snap,Social media
+DIS,CMCSA,Walt Disney Company (The),Comcast,Media conglomerates
+OMC,WPP,Omnicom Group,WPP,Ad agencies
+TXN,ADI,Texas Instruments,Analog Devices,Analog semis
+ADI,MCHP,Analog Devices,Microchip Technology,Analog/MCU semis
+MCHP,NXPI,Microchip Technology,NXP Semiconductors,MCU semis
+NXPI,ON,NXP Semiconductors,ON Semiconductor,Auto semis
+TXN,MCHP,Texas Instruments,Microchip Technology,Analog/MCU semis
+NXPI,STM,NXP Semiconductors,STMicroelectronics,Auto/industrial semis
+ADI,NXPI,Analog Devices,NXP Semiconductors,Analog semis
+ON,STM,ON Semiconductor,STMicroelectronics,Power semis
+MRVL,AVGO,Marvell Technology,Broadcom,Custom silicon/networking
+TSM,UMC,TSMC,UMC,Foundries
+ENPH,SEDG,Enphase,SolarEdge,Residential solar
+AMAT,LRCX,Applied Materials,Lam Research,Semi equipment
+LRCX,KLAC,Lam Research,KLA Corporation,Semi equipment
+AMAT,KLAC,Applied Materials,KLA Corporation,Semi equipment
+ASML,AMAT,ASML,Applied Materials,Semi equipment
+ONTO,NVMI,Onto Innovation,Nova,Semi metrology
+MKSI,ENTG,MKS,Entegris,Semi materials/subsystems
+HPQ,DELL,HP Inc.,Dell Technologies,PCs
+NTAP,P,NetApp,Everpure,Enterprise storage
+STX,WDC,Seagate Technology,Western Digital,Hard drives
+ANET,CSCO,Arista Networks,Cisco,Networking
+FLEX,JBL,Flex Ltd.,Jabil,EMS
+APH,TEL,Amphenol,TE Connectivity,Connectors
+ARW,AVT,Arrow Electronics,Avnet,Electronics distribution
+CDNS,SNPS,Cadence Design Systems,Synopsys,EDA software
+PANW,CRWD,Palo Alto Networks,CrowdStrike,Cybersecurity
+PANW,FTNT,Palo Alto Networks,Fortinet,Cybersecurity
+FTNT,CHKP,Fortinet,Check Point,Firewalls
+CRWD,ZS,CrowdStrike,Zscaler,Cybersecurity
+DDOG,DT,Datadog,Dynatrace,Observability
+SNOW,MDB,Snowflake,MongoDB,Data platforms
+ADSK,PTC,Autodesk,PTC Inc.,Design software
+IBM,ACN,IBM,Accenture,IT services
+ACN,CTSH,Accenture,Cognizant,IT services
+CTSH,INFY,Cognizant,Infosys,IT services
+INFY,WIT,Infosys,Wipro,Indian IT services
+EPAM,GLOB,EPAM,Globant,IT services
+MAA,UDR,Mid-America Apartment Communities,"UDR, Inc.",Apartment REITs
+HIG,CINF,Hartford (The),Cincinnati Financial,P&C insurers
+PSX,DINO,Phillips 66,HF Sinclair,Refiners
+CVX,COP,Chevron Corporation,ConocoPhillips,Integrated oil
+ELV,HUM,Elevance Health,Humana,Managed care
+TRV,ALL,Travelers Companies (The),Allstate,P&C insurers
+WFC,USB,Wells Fargo,U.S. Bancorp,Banks
+MS,SCHW,Morgan Stanley,Charles Schwab Corporation,Wealth/brokerage
+ADI,ON,Analog Devices,ON Semiconductor,Analog/power semis

@@ -1,0 +1,33 @@
+ticker_a,ticker_b,name_a,name_b,group,reason
+GOOGL,GOOG,Alphabet Inc. (Class A),Alphabet (C),Digital advertising,"Same company (share classes), not a rivals trade"
+FOXA,FOX,Fox Corporation (Class A),Fox (B),Broadcasting,Same company (share classes)
+NWSA,NWS,News Corp (Class A),News Corp (B),Publishing,Same company (share classes)
+UNP,NSC,Union Pacific Corporation,Norfolk Southern,Railroads,"Pending UNP-NSC merger (STB review, close targeted 2027): spread trades on deal terms"
+CSX,NSC,CSX Corporation,Norfolk Southern,Railroads,"NSC now prices off the UNP takeover, not rail fundamentals"
+AWK,WTRG,American Water Works,Essential Utilities,Water utilities,Pending all-stock merger (close targeted Q1 2027): pure merger-arb spread
+KMB,KVUE,Kimberly-Clark,Kenvue,Household products,KMB is acquiring Kenvue: deal-driven spread
+KO,KDP,Coca-Cola Company (The),Keurig Dr Pepper,Soft drinks,KDP bought JDE Peet's and is splitting into beverage + coffee companies
+PEP,KDP,PepsiCo,Keurig Dr Pepper,Soft drinks,Same: KDP is mid-transformation
+KHC,GIS,Kraft Heinz,General Mills,Packaged food,Kraft Heinz is splitting into two companies
+MMM,HON,3M,Honeywell Technologies,Conglomerates,Honeywell has been breaking itself up (aerospace and materials spun off)
+WAT,MTD,Waters Corporation,Mettler Toledo,Lab instruments,Waters absorbed BD's biosciences/diagnostics unit in Feb 2026: different company now
+FIS,GPN,Fidelity National Information Services,Global Payments,Payments,GPN and FIS swapped businesses (Worldpay / Issuer Solutions): history no longer comparable
+FIS,FISV,Fidelity National Information Services,Fiserv,Payments,Fiserv's late-2025 guidance reset broke the relationship
+LLY,NVO,Lilly (Eli),Novo Nordisk,Big pharma,"GLP-1 share war: textbook structural divergence, Lilly keeps taking share"
+NVDA,AMD,Nvidia,Advanced Micro Devices,Semis,AI-accelerator dominance; spread trends instead of reverting
+INTC,AMD,Intel,Advanced Micro Devices,Semis,Multi-year market-share transfer to AMD; zero-sum rivalry
+TSLA,GM,"Tesla, Inc.",General Motors,Automakers,"Tesla trades as a tech/AI story, not an automaker"
+RIVN,LCID,Rivian,Lucid,EVs,Cash-burn and dilution driven; no stable relationship
+MO,PM,Altria,Philip Morris International,Tobacco,PM's smoke-free growth (Zyn/IQOS) vs MO's decline: structural
+WMT,TGT,Walmart,Target Corporation,Mass retail,Target's multi-year share loss to Walmart
+MNST,CELH,Monster Beverage,Celsius,Energy drinks,"Celsius is a momentum/distribution story, not a stable comp"
+NKE,DECK,"Nike, Inc.",Deckers Brands,Athletic footwear,Hoka/Ugg growth partly comes out of Nike's share
+KMX,CVNA,CarMax,Carvana,Used cars,Carvana is taking share from CarMax
+ORLY,AAP,O'Reilly Automotive,Advance Auto Parts,Auto parts retail,Advance Auto's restructuring and share loss
+SBUX,MCD,Starbucks,McDonald's,Restaurants,Different businesses; Starbucks turnaround is idiosyncratic
+AMZN,EBAY,Amazon,eBay Inc.,Internet retail,"No longer comparable businesses (AWS, ads, logistics)"
+NFLX,DIS,Netflix,Walt Disney Company (The),Media,Pure-play streaming vs parks/media conglomerate
+SMCI,DELL,Supermicro,Dell Technologies,Servers,Super Micro's governance/accounting issues dominate its price
+REGN,VRTX,Regeneron Pharmaceuticals,Vertex Pharmaceuticals,Biotech,"Driven by pipeline readouts, not shared fundamentals"
+MRNA,BNTX,Moderna,BioNTech,Biotech,Binary pipeline/vaccine-demand bets
+FSLR,ENPH,First Solar,Enphase,Solar,Utility-scale/tariff winner vs residential: policy-driven divergence
