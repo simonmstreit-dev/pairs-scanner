@@ -10,6 +10,9 @@ on:
     - cron: "5 13 * * 1-5"
     - cron: "35 13 * * 1-5"
   workflow_dispatch: {}
+  # Editing .github/run-now forces an immediate scan (used for testing).
+  push:
+    paths: [".github/run-now"]
 
 permissions:
   contents: write
@@ -33,7 +36,7 @@ jobs:
       - run: pip install -r requirements.txt
 
       - name: Run scan
-        run: python scan.py ${{ github.event_name == 'workflow_dispatch' && '--force' || '' }}
+        run: python scan.py ${{ github.event_name != 'schedule' && '--force' || '' }}
 
       - name: Commit results
         if: always()
