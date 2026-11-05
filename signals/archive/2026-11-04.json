@@ -1,0 +1,484 @@
+{
+ "trading_date": "2026-11-04",
+ "generated_at_et": "2026-11-04 22:29",
+ "generated_at_utc": "2026-11-05T03:29:30+00:00",
+ "status": "ok",
+ "premarket_coverage": "594/596 tickers",
+ "thresholds": {
+  "z_flag": 2.0,
+  "z_extreme": 4.0,
+  "z_window": 60
+ },
+ "counts": {
+  "pairs": 468,
+  "tier_A": 17,
+  "tier_B": 25,
+  "dormant": 424,
+  "no_data": 2,
+  "flagged": 9
+ },
+ "tickers_without_data": [
+  "TMHC"
+ ],
+ "flags": [
+  {
+   "pair": "DUK/SO",
+   "a": "DUK",
+   "b": "SO",
+   "name_a": "Duke Energy",
+   "name_b": "Southern Company",
+   "group": "Utilities Southeast",
+   "tier": "A",
+   "z_pre": 4.71,
+   "z_close": 0.38,
+   "z_change_overnight": 4.33,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": true,
+   "trade": "short DUK / long SO",
+   "hedge": "$8,863 of SO per $10,000 of DUK",
+   "beta": 0.886,
+   "half_life_days": 5.3,
+   "coint_p": 0.037,
+   "corr": 0.88,
+   "premarket_move_pct": {
+    "DUK": 2.3,
+    "SO": -0.8
+   },
+   "last_session_move_pct": {
+    "DUK": -1.46,
+    "SO": -0.91
+   },
+   "premarket_volume": {
+    "DUK": 5276309,
+    "SO": 16802065
+   },
+   "thin_premarket": false,
+   "used_premarket": true,
+   "prices": {
+    "DUK": 129.42,
+    "SO": 93.0
+   },
+   "enrichment": {
+    "DUK": {
+     "earnings_recent": null,
+     "earnings_next": "2026-11-05",
+     "forward_pe": 18.1
+    },
+    "SO": {
+     "earnings_recent": null,
+     "earnings_next": "2026-11-05",
+     "forward_pe": 18.9
+    }
+   }
+  },
+  {
+   "pair": "PSA/CUBE",
+   "a": "PSA",
+   "b": "CUBE",
+   "name_a": "Public Storage",
+   "name_b": "CubeSmart",
+   "group": "Self-storage REITs",
+   "tier": "A",
+   "z_pre": -3.5,
+   "z_close": -2.43,
+   "z_change_overnight": -1.07,
+   "kind": "extended",
+   "days_extended": 2,
+   "extreme": false,
+   "trade": "short CUBE / long PSA",
+   "hedge": "$12,243 of CUBE per $10,000 of PSA",
+   "beta": 1.224,
+   "half_life_days": 5.6,
+   "coint_p": 0.001,
+   "corr": 0.86,
+   "premarket_move_pct": {
+    "PSA": 2.81,
+    "CUBE": 3.68
+   },
+   "last_session_move_pct": {
+    "PSA": 0.05,
+    "CUBE": -0.02
+   },
+   "premarket_volume": {
+    "PSA": 2018061,
+    "CUBE": 2427349
+   },
+   "thin_premarket": false,
+   "used_premarket": true,
+   "prices": {
+    "PSA": 342.76,
+    "CUBE": 45.89
+   },
+   "enrichment": {
+    "PSA": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 34.5
+    },
+    "CUBE": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 28.9
+    }
+   }
+  },
+  {
+   "pair": "LRCX/KLAC",
+   "a": "LRCX",
+   "b": "KLAC",
+   "name_a": "Lam Research",
+   "name_b": "KLA Corporation",
+   "group": "Semi equipment",
+   "tier": "A",
+   "z_pre": -2.12,
+   "z_close": -2.45,
+   "z_change_overnight": 0.32,
+   "kind": "extended",
+   "days_extended": 2,
+   "extreme": false,
+   "trade": "short KLAC / long LRCX",
+   "hedge": "$11,850 of KLAC per $10,000 of LRCX",
+   "beta": 1.185,
+   "half_life_days": 10.8,
+   "coint_p": 0.045,
+   "corr": 0.88,
+   "premarket_move_pct": {
+    "LRCX": -5.08,
+    "KLAC": -5.11
+   },
+   "last_session_move_pct": {
+    "LRCX": 1.39,
+    "KLAC": 2.02
+   },
+   "premarket_volume": {
+    "LRCX": 11393749,
+    "KLAC": 11868927
+   },
+   "thin_premarket": false,
+   "used_premarket": true,
+   "prices": {
+    "LRCX": 219.0,
+    "KLAC": 148.22
+   },
+   "enrichment": {
+    "LRCX": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 18.1
+    },
+    "KLAC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 21.1
+    }
+   }
+  },
+  {
+   "pair": "PRU/LNC",
+   "a": "PRU",
+   "b": "LNC",
+   "name_a": "Prudential Financial",
+   "name_b": "Lincoln National",
+   "group": "Life insurers",
+   "tier": "B",
+   "z_pre": 8.99,
+   "z_close": 0.04,
+   "z_change_overnight": 8.95,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": true,
+   "trade": "short PRU / long LNC",
+   "hedge": "$7,750 of LNC per $10,000 of PRU",
+   "beta": 0.775,
+   "half_life_days": 15.5,
+   "coint_p": 0.097,
+   "corr": 0.62,
+   "premarket_move_pct": {
+    "PRU": 6.47,
+    "LNC": -8.23
+   },
+   "last_session_move_pct": {
+    "PRU": 0.43,
+    "LNC": 1.44
+   },
+   "premarket_volume": {
+    "PRU": 2842118,
+    "LNC": 3273841
+   },
+   "thin_premarket": false,
+   "used_premarket": true,
+   "prices": {
+    "PRU": 126.5,
+    "LNC": 38.75
+   },
+   "enrichment": {
+    "PRU": {
+     "earnings_recent": "2026-11-03",
+     "earnings_next": null,
+     "forward_pe": 9.3
+    },
+    "LNC": {
+     "earnings_recent": null,
+     "earnings_next": "2026-11-05",
+     "forward_pe": 4.8
+    }
+   }
+  },
+  {
+   "pair": "FE/EXC",
+   "a": "FE",
+   "b": "EXC",
+   "name_a": "FirstEnergy",
+   "name_b": "Exelon",
+   "group": "Utilities Mid-Atlantic",
+   "tier": "B",
+   "z_pre": -2.88,
+   "z_close": -1.38,
+   "z_change_overnight": -1.5,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": false,
+   "trade": "short EXC / long FE",
+   "hedge": "$8,763 of EXC per $10,000 of FE",
+   "beta": 0.876,
+   "half_life_days": 10.6,
+   "coint_p": 0.078,
+   "corr": 0.8,
+   "premarket_move_pct": {
+    "FE": -0.19,
+    "EXC": 1.63
+   },
+   "last_session_move_pct": {
+    "FE": -0.92,
+    "EXC": -2.05
+   },
+   "premarket_volume": {
+    "FE": 7951919,
+    "EXC": 9634728
+   },
+   "thin_premarket": false,
+   "used_premarket": true,
+   "prices": {
+    "FE": 47.1,
+    "EXC": 46.24
+   },
+   "enrichment": {
+    "FE": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 16.0
+    },
+    "EXC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 15.3
+    }
+   }
+  },
+  {
+   "pair": "PH/ITW",
+   "a": "PH",
+   "b": "ITW",
+   "name_a": "Parker Hannifin",
+   "name_b": "Illinois Tool Works",
+   "group": "Diversified industrials",
+   "tier": "B",
+   "z_pre": -2.85,
+   "z_close": -1.7,
+   "z_change_overnight": -1.16,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": false,
+   "trade": "short ITW / long PH",
+   "hedge": "$9,370 of ITW per $10,000 of PH",
+   "beta": 0.937,
+   "half_life_days": 5.2,
+   "coint_p": 0.002,
+   "corr": 0.53,
+   "premarket_move_pct": {
+    "PH": -2.36,
+    "ITW": 2.38
+   },
+   "last_session_move_pct": {
+    "PH": 1.8,
+    "ITW": -1.18
+   },
+   "premarket_volume": {
+    "PH": 952407,
+    "ITW": 1103079
+   },
+   "thin_premarket": false,
+   "used_premarket": true,
+   "prices": {
+    "PH": 922.7,
+    "ITW": 293.45
+   },
+   "enrichment": {
+    "PH": {
+     "earnings_recent": null,
+     "earnings_next": "2026-11-05",
+     "forward_pe": 22.9
+    },
+    "ITW": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 23.8
+    }
+   }
+  },
+  {
+   "pair": "BF-B/DEO",
+   "a": "BF-B",
+   "b": "DEO",
+   "name_a": "Brown-Forman",
+   "name_b": "Diageo",
+   "group": "Spirits",
+   "tier": "B",
+   "z_pre": 2.84,
+   "z_close": 1.62,
+   "z_change_overnight": 1.22,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": false,
+   "trade": "short BF-B / long DEO",
+   "hedge": "$4,969 of DEO per $10,000 of BF-B",
+   "beta": 0.497,
+   "half_life_days": 7.6,
+   "coint_p": 0.0,
+   "corr": 0.58,
+   "premarket_move_pct": {
+    "BF-B": 4.66,
+    "DEO": 3.88
+   },
+   "last_session_move_pct": {
+    "BF-B": -3.5,
+    "DEO": -3.67
+   },
+   "premarket_volume": {
+    "BF-B": 4156418,
+    "DEO": 1886742
+   },
+   "thin_premarket": false,
+   "used_premarket": true,
+   "prices": {
+    "BF-B": 30.3,
+    "DEO": 97.7
+   },
+   "enrichment": {
+    "BF-B": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 17.9
+    },
+    "DEO": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 13.6
+    }
+   }
+  },
+  {
+   "pair": "UDR/CPT",
+   "a": "UDR",
+   "b": "CPT",
+   "name_a": "UDR, Inc.",
+   "name_b": "Camden Property Trust",
+   "group": "Apartment REITs",
+   "tier": "B",
+   "z_pre": 2.49,
+   "z_close": 2.72,
+   "z_change_overnight": -0.23,
+   "kind": "extended",
+   "days_extended": 1,
+   "extreme": false,
+   "trade": "short UDR / long CPT",
+   "hedge": "$10,155 of CPT per $10,000 of UDR",
+   "beta": 1.016,
+   "half_life_days": 11.8,
+   "coint_p": 0.088,
+   "corr": 0.87,
+   "premarket_move_pct": {
+    "UDR": 3.59,
+    "CPT": 3.77
+   },
+   "last_session_move_pct": {
+    "UDR": 0.06,
+    "CPT": -0.97
+   },
+   "premarket_volume": {
+    "UDR": 4993266,
+    "CPT": 743161
+   },
+   "thin_premarket": false,
+   "used_premarket": true,
+   "prices": {
+    "UDR": 37.22,
+    "CPT": 104.48
+   },
+   "enrichment": {
+    "UDR": {
+     "earnings_recent": "2026-11-02",
+     "earnings_next": null,
+     "forward_pe": 66.5
+    },
+    "CPT": {
+     "earnings_recent": null,
+     "earnings_next": "2026-11-05",
+     "forward_pe": 139.3
+    }
+   }
+  },
+  {
+   "pair": "SHW/RPM",
+   "a": "SHW",
+   "b": "RPM",
+   "name_a": "Sherwin-Williams",
+   "name_b": "RPM International",
+   "group": "Paints & coatings",
+   "tier": "B",
+   "z_pre": 2.15,
+   "z_close": -0.12,
+   "z_change_overnight": 2.27,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": false,
+   "trade": "short SHW / long RPM",
+   "hedge": "$7,817 of RPM per $10,000 of SHW",
+   "beta": 0.782,
+   "half_life_days": 12.1,
+   "coint_p": 0.086,
+   "corr": 0.8,
+   "premarket_move_pct": {
+    "SHW": 6.64,
+    "RPM": 3.51
+   },
+   "last_session_move_pct": {
+    "SHW": -3.26,
+    "RPM": -2.27
+   },
+   "premarket_volume": {
+    "SHW": 2359226,
+    "RPM": 1036876
+   },
+   "thin_premarket": false,
+   "used_premarket": true,
+   "prices": {
+    "SHW": 363.5,
+    "RPM": 109.05
+   },
+   "enrichment": {
+    "SHW": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 27.5
+    },
+    "RPM": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 16.5
+    }
+   }
+  }
+ ]
+}
