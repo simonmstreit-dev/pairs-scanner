@@ -1,0 +1,263 @@
+{
+ "trading_date": "2026-11-06",
+ "generated_at_et": "2026-11-06 08:44",
+ "generated_at_utc": "2026-11-06T13:44:35+00:00",
+ "status": "ok",
+ "premarket_coverage": "446/596 tickers",
+ "thresholds": {
+  "z_flag": 2.0,
+  "z_extreme": 4.0,
+  "z_window": 60
+ },
+ "counts": {
+  "pairs": 468,
+  "tier_A": 13,
+  "tier_B": 22,
+  "dormant": 428,
+  "no_data": 5,
+  "flagged": 5
+ },
+ "tickers_without_data": [
+  "APO",
+  "TMHC"
+ ],
+ "flags": [
+  {
+   "pair": "PSA/CUBE",
+   "a": "PSA",
+   "b": "CUBE",
+   "name_a": "Public Storage",
+   "name_b": "CubeSmart",
+   "group": "Self-storage REITs",
+   "tier": "A",
+   "z_pre": -2.45,
+   "z_close": -2.45,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 4,
+   "extreme": false,
+   "trade": "short CUBE / long PSA",
+   "hedge": "$12,059 of CUBE per $10,000 of PSA",
+   "beta": 1.206,
+   "half_life_days": 6.4,
+   "coint_p": 0.011,
+   "corr": 0.87,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "PSA": -0.66,
+    "CUBE": -1.13
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "PSA": 340.5,
+    "CUBE": 45.37
+   },
+   "enrichment": {
+    "PSA": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 36.1
+    },
+    "CUBE": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 28.5
+    }
+   }
+  },
+  {
+   "pair": "FE/EXC",
+   "a": "FE",
+   "b": "EXC",
+   "name_a": "FirstEnergy",
+   "name_b": "Exelon",
+   "group": "Utilities Mid-Atlantic",
+   "tier": "B",
+   "z_pre": -4.01,
+   "z_close": -2.89,
+   "z_change_overnight": -1.12,
+   "kind": "extended",
+   "days_extended": 2,
+   "extreme": true,
+   "trade": "short EXC / long FE",
+   "hedge": "$8,738 of EXC per $10,000 of FE",
+   "beta": 0.874,
+   "half_life_days": 9.9,
+   "coint_p": 0.055,
+   "corr": 0.8,
+   "premarket_move_pct": {
+    "FE": -2.34,
+    "EXC": -1.14
+   },
+   "last_session_move_pct": {
+    "FE": -0.17,
+    "EXC": 0.63
+   },
+   "premarket_volume": {
+    "FE": 0,
+    "EXC": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "FE": 46.0,
+    "EXC": 46.0
+   },
+   "enrichment": {
+    "FE": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 16.0
+    },
+    "EXC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 15.4
+    }
+   }
+  },
+  {
+   "pair": "PH/ITW",
+   "a": "PH",
+   "b": "ITW",
+   "name_a": "Parker Hannifin",
+   "name_b": "Illinois Tool Works",
+   "group": "Diversified industrials",
+   "tier": "B",
+   "z_pre": -2.56,
+   "z_close": -2.56,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 2,
+   "extreme": false,
+   "trade": "short ITW / long PH",
+   "hedge": "$8,883 of ITW per $10,000 of PH",
+   "beta": 0.888,
+   "half_life_days": 5.5,
+   "coint_p": 0.006,
+   "corr": 0.51,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "PH": -1.97,
+    "ITW": -2.74
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "PH": 892.29,
+    "ITW": 285.41
+   },
+   "enrichment": {
+    "PH": {
+     "earnings_recent": "2026-11-05",
+     "earnings_next": null,
+     "forward_pe": 22.4
+    },
+    "ITW": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 23.1
+    }
+   }
+  },
+  {
+   "pair": "TFC/RF",
+   "a": "TFC",
+   "b": "RF",
+   "name_a": "Truist Financial",
+   "name_b": "Regions Financial Corporation",
+   "group": "Regional banks",
+   "tier": "B",
+   "z_pre": 2.49,
+   "z_close": 2.47,
+   "z_change_overnight": 0.02,
+   "kind": "extended",
+   "days_extended": 2,
+   "extreme": false,
+   "trade": "short TFC / long RF",
+   "hedge": "$6,860 of RF per $10,000 of TFC",
+   "beta": 0.686,
+   "half_life_days": 9.8,
+   "coint_p": 0.097,
+   "corr": 0.87,
+   "premarket_move_pct": {
+    "TFC": -0.46,
+    "RF": -0.7
+   },
+   "last_session_move_pct": {
+    "TFC": -2.02,
+    "RF": -2.14
+   },
+   "premarket_volume": {
+    "TFC": 0,
+    "RF": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "TFC": 49.61,
+    "RF": 28.21
+   },
+   "enrichment": {
+    "TFC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 10.2
+    },
+    "RF": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 10.0
+    }
+   }
+  },
+  {
+   "pair": "UDR/CPT",
+   "a": "UDR",
+   "b": "CPT",
+   "name_a": "UDR, Inc.",
+   "name_b": "Camden Property Trust",
+   "group": "Apartment REITs",
+   "tier": "B",
+   "z_pre": 2.36,
+   "z_close": 2.36,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 3,
+   "extreme": false,
+   "trade": "short UDR / long CPT",
+   "hedge": "$10,112 of CPT per $10,000 of UDR",
+   "beta": 1.011,
+   "half_life_days": 11.8,
+   "coint_p": 0.069,
+   "corr": 0.87,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "UDR": -0.56,
+    "CPT": -0.74
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "UDR": 37.01,
+    "CPT": 103.71
+   },
+   "enrichment": {
+    "UDR": {
+     "earnings_recent": "2026-11-02",
+     "earnings_next": null,
+     "forward_pe": 66.1
+    },
+    "CPT": {
+     "earnings_recent": "2026-11-05",
+     "earnings_next": null,
+     "forward_pe": 138.3
+    }
+   }
+  }
+ ]
+}
