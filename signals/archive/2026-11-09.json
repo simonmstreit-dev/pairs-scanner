@@ -1,0 +1,428 @@
+{
+ "trading_date": "2026-11-09",
+ "generated_at_et": "2026-11-09 08:44",
+ "generated_at_utc": "2026-11-09T13:44:21+00:00",
+ "status": "ok",
+ "premarket_coverage": "445/596 tickers",
+ "thresholds": {
+  "z_flag": 2.0,
+  "z_extreme": 4.0,
+  "z_window": 60
+ },
+ "counts": {
+  "pairs": 468,
+  "tier_A": 13,
+  "tier_B": 22,
+  "dormant": 430,
+  "no_data": 3,
+  "flagged": 8
+ },
+ "tickers_without_data": [
+  "BXP",
+  "TMHC"
+ ],
+ "flags": [
+  {
+   "pair": "CRBG/EQH",
+   "a": "CRBG",
+   "b": "EQH",
+   "name_a": "Corebridge",
+   "name_b": "Equitable",
+   "group": "Annuity writers",
+   "tier": "A",
+   "z_pre": 5.83,
+   "z_close": 0.7,
+   "z_change_overnight": 5.12,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": true,
+   "trade": "short CRBG / long EQH",
+   "hedge": "$10,267 of EQH per $10,000 of CRBG",
+   "beta": 1.027,
+   "half_life_days": 6.8,
+   "coint_p": 0.002,
+   "corr": 0.92,
+   "premarket_move_pct": {
+    "CRBG": -0.0,
+    "EQH": -1.25
+   },
+   "last_session_move_pct": {
+    "CRBG": -0.44,
+    "EQH": -0.47
+   },
+   "premarket_volume": {
+    "CRBG": 0,
+    "EQH": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "CRBG": 34.09,
+    "EQH": 52.0
+   },
+   "enrichment": {
+    "CRBG": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 6.0
+    },
+    "EQH": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 5.9
+    }
+   }
+  },
+  {
+   "pair": "PSA/CUBE",
+   "a": "PSA",
+   "b": "CUBE",
+   "name_a": "Public Storage",
+   "name_b": "CubeSmart",
+   "group": "Self-storage REITs",
+   "tier": "A",
+   "z_pre": -2.51,
+   "z_close": -2.4,
+   "z_change_overnight": -0.11,
+   "kind": "extended",
+   "days_extended": 5,
+   "extreme": false,
+   "trade": "short CUBE / long PSA",
+   "hedge": "$11,738 of CUBE per $10,000 of PSA",
+   "beta": 1.174,
+   "half_life_days": 8.1,
+   "coint_p": 0.019,
+   "corr": 0.87,
+   "premarket_move_pct": {
+    "PSA": 1.05,
+    "CUBE": 1.07
+   },
+   "last_session_move_pct": {
+    "PSA": -0.89,
+    "CUBE": -0.77
+   },
+   "premarket_volume": {
+    "PSA": 0,
+    "CUBE": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "PSA": 340.99,
+    "CUBE": 45.5
+   },
+   "enrichment": {
+    "PSA": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 36.4
+    },
+    "CUBE": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 28.1
+    }
+   }
+  },
+  {
+   "pair": "CL/CHD",
+   "a": "CL",
+   "b": "CHD",
+   "name_a": "Colgate-Palmolive",
+   "name_b": "Church & Dwight",
+   "group": "Household products",
+   "tier": "A",
+   "z_pre": -2.17,
+   "z_close": -0.73,
+   "z_change_overnight": -1.44,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": false,
+   "trade": "short CHD / long CL",
+   "hedge": "$9,130 of CHD per $10,000 of CL",
+   "beta": 0.913,
+   "half_life_days": 6.7,
+   "coint_p": 0.014,
+   "corr": 0.76,
+   "premarket_move_pct": {
+    "CL": -0.43,
+    "CHD": 1.39
+   },
+   "last_session_move_pct": {
+    "CL": -2.16,
+    "CHD": -1.8
+   },
+   "premarket_volume": {
+    "CL": 0,
+    "CHD": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "CL": 96.14,
+    "CHD": 110.85
+   },
+   "enrichment": {
+    "CL": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 23.6
+    },
+    "CHD": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 27.0
+    }
+   }
+  },
+  {
+   "pair": "BRX/REG",
+   "a": "BRX",
+   "b": "REG",
+   "name_a": "Brixmor",
+   "name_b": "Regency Centers",
+   "group": "Shopping center REITs",
+   "tier": "B",
+   "z_pre": 3.96,
+   "z_close": 3.96,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 1,
+   "extreme": false,
+   "trade": "short BRX / long REG",
+   "hedge": "$12,877 of REG per $10,000 of BRX",
+   "beta": 1.288,
+   "half_life_days": 5.8,
+   "coint_p": 0.098,
+   "corr": 0.8,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "BRX": 0.27,
+    "REG": -1.89
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "BRX": 30.02,
+    "REG": 74.84
+   },
+   "enrichment": {
+    "BRX": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 31.3
+    },
+    "REG": {
+     "earnings_recent": "2026-11-05",
+     "earnings_next": null,
+     "forward_pe": 29.9
+    }
+   }
+  },
+  {
+   "pair": "FCX/TECK",
+   "a": "FCX",
+   "b": "TECK",
+   "name_a": "Freeport-McMoRan",
+   "name_b": "Teck Resources",
+   "group": "Copper",
+   "tier": "B",
+   "z_pre": -3.06,
+   "z_close": -2.66,
+   "z_change_overnight": -0.41,
+   "kind": "extended",
+   "days_extended": 6,
+   "extreme": false,
+   "trade": "short TECK / long FCX",
+   "hedge": "$10,008 of TECK per $10,000 of FCX",
+   "beta": 1.001,
+   "half_life_days": 9.8,
+   "coint_p": 0.067,
+   "corr": 0.78,
+   "premarket_move_pct": {
+    "FCX": 3.74,
+    "TECK": 5.08
+   },
+   "last_session_move_pct": {
+    "FCX": 2.63,
+    "TECK": 0.92
+   },
+   "premarket_volume": {
+    "FCX": 0,
+    "TECK": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "FCX": 61.64,
+    "TECK": 63.53
+   },
+   "enrichment": {
+    "FCX": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 13.9
+    },
+    "TECK": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 14.8
+    }
+   }
+  },
+  {
+   "pair": "TFC/RF",
+   "a": "TFC",
+   "b": "RF",
+   "name_a": "Truist Financial",
+   "name_b": "Regions Financial Corporation",
+   "group": "Regional banks",
+   "tier": "B",
+   "z_pre": 2.94,
+   "z_close": 1.81,
+   "z_change_overnight": 1.14,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": false,
+   "trade": "short TFC / long RF",
+   "hedge": "$6,835 of RF per $10,000 of TFC",
+   "beta": 0.684,
+   "half_life_days": 9.6,
+   "coint_p": 0.089,
+   "corr": 0.87,
+   "premarket_move_pct": {
+    "TFC": 1.84,
+    "RF": 0.74
+   },
+   "last_session_move_pct": {
+    "TFC": -0.92,
+    "RF": -0.35
+   },
+   "premarket_volume": {
+    "TFC": 0,
+    "RF": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "TFC": 50.29,
+    "RF": 28.52
+   },
+   "enrichment": {
+    "TFC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 10.1
+    },
+    "RF": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 9.9
+    }
+   }
+  },
+  {
+   "pair": "LRCX/KLAC",
+   "a": "LRCX",
+   "b": "KLAC",
+   "name_a": "Lam Research",
+   "name_b": "KLA Corporation",
+   "group": "Semi equipment",
+   "tier": "B",
+   "z_pre": -2.56,
+   "z_close": -2.32,
+   "z_change_overnight": -0.24,
+   "kind": "extended",
+   "days_extended": 5,
+   "extreme": false,
+   "trade": "short KLAC / long LRCX",
+   "hedge": "$11,792 of KLAC per $10,000 of LRCX",
+   "beta": 1.179,
+   "half_life_days": 11.0,
+   "coint_p": 0.053,
+   "corr": 0.89,
+   "premarket_move_pct": {
+    "LRCX": 2.36,
+    "KLAC": 2.68
+   },
+   "last_session_move_pct": {
+    "LRCX": 8.23,
+    "KLAC": 6.69
+   },
+   "premarket_volume": {
+    "LRCX": 0,
+    "KLAC": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "LRCX": 205.18,
+    "KLAC": 142.2
+   },
+   "enrichment": {
+    "LRCX": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 16.4
+    },
+    "KLAC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 19.5
+    }
+   }
+  },
+  {
+   "pair": "BF-B/DEO",
+   "a": "BF-B",
+   "b": "DEO",
+   "name_a": "Brown-Forman",
+   "name_b": "Diageo",
+   "group": "Spirits",
+   "tier": "B",
+   "z_pre": 2.05,
+   "z_close": 2.13,
+   "z_change_overnight": -0.08,
+   "kind": "extended",
+   "days_extended": 3,
+   "extreme": false,
+   "trade": "short BF-B / long DEO",
+   "hedge": "$5,234 of DEO per $10,000 of BF-B",
+   "beta": 0.523,
+   "half_life_days": 7.7,
+   "coint_p": 0.0,
+   "corr": 0.59,
+   "premarket_move_pct": {
+    "BF-B": 0.36,
+    "DEO": 1.08
+   },
+   "last_session_move_pct": {
+    "BF-B": -1.23,
+    "DEO": -0.49
+   },
+   "premarket_volume": {
+    "BF-B": 0,
+    "DEO": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "BF-B": 30.69,
+    "DEO": 100.84
+   },
+   "enrichment": {
+    "BF-B": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 17.8
+    },
+    "DEO": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 13.9
+    }
+   }
+  }
+ ]
+}
