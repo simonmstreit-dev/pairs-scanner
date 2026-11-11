@@ -1,9 +1,9 @@
 {
- "trading_date": "2026-11-10",
- "generated_at_et": "2026-11-10 08:43",
- "generated_at_utc": "2026-11-10T13:43:50+00:00",
+ "trading_date": "2026-11-11",
+ "generated_at_et": "2026-11-11 08:43",
+ "generated_at_utc": "2026-11-11T13:43:32+00:00",
  "status": "ok",
- "premarket_coverage": "408/596 tickers",
+ "premarket_coverage": "398/596 tickers",
  "thresholds": {
   "z_flag": 2.0,
   "z_extreme": 4.0,
@@ -15,7 +15,7 @@
   "tier_B": 19,
   "dormant": 433,
   "no_data": 2,
-  "flagged": 4
+  "flagged": 2
  },
  "tickers_without_data": [
   "TMHC"
@@ -29,41 +29,35 @@
    "name_b": "CubeSmart",
    "group": "Self-storage REITs",
    "tier": "A",
-   "z_pre": -2.48,
-   "z_close": -2.12,
-   "z_change_overnight": -0.36,
+   "z_pre": -2.32,
+   "z_close": -2.32,
+   "z_change_overnight": 0.0,
    "kind": "extended",
-   "days_extended": 6,
+   "days_extended": 7,
    "extreme": false,
    "trade": "short CUBE / long PSA",
-   "hedge": "$11,651 of CUBE per $10,000 of PSA",
-   "beta": 1.165,
-   "half_life_days": 8.3,
-   "coint_p": 0.02,
+   "hedge": "$11,556 of CUBE per $10,000 of PSA",
+   "beta": 1.156,
+   "half_life_days": 9.1,
+   "coint_p": 0.038,
    "corr": 0.86,
-   "premarket_move_pct": {
-    "PSA": -0.03,
-    "CUBE": 0.58
-   },
+   "premarket_move_pct": null,
    "last_session_move_pct": {
-    "PSA": 0.2,
-    "CUBE": -0.04
+    "PSA": -0.66,
+    "CUBE": 0.04
    },
-   "premarket_volume": {
-    "PSA": 0,
-    "CUBE": 0
-   },
-   "thin_premarket": true,
-   "used_premarket": true,
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
    "prices": {
-    "PSA": 338.05,
-    "CUBE": 45.26
+    "PSA": 335.93,
+    "CUBE": 45.02
    },
    "enrichment": {
     "PSA": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 36.5
+     "forward_pe": 36.3
     },
     "CUBE": {
      "earnings_recent": null,
@@ -80,25 +74,25 @@
    "name_b": "KLA Corporation",
    "group": "Semi equipment",
    "tier": "B",
-   "z_pre": -2.22,
-   "z_close": -2.36,
-   "z_change_overnight": 0.14,
+   "z_pre": -2.71,
+   "z_close": -2.41,
+   "z_change_overnight": -0.3,
    "kind": "extended",
-   "days_extended": 6,
+   "days_extended": 7,
    "extreme": false,
    "trade": "short KLAC / long LRCX",
-   "hedge": "$11,775 of KLAC per $10,000 of LRCX",
-   "beta": 1.178,
-   "half_life_days": 10.9,
-   "coint_p": 0.062,
+   "hedge": "$11,756 of KLAC per $10,000 of LRCX",
+   "beta": 1.176,
+   "half_life_days": 11.2,
+   "coint_p": 0.053,
    "corr": 0.89,
    "premarket_move_pct": {
-    "LRCX": -2.96,
-    "KLAC": -2.9
+    "LRCX": 5.43,
+    "KLAC": 5.56
    },
    "last_session_move_pct": {
-    "LRCX": 10.41,
-    "KLAC": 9.31
+    "LRCX": 0.49,
+    "KLAC": 1.06
    },
    "premarket_volume": {
     "LRCX": 0,
@@ -107,121 +101,19 @@
    "thin_premarket": true,
    "used_premarket": true,
    "prices": {
-    "LRCX": 214.77,
-    "KLAC": 146.99
+    "LRCX": 234.46,
+    "KLAC": 161.49
    },
    "enrichment": {
     "LRCX": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 18.1
+     "forward_pe": 18.2
     },
     "KLAC": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 21.3
-    }
-   }
-  },
-  {
-   "pair": "TFC/RF",
-   "a": "TFC",
-   "b": "RF",
-   "name_a": "Truist Financial",
-   "name_b": "Regions Financial Corporation",
-   "group": "Regional banks",
-   "tier": "B",
-   "z_pre": 2.12,
-   "z_close": 2.12,
-   "z_change_overnight": -0.0,
-   "kind": "extended",
-   "days_extended": 1,
-   "extreme": false,
-   "trade": "short TFC / long RF",
-   "hedge": "$6,812 of RF per $10,000 of TFC",
-   "beta": 0.681,
-   "half_life_days": 9.6,
-   "coint_p": 0.091,
-   "corr": 0.87,
-   "premarket_move_pct": {
-    "TFC": -0.0,
-    "RF": -0.0
-   },
-   "last_session_move_pct": {
-    "TFC": 1.92,
-    "RF": 2.19
-   },
-   "premarket_volume": {
-    "TFC": 0,
-    "RF": 0
-   },
-   "thin_premarket": true,
-   "used_premarket": true,
-   "prices": {
-    "TFC": 50.33,
-    "RF": 28.93
-   },
-   "enrichment": {
-    "TFC": {
-     "earnings_recent": null,
-     "earnings_next": null,
-     "forward_pe": 10.3
-    },
-    "RF": {
-     "earnings_recent": null,
-     "earnings_next": null,
-     "forward_pe": 10.2
-    }
-   }
-  },
-  {
-   "pair": "JNJ/MRK",
-   "a": "JNJ",
-   "b": "MRK",
-   "name_a": "Johnson & Johnson",
-   "name_b": "Merck & Co.",
-   "group": "Big pharma",
-   "tier": "B",
-   "z_pre": 2.06,
-   "z_close": 1.89,
-   "z_change_overnight": 0.17,
-   "kind": "new gap",
-   "days_extended": 0,
-   "extreme": false,
-   "trade": "short JNJ / long MRK",
-   "hedge": "$6,876 of MRK per $10,000 of JNJ",
-   "beta": 0.688,
-   "half_life_days": 8.1,
-   "coint_p": 0.051,
-   "corr": 0.5,
-   "premarket_move_pct": {
-    "JNJ": 0.97,
-    "MRK": 0.79
-   },
-   "last_session_move_pct": {
-    "JNJ": 2.13,
-    "MRK": 1.38
-   },
-   "premarket_volume": {
-    "JNJ": 0,
-    "MRK": 0
-   },
-   "thin_premarket": true,
-   "used_premarket": true,
-   "prices": {
-    "JNJ": 284.85,
-    "MRK": 149.94
-   },
-   "enrichment": {
-    "JNJ": {
-     "earnings_recent": null,
-     "earnings_next": null,
-     "forward_pe": 24.3
-    },
-    "MRK": {
-     "earnings_recent": null,
-     "earnings_next": null,
-     "forward_pe": 16.6
+     "forward_pe": 21.6
     }
    }
   }
