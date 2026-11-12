@@ -1,0 +1,319 @@
+{
+ "trading_date": "2026-11-12",
+ "generated_at_et": "2026-11-12 08:43",
+ "generated_at_utc": "2026-11-12T13:43:10+00:00",
+ "status": "ok",
+ "premarket_coverage": "386/596 tickers",
+ "thresholds": {
+  "z_flag": 2.0,
+  "z_extreme": 4.0,
+  "z_window": 60
+ },
+ "counts": {
+  "pairs": 468,
+  "tier_A": 15,
+  "tier_B": 17,
+  "dormant": 434,
+  "no_data": 2,
+  "flagged": 6
+ },
+ "tickers_without_data": [
+  "TMHC"
+ ],
+ "flags": [
+  {
+   "pair": "CRBG/EQH",
+   "a": "CRBG",
+   "b": "EQH",
+   "name_a": "Corebridge",
+   "name_b": "Equitable",
+   "group": "Annuity writers",
+   "tier": "A",
+   "z_pre": -5.7,
+   "z_close": -0.41,
+   "z_change_overnight": -5.29,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": true,
+   "trade": "short EQH / long CRBG",
+   "hedge": "$10,271 of EQH per $10,000 of CRBG",
+   "beta": 1.027,
+   "half_life_days": 6.8,
+   "coint_p": 0.001,
+   "corr": 0.92,
+   "premarket_move_pct": {
+    "CRBG": -0.69,
+    "EQH": 0.61
+   },
+   "last_session_move_pct": {
+    "CRBG": 0.58,
+    "EQH": 0.59
+   },
+   "premarket_volume": {
+    "CRBG": 0,
+    "EQH": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "CRBG": 35.87,
+    "EQH": 56.2
+   },
+   "enrichment": {
+    "CRBG": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 6.3
+    },
+    "EQH": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 6.3
+    }
+   }
+  },
+  {
+   "pair": "WPM/FNV",
+   "a": "WPM",
+   "b": "FNV",
+   "name_a": "Wheaton Precious Metals",
+   "name_b": "Franco-Nevada",
+   "group": "Precious metals streamers",
+   "tier": "A",
+   "z_pre": -2.26,
+   "z_close": -0.82,
+   "z_change_overnight": -1.44,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": false,
+   "trade": "short FNV / long WPM",
+   "hedge": "$12,430 of FNV per $10,000 of WPM",
+   "beta": 1.243,
+   "half_life_days": 7.5,
+   "coint_p": 0.037,
+   "corr": 0.9,
+   "premarket_move_pct": {
+    "WPM": -2.86,
+    "FNV": 1.06
+   },
+   "last_session_move_pct": {
+    "WPM": -0.76,
+    "FNV": -2.75
+   },
+   "premarket_volume": {
+    "WPM": 0,
+    "FNV": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "WPM": 131.7,
+    "FNV": 251.4
+   },
+   "enrichment": {
+    "WPM": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 27.5
+    },
+    "FNV": {
+     "earnings_recent": "2026-11-11",
+     "earnings_next": null,
+     "forward_pe": 28.1
+    }
+   }
+  },
+  {
+   "pair": "PSA/CUBE",
+   "a": "PSA",
+   "b": "CUBE",
+   "name_a": "Public Storage",
+   "name_b": "CubeSmart",
+   "group": "Self-storage REITs",
+   "tier": "B",
+   "z_pre": -2.35,
+   "z_close": -2.35,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 8,
+   "extreme": false,
+   "trade": "short CUBE / long PSA",
+   "hedge": "$11,464 of CUBE per $10,000 of PSA",
+   "beta": 1.146,
+   "half_life_days": 9.7,
+   "coint_p": 0.05,
+   "corr": 0.86,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "PSA": -0.06,
+    "CUBE": 0.27
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "PSA": 335.73,
+    "CUBE": 45.14
+   },
+   "enrichment": {
+    "PSA": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 36.3
+    },
+    "CUBE": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 28.4
+    }
+   }
+  },
+  {
+   "pair": "FCX/TECK",
+   "a": "FCX",
+   "b": "TECK",
+   "name_a": "Freeport-McMoRan",
+   "name_b": "Teck Resources",
+   "group": "Copper",
+   "tier": "B",
+   "z_pre": -2.33,
+   "z_close": -2.26,
+   "z_change_overnight": -0.07,
+   "kind": "extended",
+   "days_extended": 9,
+   "extreme": false,
+   "trade": "short TECK / long FCX",
+   "hedge": "$9,744 of TECK per $10,000 of FCX",
+   "beta": 0.974,
+   "half_life_days": 10.4,
+   "coint_p": 0.1,
+   "corr": 0.78,
+   "premarket_move_pct": {
+    "FCX": -1.59,
+    "TECK": -1.37
+   },
+   "last_session_move_pct": {
+    "FCX": 3.0,
+    "TECK": 1.3
+   },
+   "premarket_volume": {
+    "FCX": 0,
+    "TECK": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "FCX": 61.13,
+    "TECK": 62.8
+   },
+   "enrichment": {
+    "FCX": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 14.7
+    },
+    "TECK": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 15.6
+    }
+   }
+  },
+  {
+   "pair": "LRCX/KLAC",
+   "a": "LRCX",
+   "b": "KLAC",
+   "name_a": "Lam Research",
+   "name_b": "KLA Corporation",
+   "group": "Semi equipment",
+   "tier": "B",
+   "z_pre": -2.33,
+   "z_close": -2.29,
+   "z_change_overnight": -0.05,
+   "kind": "extended",
+   "days_extended": 8,
+   "extreme": false,
+   "trade": "short KLAC / long LRCX",
+   "hedge": "$11,743 of KLAC per $10,000 of LRCX",
+   "beta": 1.174,
+   "half_life_days": 11.0,
+   "coint_p": 0.056,
+   "corr": 0.89,
+   "premarket_move_pct": {
+    "LRCX": -3.09,
+    "KLAC": -2.49
+   },
+   "last_session_move_pct": {
+    "LRCX": 6.07,
+    "KLAC": 5.24
+   },
+   "premarket_volume": {
+    "LRCX": 0,
+    "KLAC": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "LRCX": 228.58,
+    "KLAC": 157.0
+   },
+   "enrichment": {
+    "LRCX": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 19.3
+    },
+    "KLAC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 22.7
+    }
+   }
+  },
+  {
+   "pair": "BRX/REG",
+   "a": "BRX",
+   "b": "REG",
+   "name_a": "Brixmor",
+   "name_b": "Regency Centers",
+   "group": "Shopping center REITs",
+   "tier": "B",
+   "z_pre": 2.18,
+   "z_close": 2.18,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 1,
+   "extreme": false,
+   "trade": "short BRX / long REG",
+   "hedge": "$13,002 of REG per $10,000 of BRX",
+   "beta": 1.3,
+   "half_life_days": 5.7,
+   "coint_p": 0.085,
+   "corr": 0.8,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "BRX": -0.23,
+    "REG": -0.47
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "BRX": 30.26,
+    "REG": 76.18
+   },
+   "enrichment": {
+    "BRX": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 27.6
+    },
+    "REG": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 30.5
+    }
+   }
+  }
+ ]
+}
