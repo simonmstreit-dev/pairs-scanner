@@ -1,0 +1,128 @@
+{
+ "trading_date": "2026-11-17",
+ "generated_at_et": "2026-11-17 08:43",
+ "generated_at_utc": "2026-11-17T13:43:46+00:00",
+ "status": "ok",
+ "premarket_coverage": "370/596 tickers",
+ "thresholds": {
+  "z_flag": 2.0,
+  "z_extreme": 4.0,
+  "z_window": 60
+ },
+ "counts": {
+  "pairs": 468,
+  "tier_A": 15,
+  "tier_B": 18,
+  "dormant": 432,
+  "no_data": 3,
+  "flagged": 2
+ },
+ "tickers_without_data": [
+  "BXP",
+  "TMHC"
+ ],
+ "flags": [
+  {
+   "pair": "CRBG/EQH",
+   "a": "CRBG",
+   "b": "EQH",
+   "name_a": "Corebridge",
+   "name_b": "Equitable",
+   "group": "Annuity writers",
+   "tier": "A",
+   "z_pre": -2.71,
+   "z_close": -0.64,
+   "z_change_overnight": -2.07,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": false,
+   "trade": "short EQH / long CRBG",
+   "hedge": "$10,271 of EQH per $10,000 of CRBG",
+   "beta": 1.027,
+   "half_life_days": 7.4,
+   "coint_p": 0.001,
+   "corr": 0.93,
+   "premarket_move_pct": {
+    "CRBG": -1.43,
+    "EQH": -0.94
+   },
+   "last_session_move_pct": {
+    "CRBG": -1.76,
+    "EQH": -1.46
+   },
+   "premarket_volume": {
+    "CRBG": 0,
+    "EQH": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "CRBG": 35.2,
+    "EQH": 54.76
+   },
+   "enrichment": {
+    "CRBG": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 6.3
+    },
+    "EQH": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 6.2
+    }
+   }
+  },
+  {
+   "pair": "CNC/MOH",
+   "a": "CNC",
+   "b": "MOH",
+   "name_a": "Centene Corporation",
+   "name_b": "Molina",
+   "group": "Medicaid managed care",
+   "tier": "B",
+   "z_pre": -3.29,
+   "z_close": -3.27,
+   "z_change_overnight": -0.02,
+   "kind": "extended",
+   "days_extended": 1,
+   "extreme": false,
+   "trade": "short MOH / long CNC",
+   "hedge": "$14,127 of MOH per $10,000 of CNC",
+   "beta": 1.413,
+   "half_life_days": 11.9,
+   "coint_p": 0.05,
+   "corr": 0.58,
+   "premarket_move_pct": {
+    "CNC": -1.83,
+    "MOH": -1.26
+   },
+   "last_session_move_pct": {
+    "CNC": 4.91,
+    "MOH": 11.27
+   },
+   "premarket_volume": {
+    "CNC": 0,
+    "MOH": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "CNC": 73.4,
+    "MOH": 230.15
+   },
+   "enrichment": {
+    "CNC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 13.4
+    },
+    "MOH": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 24.1
+    }
+   }
+  }
+ ]
+}
