@@ -1,9 +1,8 @@
-# Premarket pairs scan: 2026-11-17
-Status: **ok**, generated 2026-11-17 08:43 ET
+# Premarket pairs scan: 2026-11-18
+Status: **ok**, generated 2026-11-18 08:43 ET
 
-Pairs: 468 | tier A: 15 | tier B: 18 | dormant: 432 | no data: 3 | flagged: 2
+Pairs: 468 | tier A: 17 | tier B: 18 | dormant: 431 | no data: 2 | flagged: 1
 
 | Pair | Tier | z pre | z close | Kind | Trade | Half-life | Premarket moves | Notes |
 |---|---|---|---|---|---|---|---|---|
-| CRBG/EQH | A | -2.71 | -0.64 | new gap | short EQH / long CRBG | 7.4d | CRBG -1.4%, EQH -0.9% | thin premarket |
-| CNC/MOH | B | -3.29 | -3.27 | extended | short MOH / long CNC | 11.9d | CNC -1.8%, MOH -1.3% | thin premarket |
+| LNT/XEL | B | -2.01 | -2.01 | extended | short XEL / long LNT | 11.2d |  |  |

@@ -1,0 +1,70 @@
+{
+ "trading_date": "2026-11-18",
+ "generated_at_et": "2026-11-18 08:43",
+ "generated_at_utc": "2026-11-18T13:43:07+00:00",
+ "status": "ok",
+ "premarket_coverage": "371/596 tickers",
+ "thresholds": {
+  "z_flag": 2.0,
+  "z_extreme": 4.0,
+  "z_window": 60
+ },
+ "counts": {
+  "pairs": 468,
+  "tier_A": 17,
+  "tier_B": 18,
+  "dormant": 431,
+  "no_data": 2,
+  "flagged": 1
+ },
+ "tickers_without_data": [
+  "TMHC"
+ ],
+ "flags": [
+  {
+   "pair": "LNT/XEL",
+   "a": "LNT",
+   "b": "XEL",
+   "name_a": "Alliant Energy",
+   "name_b": "Xcel Energy",
+   "group": "Utilities Midwest",
+   "tier": "B",
+   "z_pre": -2.01,
+   "z_close": -2.01,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 1,
+   "extreme": false,
+   "trade": "short XEL / long LNT",
+   "hedge": "$11,458 of XEL per $10,000 of LNT",
+   "beta": 1.146,
+   "half_life_days": 11.2,
+   "coint_p": 0.069,
+   "corr": 0.82,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "LNT": -2.19,
+    "XEL": -0.6
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "LNT": 71.31,
+    "XEL": 80.72
+   },
+   "enrichment": {
+    "LNT": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 19.4
+    },
+    "XEL": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 17.7
+    }
+   }
+  }
+ ]
+}
