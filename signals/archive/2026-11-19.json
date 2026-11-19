@@ -1,0 +1,121 @@
+{
+ "trading_date": "2026-11-19",
+ "generated_at_et": "2026-11-19 08:43",
+ "generated_at_utc": "2026-11-19T13:43:25+00:00",
+ "status": "ok",
+ "premarket_coverage": "385/596 tickers",
+ "thresholds": {
+  "z_flag": 2.0,
+  "z_extreme": 4.0,
+  "z_window": 60
+ },
+ "counts": {
+  "pairs": 468,
+  "tier_A": 16,
+  "tier_B": 17,
+  "dormant": 433,
+  "no_data": 2,
+  "flagged": 2
+ },
+ "tickers_without_data": [
+  "TMHC"
+ ],
+ "flags": [
+  {
+   "pair": "FHN/RF",
+   "a": "FHN",
+   "b": "RF",
+   "name_a": "First Horizon",
+   "name_b": "Regions Financial Corporation",
+   "group": "Regional banks South",
+   "tier": "B",
+   "z_pre": -2.56,
+   "z_close": -2.48,
+   "z_change_overnight": -0.08,
+   "kind": "extended",
+   "days_extended": 1,
+   "extreme": false,
+   "trade": "short RF / long FHN",
+   "hedge": "$6,573 of RF per $10,000 of FHN",
+   "beta": 0.657,
+   "half_life_days": 8.7,
+   "coint_p": 0.083,
+   "corr": 0.81,
+   "premarket_move_pct": {
+    "FHN": 0.04,
+    "RF": 0.21
+   },
+   "last_session_move_pct": {
+    "FHN": -1.31,
+    "RF": -0.71
+   },
+   "premarket_volume": {
+    "FHN": 0,
+    "RF": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "FHN": 22.6,
+    "RF": 28.01
+   },
+   "enrichment": {
+    "FHN": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 9.7
+    },
+    "RF": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 9.8
+    }
+   }
+  },
+  {
+   "pair": "EWBC/CATY",
+   "a": "EWBC",
+   "b": "CATY",
+   "name_a": "East West Bancorp",
+   "name_b": "Cathay General",
+   "group": "Regional banks",
+   "tier": "B",
+   "z_pre": -2.36,
+   "z_close": -2.36,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 2,
+   "extreme": false,
+   "trade": "short CATY / long EWBC",
+   "hedge": "$7,159 of CATY per $10,000 of EWBC",
+   "beta": 0.716,
+   "half_life_days": 8.2,
+   "coint_p": 0.055,
+   "corr": 0.78,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "EWBC": -0.77,
+    "CATY": -0.27
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "EWBC": 126.11,
+    "CATY": 63.47
+   },
+   "enrichment": {
+    "EWBC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 10.7
+    },
+    "CATY": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 10.3
+    }
+   }
+  }
+ ]
+}
