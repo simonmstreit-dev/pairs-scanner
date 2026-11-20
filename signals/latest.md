@@ -1,9 +1,10 @@
-# Premarket pairs scan: 2026-11-19
-Status: **ok**, generated 2026-11-19 08:43 ET
+# Premarket pairs scan: 2026-11-20
+Status: **ok**, generated 2026-11-20 08:43 ET
 
-Pairs: 468 | tier A: 16 | tier B: 17 | dormant: 433 | no data: 2 | flagged: 2
+Pairs: 468 | tier A: 16 | tier B: 22 | dormant: 428 | no data: 2 | flagged: 3
 
 | Pair | Tier | z pre | z close | Kind | Trade | Half-life | Premarket moves | Notes |
 |---|---|---|---|---|---|---|---|---|
-| FHN/RF | B | -2.56 | -2.48 | extended | short RF / long FHN | 8.7d | FHN +0.0%, RF +0.2% | thin premarket |
-| EWBC/CATY | B | -2.36 | -2.36 | extended | short CATY / long EWBC | 8.2d |  |  |
+| TSM/UMC | B | -2.91 | -1.83 | new gap | short UMC / long TSM | 6.3d | TSM -6.2%, UMC -8.9% | thin premarket |
+| EWBC/CATY | B | -2.29 | -2.29 | extended | short CATY / long EWBC | 8.5d |  |  |
+| JNJ/MRK | B | +2.12 | +2.08 | extended | short JNJ / long MRK | 9.0d | JNJ +0.6%, MRK +0.7% | thin premarket |
