@@ -1,0 +1,364 @@
+{
+ "trading_date": "2026-11-23",
+ "generated_at_et": "2026-11-23 08:44",
+ "generated_at_utc": "2026-11-23T13:44:41+00:00",
+ "status": "ok",
+ "premarket_coverage": "456/596 tickers",
+ "thresholds": {
+  "z_flag": 2.0,
+  "z_extreme": 4.0,
+  "z_window": 60
+ },
+ "counts": {
+  "pairs": 468,
+  "tier_A": 14,
+  "tier_B": 20,
+  "dormant": 432,
+  "no_data": 2,
+  "flagged": 7
+ },
+ "tickers_without_data": [
+  "TMHC"
+ ],
+ "flags": [
+  {
+   "pair": "MTB/CFG",
+   "a": "MTB",
+   "b": "CFG",
+   "name_a": "M&T Bank",
+   "name_b": "Citizens Financial Group",
+   "group": "Regional banks",
+   "tier": "A",
+   "z_pre": 3.05,
+   "z_close": 3.05,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 1,
+   "extreme": false,
+   "trade": "short MTB / long CFG",
+   "hedge": "$8,836 of CFG per $10,000 of MTB",
+   "beta": 0.884,
+   "half_life_days": 7.0,
+   "coint_p": 0.026,
+   "corr": 0.87,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "MTB": -1.17,
+    "CFG": -2.97
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "MTB": 208.3,
+    "CFG": 58.71
+   },
+   "enrichment": {
+    "MTB": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 9.9
+    },
+    "CFG": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 9.0
+    }
+   }
+  },
+  {
+   "pair": "ELV/HUM",
+   "a": "ELV",
+   "b": "HUM",
+   "name_a": "Elevance Health",
+   "name_b": "Humana",
+   "group": "Managed care",
+   "tier": "A",
+   "z_pre": -2.1,
+   "z_close": -1.2,
+   "z_change_overnight": -0.9,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": false,
+   "trade": "short HUM / long ELV",
+   "hedge": "$3,524 of HUM per $10,000 of ELV",
+   "beta": 0.352,
+   "half_life_days": 7.5,
+   "coint_p": 0.025,
+   "corr": 0.6,
+   "premarket_move_pct": {
+    "ELV": -3.57,
+    "HUM": -3.33
+   },
+   "last_session_move_pct": {
+    "ELV": 1.11,
+    "HUM": 2.63
+   },
+   "premarket_volume": {
+    "ELV": 0,
+    "HUM": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "ELV": 380.41,
+    "HUM": 377.0
+   },
+   "enrichment": {
+    "ELV": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 13.0
+    },
+    "HUM": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 21.1
+    }
+   }
+  },
+  {
+   "pair": "XEL/WEC",
+   "a": "XEL",
+   "b": "WEC",
+   "name_a": "Xcel Energy",
+   "name_b": "WEC Energy Group",
+   "group": "Utilities Midwest",
+   "tier": "A",
+   "z_pre": -2.05,
+   "z_close": -2.05,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 1,
+   "extreme": false,
+   "trade": "short WEC / long XEL",
+   "hedge": "$8,464 of WEC per $10,000 of XEL",
+   "beta": 0.846,
+   "half_life_days": 7.3,
+   "coint_p": 0.041,
+   "corr": 0.83,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "XEL": -0.2,
+    "WEC": 0.83
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "XEL": 79.3,
+    "WEC": 117.07
+   },
+   "enrichment": {
+    "XEL": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 17.4
+    },
+    "WEC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 19.4
+    }
+   }
+  },
+  {
+   "pair": "NEM/AEM",
+   "a": "NEM",
+   "b": "AEM",
+   "name_a": "Newmont",
+   "name_b": "Agnico Eagle",
+   "group": "Gold miners",
+   "tier": "B",
+   "z_pre": -3.17,
+   "z_close": -3.85,
+   "z_change_overnight": 0.68,
+   "kind": "extended",
+   "days_extended": 2,
+   "extreme": false,
+   "trade": "short AEM / long NEM",
+   "hedge": "$7,070 of AEM per $10,000 of NEM",
+   "beta": 0.707,
+   "half_life_days": 14.0,
+   "coint_p": 0.063,
+   "corr": 0.9,
+   "premarket_move_pct": {
+    "NEM": 4.87,
+    "AEM": 5.16
+   },
+   "last_session_move_pct": {
+    "NEM": -5.37,
+    "AEM": -4.39
+   },
+   "premarket_volume": {
+    "NEM": 0,
+    "AEM": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "NEM": 99.29,
+    "AEM": 159.1
+   },
+   "enrichment": {
+    "NEM": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 9.5
+    },
+    "AEM": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 13.0
+    }
+   }
+  },
+  {
+   "pair": "EWBC/CATY",
+   "a": "EWBC",
+   "b": "CATY",
+   "name_a": "East West Bancorp",
+   "name_b": "Cathay General",
+   "group": "Regional banks",
+   "tier": "B",
+   "z_pre": -3.08,
+   "z_close": -3.08,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 4,
+   "extreme": false,
+   "trade": "short CATY / long EWBC",
+   "hedge": "$7,079 of CATY per $10,000 of EWBC",
+   "beta": 0.708,
+   "half_life_days": 8.6,
+   "coint_p": 0.078,
+   "corr": 0.79,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "EWBC": -1.95,
+    "CATY": -0.92
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "EWBC": 121.54,
+    "CATY": 61.43
+   },
+   "enrichment": {
+    "EWBC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 10.3
+    },
+    "CATY": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 9.9
+    }
+   }
+  },
+  {
+   "pair": "TSM/UMC",
+   "a": "TSM",
+   "b": "UMC",
+   "name_a": "TSMC",
+   "name_b": "UMC",
+   "group": "Foundries",
+   "tier": "B",
+   "z_pre": -2.74,
+   "z_close": -3.41,
+   "z_change_overnight": 0.67,
+   "kind": "extended",
+   "days_extended": 1,
+   "extreme": false,
+   "trade": "short UMC / long TSM",
+   "hedge": "$3,131 of UMC per $10,000 of TSM",
+   "beta": 0.313,
+   "half_life_days": 6.5,
+   "coint_p": 0.019,
+   "corr": 0.54,
+   "premarket_move_pct": {
+    "TSM": 5.81,
+    "UMC": 10.8
+   },
+   "last_session_move_pct": {
+    "TSM": -9.48,
+    "UMC": -10.15
+   },
+   "premarket_volume": {
+    "TSM": 0,
+    "UMC": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "TSM": 337.23,
+    "UMC": 13.34
+   },
+   "enrichment": {
+    "TSM": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 13.6
+    },
+    "UMC": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 13.4
+    }
+   }
+  },
+  {
+   "pair": "XOM/CVX",
+   "a": "XOM",
+   "b": "CVX",
+   "name_a": "ExxonMobil",
+   "name_b": "Chevron Corporation",
+   "group": "Integrated oil",
+   "tier": "B",
+   "z_pre": -2.06,
+   "z_close": -1.83,
+   "z_change_overnight": -0.23,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": false,
+   "trade": "short CVX / long XOM",
+   "hedge": "$9,862 of CVX per $10,000 of XOM",
+   "beta": 0.986,
+   "half_life_days": 7.7,
+   "coint_p": 0.051,
+   "corr": 0.87,
+   "premarket_move_pct": {
+    "XOM": -0.24,
+    "CVX": 0.04
+   },
+   "last_session_move_pct": {
+    "XOM": 0.67,
+    "CVX": 0.91
+   },
+   "premarket_volume": {
+    "XOM": 0,
+    "CVX": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "XOM": 159.6,
+    "CVX": 208.46
+   },
+   "enrichment": {
+    "XOM": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 12.8
+    },
+    "CVX": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 12.6
+    }
+   }
+  }
+ ]
+}
