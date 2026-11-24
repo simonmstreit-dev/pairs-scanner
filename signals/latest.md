@@ -1,14 +1,15 @@
-# Premarket pairs scan: 2026-11-23
-Status: **ok**, generated 2026-11-23 08:44 ET
+# Premarket pairs scan: 2026-11-24
+Status: **ok**, generated 2026-11-24 08:43 ET
 
-Pairs: 468 | tier A: 14 | tier B: 20 | dormant: 432 | no data: 2 | flagged: 7
+Pairs: 468 | tier A: 14 | tier B: 21 | dormant: 430 | no data: 3 | flagged: 8
 
 | Pair | Tier | z pre | z close | Kind | Trade | Half-life | Premarket moves | Notes |
 |---|---|---|---|---|---|---|---|---|
-| MTB/CFG | A | +3.05 | +3.05 | extended | short MTB / long CFG | 7.0d |  |  |
-| ELV/HUM | A | -2.10 | -1.20 | new gap | short HUM / long ELV | 7.5d | ELV -3.6%, HUM -3.3% | thin premarket |
-| XEL/WEC | A | -2.05 | -2.05 | extended | short WEC / long XEL | 7.3d |  |  |
-| NEM/AEM | B | -3.17 | -3.85 | extended | short AEM / long NEM | 14.0d | NEM +4.9%, AEM +5.2% | thin premarket |
-| EWBC/CATY | B | -3.08 | -3.08 | extended | short CATY / long EWBC | 8.6d |  |  |
-| TSM/UMC | B | -2.74 | -3.41 | extended | short UMC / long TSM | 6.5d | TSM +5.8%, UMC +10.8% | thin premarket |
-| XOM/CVX | B | -2.06 | -1.83 | new gap | short CVX / long XOM | 7.7d | XOM -0.2%, CVX +0.0% | thin premarket |
+| AZO/ORLY | A | -2.76 | -1.95 | new gap | short ORLY / long AZO | 7.3d | AZO +0.8%, ORLY +1.2% | thin premarket |
+| ELV/HUM | A | -2.25 | -2.30 | extended | short HUM / long ELV | 7.8d | ELV +0.9%, HUM +2.2% | thin premarket |
+| O/ADC | A | -2.15 | -0.76 | new gap | short ADC / long O | 12.2d | O +0.4%, ADC +2.8% | thin premarket |
+| ETR/AEP | B | +3.73 | -0.75 | new gap | short ETR / long AEP | 10.1d | ETR +7.2%, AEP -0.5% | thin premarket |
+| NEM/AEM | B | -2.87 | -2.35 | extended | short AEM / long NEM | 13.9d | NEM -1.7%, AEM -1.1% | thin premarket |
+| EWBC/CATY | B | -2.57 | -2.57 | extended | short CATY / long EWBC | 8.8d |  |  |
+| XOM/CVX | B | -2.55 | -2.40 | extended | short CVX / long XOM | 8.1d | XOM +0.5%, CVX +0.7% | thin premarket |
+| OKE/TRGP | B | -2.09 | -2.09 | extended | short TRGP / long OKE | 7.2d |  |  |

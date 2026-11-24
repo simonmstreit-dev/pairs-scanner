@@ -1,9 +1,9 @@
 {
- "trading_date": "2026-11-23",
- "generated_at_et": "2026-11-23 08:44",
- "generated_at_utc": "2026-11-23T13:44:41+00:00",
+ "trading_date": "2026-11-24",
+ "generated_at_et": "2026-11-24 08:43",
+ "generated_at_utc": "2026-11-24T13:43:41+00:00",
  "status": "ok",
- "premarket_coverage": "456/596 tickers",
+ "premarket_coverage": "374/596 tickers",
  "thresholds": {
   "z_flag": 2.0,
   "z_extreme": 4.0,
@@ -12,57 +12,64 @@
  "counts": {
   "pairs": 468,
   "tier_A": 14,
-  "tier_B": 20,
-  "dormant": 432,
-  "no_data": 2,
-  "flagged": 7
+  "tier_B": 21,
+  "dormant": 430,
+  "no_data": 3,
+  "flagged": 8
  },
  "tickers_without_data": [
+  "ADM",
   "TMHC"
  ],
  "flags": [
   {
-   "pair": "MTB/CFG",
-   "a": "MTB",
-   "b": "CFG",
-   "name_a": "M&T Bank",
-   "name_b": "Citizens Financial Group",
-   "group": "Regional banks",
+   "pair": "AZO/ORLY",
+   "a": "AZO",
+   "b": "ORLY",
+   "name_a": "AutoZone",
+   "name_b": "O'Reilly Automotive",
+   "group": "Auto parts retail",
    "tier": "A",
-   "z_pre": 3.05,
-   "z_close": 3.05,
-   "z_change_overnight": 0.0,
-   "kind": "extended",
-   "days_extended": 1,
+   "z_pre": -2.76,
+   "z_close": -1.95,
+   "z_change_overnight": -0.81,
+   "kind": "new gap",
+   "days_extended": 0,
    "extreme": false,
-   "trade": "short MTB / long CFG",
-   "hedge": "$8,836 of CFG per $10,000 of MTB",
-   "beta": 0.884,
-   "half_life_days": 7.0,
-   "coint_p": 0.026,
-   "corr": 0.87,
-   "premarket_move_pct": null,
-   "last_session_move_pct": {
-    "MTB": -1.17,
-    "CFG": -2.97
+   "trade": "short ORLY / long AZO",
+   "hedge": "$18,406 of ORLY per $10,000 of AZO",
+   "beta": 1.841,
+   "half_life_days": 7.3,
+   "coint_p": 0.034,
+   "corr": 0.79,
+   "premarket_move_pct": {
+    "AZO": 0.8,
+    "ORLY": 1.18
    },
-   "premarket_volume": null,
-   "thin_premarket": false,
-   "used_premarket": false,
+   "last_session_move_pct": {
+    "AZO": 0.91,
+    "ORLY": 1.05
+   },
+   "premarket_volume": {
+    "AZO": 0,
+    "ORLY": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
    "prices": {
-    "MTB": 208.3,
-    "CFG": 58.71
+    "AZO": 3311.2,
+    "ORLY": 94.73
    },
    "enrichment": {
-    "MTB": {
+    "AZO": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 9.9
+     "forward_pe": 17.1
     },
-    "CFG": {
+    "ORLY": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 9.0
+     "forward_pe": 25.5
     }
    }
   },
@@ -74,25 +81,25 @@
    "name_b": "Humana",
    "group": "Managed care",
    "tier": "A",
-   "z_pre": -2.1,
-   "z_close": -1.2,
-   "z_change_overnight": -0.9,
-   "kind": "new gap",
-   "days_extended": 0,
+   "z_pre": -2.25,
+   "z_close": -2.3,
+   "z_change_overnight": 0.05,
+   "kind": "extended",
+   "days_extended": 1,
    "extreme": false,
    "trade": "short HUM / long ELV",
-   "hedge": "$3,524 of HUM per $10,000 of ELV",
-   "beta": 0.352,
-   "half_life_days": 7.5,
-   "coint_p": 0.025,
+   "hedge": "$3,509 of HUM per $10,000 of ELV",
+   "beta": 0.351,
+   "half_life_days": 7.8,
+   "coint_p": 0.042,
    "corr": 0.6,
    "premarket_move_pct": {
-    "ELV": -3.57,
-    "HUM": -3.33
+    "ELV": 0.91,
+    "HUM": 2.16
    },
    "last_session_move_pct": {
-    "ELV": 1.11,
-    "HUM": 2.63
+    "ELV": -3.78,
+    "HUM": -1.62
    },
    "premarket_volume": {
     "ELV": 0,
@@ -101,64 +108,121 @@
    "thin_premarket": true,
    "used_premarket": true,
    "prices": {
-    "ELV": 380.41,
-    "HUM": 377.0
+    "ELV": 383.0,
+    "HUM": 391.98
    },
    "enrichment": {
     "ELV": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 13.0
+     "forward_pe": 12.5
     },
     "HUM": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 21.1
+     "forward_pe": 20.7
     }
    }
   },
   {
-   "pair": "XEL/WEC",
-   "a": "XEL",
-   "b": "WEC",
-   "name_a": "Xcel Energy",
-   "name_b": "WEC Energy Group",
-   "group": "Utilities Midwest",
+   "pair": "O/ADC",
+   "a": "O",
+   "b": "ADC",
+   "name_a": "Realty Income",
+   "name_b": "Agree Realty",
+   "group": "Net lease REITs",
    "tier": "A",
-   "z_pre": -2.05,
-   "z_close": -2.05,
-   "z_change_overnight": 0.0,
-   "kind": "extended",
-   "days_extended": 1,
+   "z_pre": -2.15,
+   "z_close": -0.76,
+   "z_change_overnight": -1.39,
+   "kind": "new gap",
+   "days_extended": 0,
    "extreme": false,
-   "trade": "short WEC / long XEL",
-   "hedge": "$8,464 of WEC per $10,000 of XEL",
-   "beta": 0.846,
-   "half_life_days": 7.3,
-   "coint_p": 0.041,
-   "corr": 0.83,
-   "premarket_move_pct": null,
-   "last_session_move_pct": {
-    "XEL": -0.2,
-    "WEC": 0.83
+   "trade": "short ADC / long O",
+   "hedge": "$9,052 of ADC per $10,000 of O",
+   "beta": 0.905,
+   "half_life_days": 12.2,
+   "coint_p": 0.032,
+   "corr": 0.79,
+   "premarket_move_pct": {
+    "O": 0.43,
+    "ADC": 2.83
    },
-   "premarket_volume": null,
-   "thin_premarket": false,
-   "used_premarket": false,
+   "last_session_move_pct": {
+    "O": 0.97,
+    "ADC": 0.37
+   },
+   "premarket_volume": {
+    "O": 0,
+    "ADC": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
    "prices": {
-    "XEL": 79.3,
-    "WEC": 117.07
+    "O": 58.84,
+    "ADC": 73.18
    },
    "enrichment": {
-    "XEL": {
+    "O": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 17.4
+     "forward_pe": 37.7
     },
-    "WEC": {
+    "ADC": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 19.4
+     "forward_pe": 35.5
+    }
+   }
+  },
+  {
+   "pair": "ETR/AEP",
+   "a": "ETR",
+   "b": "AEP",
+   "name_a": "Entergy",
+   "name_b": "American Electric Power",
+   "group": "Utilities",
+   "tier": "B",
+   "z_pre": 3.73,
+   "z_close": -0.75,
+   "z_change_overnight": 4.48,
+   "kind": "new gap",
+   "days_extended": 0,
+   "extreme": false,
+   "trade": "short ETR / long AEP",
+   "hedge": "$12,717 of AEP per $10,000 of ETR",
+   "beta": 1.272,
+   "half_life_days": 10.1,
+   "coint_p": 0.073,
+   "corr": 0.78,
+   "premarket_move_pct": {
+    "ETR": 7.2,
+    "AEP": -0.45
+   },
+   "last_session_move_pct": {
+    "ETR": 2.78,
+    "AEP": 1.64
+   },
+   "premarket_volume": {
+    "ETR": 0,
+    "AEP": 0
+   },
+   "thin_premarket": true,
+   "used_premarket": true,
+   "prices": {
+    "ETR": 115.0,
+    "AEP": 126.62
+   },
+   "enrichment": {
+    "ETR": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 21.0
+    },
+    "AEP": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 18.4
     }
    }
   },
@@ -170,25 +234,25 @@
    "name_b": "Agnico Eagle",
    "group": "Gold miners",
    "tier": "B",
-   "z_pre": -3.17,
-   "z_close": -3.85,
-   "z_change_overnight": 0.68,
+   "z_pre": -2.87,
+   "z_close": -2.35,
+   "z_change_overnight": -0.52,
    "kind": "extended",
-   "days_extended": 2,
+   "days_extended": 3,
    "extreme": false,
    "trade": "short AEM / long NEM",
-   "hedge": "$7,070 of AEM per $10,000 of NEM",
-   "beta": 0.707,
-   "half_life_days": 14.0,
-   "coint_p": 0.063,
+   "hedge": "$6,991 of AEM per $10,000 of NEM",
+   "beta": 0.699,
+   "half_life_days": 13.9,
+   "coint_p": 0.075,
    "corr": 0.9,
    "premarket_move_pct": {
-    "NEM": 4.87,
-    "AEM": 5.16
+    "NEM": -1.72,
+    "AEM": -1.06
    },
    "last_session_move_pct": {
-    "NEM": -5.37,
-    "AEM": -4.39
+    "NEM": 6.39,
+    "AEM": 5.55
    },
    "premarket_volume": {
     "NEM": 0,
@@ -197,19 +261,19 @@
    "thin_premarket": true,
    "used_premarket": true,
    "prices": {
-    "NEM": 99.29,
-    "AEM": 159.1
+    "NEM": 99.0,
+    "AEM": 158.0
    },
    "enrichment": {
     "NEM": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 9.5
+     "forward_pe": 10.1
     },
     "AEM": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 13.0
+     "forward_pe": 13.7
     }
    }
   },
@@ -221,91 +285,40 @@
    "name_b": "Cathay General",
    "group": "Regional banks",
    "tier": "B",
-   "z_pre": -3.08,
-   "z_close": -3.08,
+   "z_pre": -2.57,
+   "z_close": -2.57,
    "z_change_overnight": 0.0,
    "kind": "extended",
-   "days_extended": 4,
+   "days_extended": 5,
    "extreme": false,
    "trade": "short CATY / long EWBC",
-   "hedge": "$7,079 of CATY per $10,000 of EWBC",
-   "beta": 0.708,
-   "half_life_days": 8.6,
-   "coint_p": 0.078,
-   "corr": 0.79,
+   "hedge": "$7,028 of CATY per $10,000 of EWBC",
+   "beta": 0.703,
+   "half_life_days": 8.8,
+   "coint_p": 0.086,
+   "corr": 0.78,
    "premarket_move_pct": null,
    "last_session_move_pct": {
-    "EWBC": -1.95,
-    "CATY": -0.92
+    "EWBC": 1.92,
+    "CATY": 2.12
    },
    "premarket_volume": null,
    "thin_premarket": false,
    "used_premarket": false,
    "prices": {
-    "EWBC": 121.54,
-    "CATY": 61.43
+    "EWBC": 123.87,
+    "CATY": 62.73
    },
    "enrichment": {
     "EWBC": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 10.3
+     "forward_pe": 10.5
     },
     "CATY": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 9.9
-    }
-   }
-  },
-  {
-   "pair": "TSM/UMC",
-   "a": "TSM",
-   "b": "UMC",
-   "name_a": "TSMC",
-   "name_b": "UMC",
-   "group": "Foundries",
-   "tier": "B",
-   "z_pre": -2.74,
-   "z_close": -3.41,
-   "z_change_overnight": 0.67,
-   "kind": "extended",
-   "days_extended": 1,
-   "extreme": false,
-   "trade": "short UMC / long TSM",
-   "hedge": "$3,131 of UMC per $10,000 of TSM",
-   "beta": 0.313,
-   "half_life_days": 6.5,
-   "coint_p": 0.019,
-   "corr": 0.54,
-   "premarket_move_pct": {
-    "TSM": 5.81,
-    "UMC": 10.8
-   },
-   "last_session_move_pct": {
-    "TSM": -9.48,
-    "UMC": -10.15
-   },
-   "premarket_volume": {
-    "TSM": 0,
-    "UMC": 0
-   },
-   "thin_premarket": true,
-   "used_premarket": true,
-   "prices": {
-    "TSM": 337.23,
-    "UMC": 13.34
-   },
-   "enrichment": {
-    "TSM": {
-     "earnings_recent": null,
-     "earnings_next": null,
-     "forward_pe": 13.6
-    },
-    "UMC": {
-     "earnings_recent": null,
-     "earnings_next": null,
-     "forward_pe": 13.4
+     "forward_pe": 10.1
     }
    }
   },
@@ -317,25 +330,25 @@
    "name_b": "Chevron Corporation",
    "group": "Integrated oil",
    "tier": "B",
-   "z_pre": -2.06,
-   "z_close": -1.83,
-   "z_change_overnight": -0.23,
-   "kind": "new gap",
-   "days_extended": 0,
+   "z_pre": -2.55,
+   "z_close": -2.4,
+   "z_change_overnight": -0.14,
+   "kind": "extended",
+   "days_extended": 1,
    "extreme": false,
    "trade": "short CVX / long XOM",
-   "hedge": "$9,862 of CVX per $10,000 of XOM",
-   "beta": 0.986,
-   "half_life_days": 7.7,
-   "coint_p": 0.051,
+   "hedge": "$9,833 of CVX per $10,000 of XOM",
+   "beta": 0.983,
+   "half_life_days": 8.1,
+   "coint_p": 0.079,
    "corr": 0.87,
    "premarket_move_pct": {
-    "XOM": -0.24,
-    "CVX": 0.04
+    "XOM": 0.45,
+    "CVX": 0.65
    },
    "last_session_move_pct": {
-    "XOM": 0.67,
-    "CVX": 0.91
+    "XOM": -1.93,
+    "CVX": -1.06
    },
    "premarket_volume": {
     "XOM": 0,
@@ -344,19 +357,64 @@
    "thin_premarket": true,
    "used_premarket": true,
    "prices": {
-    "XOM": 159.6,
-    "CVX": 208.46
+    "XOM": 157.6,
+    "CVX": 207.5
    },
    "enrichment": {
     "XOM": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 12.8
+     "forward_pe": 12.6
     },
     "CVX": {
      "earnings_recent": null,
      "earnings_next": null,
-     "forward_pe": 12.6
+     "forward_pe": 12.5
+    }
+   }
+  },
+  {
+   "pair": "OKE/TRGP",
+   "a": "OKE",
+   "b": "TRGP",
+   "name_a": "Oneok",
+   "name_b": "Targa Resources",
+   "group": "Midstream",
+   "tier": "B",
+   "z_pre": -2.09,
+   "z_close": -2.09,
+   "z_change_overnight": 0.0,
+   "kind": "extended",
+   "days_extended": 1,
+   "extreme": false,
+   "trade": "short TRGP / long OKE",
+   "hedge": "$5,361 of TRGP per $10,000 of OKE",
+   "beta": 0.536,
+   "half_life_days": 7.2,
+   "coint_p": 0.055,
+   "corr": 0.75,
+   "premarket_move_pct": null,
+   "last_session_move_pct": {
+    "OKE": -0.87,
+    "TRGP": -0.37
+   },
+   "premarket_volume": null,
+   "thin_premarket": false,
+   "used_premarket": false,
+   "prices": {
+    "OKE": 83.64,
+    "TRGP": 277.27
+   },
+   "enrichment": {
+    "OKE": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 13.7
+    },
+    "TRGP": {
+     "earnings_recent": null,
+     "earnings_next": null,
+     "forward_pe": 22.5
     }
    }
   }
