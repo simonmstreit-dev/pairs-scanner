@@ -1,469 +1,469 @@
 pair,ticker_a,ticker_b,name_a,name_b,group,tier,reasons,beta,coint_p,corr,half_life,beta_drift,z_close,z_pre,last_close_date
-AZO/ORLY,AZO,ORLY,AutoZone,O'Reilly Automotive,Auto parts retail,A,,1.836,0.044,0.79,7.5,0.07,-2.64,-2.06,2026-11-24
-CL/CHD,CL,CHD,Colgate-Palmolive,Church & Dwight,Household products,A,,0.885,0.034,0.77,7.5,0.28,-0.28,-0.28,2026-11-24
-CRBG/EQH,CRBG,EQH,Corebridge,Equitable,Annuity writers,A,,1.025,0.001,0.93,6.7,0.07,-0.67,-0.67,2026-11-24
-CUZ/HIW,CUZ,HIW,Cousins Properties,Highwoods,Office REITs Sunbelt,A,,0.745,0.04,0.88,9.6,0.04,1.5,1.5,2026-11-24
-ELV/HUM,ELV,HUM,Elevance Health,Humana,Managed care,A,,0.35,0.044,0.6,7.8,0.11,-1.8,-2.3,2026-11-24
-LRCX/KLAC,LRCX,KLAC,Lam Research,KLA Corporation,Semi equipment,A,,1.145,0.039,0.9,10.1,0.22,-1.03,-1.02,2026-11-24
-MAR/HLT,MAR,HLT,Marriott International,Hilton Worldwide,Hotels,A,,1.25,0.001,0.83,4.4,0.09,0.2,0.2,2026-11-24
-O/ADC,O,ADC,Realty Income,Agree Realty,Net lease REITs,A,,0.904,0.022,0.79,11.5,0.3,-0.75,-0.75,2026-11-24
-SU/CNQ,SU,CNQ,Suncor,Canadian Natural,Canadian oil,A,,1.025,0.002,0.83,13.8,0.06,0.43,0.38,2026-11-24
-THO/WGO,THO,WGO,Thor Industries,Winnebago,RVs,A,,0.927,0.0,0.74,5.6,0.39,-0.75,-0.75,2026-11-24
-TOL/PHM,TOL,PHM,Toll Brothers,PulteGroup,Homebuilders,A,,0.94,0.008,0.9,6.6,0.05,-0.5,-0.5,2026-11-24
-XEL/WEC,XEL,WEC,Xcel Energy,WEC Energy Group,Utilities Midwest,A,,0.841,0.018,0.83,6.8,0.11,-1.01,-1.31,2026-11-24
-ASML/AMAT,ASML,AMAT,ASML,Applied Materials,Semi equipment,B,,0.625,0.099,0.84,10.3,0.43,-1.13,-1.58,2026-11-24
-BF-B/DEO,BF-B,DEO,Brown-Forman,Diageo,Spirits,B,,0.58,0.034,0.59,7.5,0.27,0.51,0.61,2026-11-24
-BX/KKR,BX,KKR,Blackstone Inc.,KKR & Co.,Alt managers,B,,0.834,0.088,0.84,9.3,0.44,1.42,1.42,2026-11-24
-CMCSA/CHTR,CMCSA,CHTR,Comcast,Charter Communications,Cable,B,,0.346,0.098,0.73,12.4,0.26,1.23,1.28,2026-11-24
-CNC/MOH,CNC,MOH,Centene Corporation,Molina,Medicaid managed care,B,,1.423,0.095,0.59,11.9,0.32,-1.12,-1.17,2026-11-24
-CVX/COP,CVX,COP,Chevron Corporation,ConocoPhillips,Integrated oil,B,,0.853,0.092,0.85,8.1,0.03,-0.78,-1.73,2026-11-24
-ETR/AEP,ETR,AEP,Entergy,American Electric Power,Utilities,B,,1.267,0.086,0.78,10.3,0.21,-1.51,-1.51,2026-11-24
-EWBC/CATY,EWBC,CATY,East West Bancorp,Cathay General,Regional banks,B,,0.699,0.076,0.78,8.7,0.41,-2.24,-2.24,2026-11-24
-FCX/SCCO,FCX,SCCO,Freeport-McMoRan,Southern Copper,Copper,B,,1.017,0.064,0.9,8.9,0.12,-0.86,-0.6,2026-11-24
-GS/MS,GS,MS,Goldman Sachs,Morgan Stanley,Investment banks,B,,0.817,0.09,0.88,9.1,0.32,-1.93,-1.9,2026-11-24
-IEX/NDSN,IEX,NDSN,IDEX Corporation,Nordson Corporation,Precision/flow,B,,0.934,0.093,0.66,9.4,0.48,-0.97,-0.97,2026-11-24
-LVS/WYNN,LVS,WYNN,Las Vegas Sands,Wynn Resorts,Casinos Macau/LV,B,,1.134,0.033,0.6,7.5,0.11,-1.23,-0.66,2026-11-24
-MPC/PSX,MPC,PSX,Marathon Petroleum,Phillips 66,Refiners,B,,1.269,0.094,0.88,9.6,0.04,-0.97,-1.19,2026-11-24
-MTB/CFG,MTB,CFG,M&T Bank,Citizens Financial Group,Regional banks,B,,0.887,0.078,0.86,6.9,0.16,1.89,1.89,2026-11-24
-NEM/AEM,NEM,AEM,Newmont,Agnico Eagle,Gold miners,B,,0.692,0.082,0.9,13.7,0.22,-2.04,-2.83,2026-11-24
-NTRS/BNY,NTRS,BNY,Northern Trust,BNY Mellon,Custody banks,B,,0.902,0.06,0.77,6.3,0.34,-1.8,-1.8,2026-11-24
-OKE/TRGP,OKE,TRGP,Oneok,Targa Resources,Midstream,B,,0.534,0.053,0.75,7.3,0.03,-1.92,-1.92,2026-11-24
-PH/ITW,PH,ITW,Parker Hannifin,Illinois Tool Works,Diversified industrials,B,,0.774,0.052,0.54,7.3,0.2,-1.48,-1.48,2026-11-24
-TFC/RF,TFC,RF,Truist Financial,Regions Financial Corporation,Regional banks,B,,0.675,0.094,0.88,9.6,0.34,0.6,0.6,2026-11-24
-TSM/UMC,TSM,UMC,TSMC,UMC,Foundries,B,,0.31,0.006,0.58,5.8,0.22,-1.73,-2.37,2026-11-24
-XOM/CVX,XOM,CVX,ExxonMobil,Chevron Corporation,Integrated oil,B,,0.98,0.083,0.87,8.3,0.21,-2.5,-2.35,2026-11-24
-A/MTD,A,MTD,Agilent Technologies,Mettler Toledo,Lab instruments,dormant,not cointegrated (p=0.66),1.028,0.663,0.68,32.9,0.07,-0.01,0.03,2026-11-24
-AA/CENX,AA,CENX,Alcoa,Century Aluminum,Aluminum,dormant,not cointegrated (p=0.60),0.798,0.601,0.76,18.7,0.39,-1.06,-0.71,2026-11-24
-ABBV/AMGN,ABBV,AMGN,AbbVie,Amgen,Large biopharma,dormant,not cointegrated (p=0.22); unstable hedge ratio (drift 0.62),0.89,0.219,0.55,16.4,0.62,-0.24,-0.18,2026-11-24
-ABBV/BMY,ABBV,BMY,AbbVie,Bristol Myers Squibb,Big pharma,dormant,not cointegrated (p=0.89); slow/no mean reversion; unstable hedge ratio (drift 1.01),0.894,0.885,0.55,62.1,1.01,1.21,1.16,2026-11-24
-ABG/AN,ABG,AN,Asbury Automotive,AutoNation,Auto dealers,dormant,not cointegrated (p=0.34); unstable hedge ratio (drift 0.85),1.014,0.339,0.76,15.3,0.85,0.62,0.7,2026-11-24
-ABT/MDT,ABT,MDT,Abbott Laboratories,Medtronic,Med devices,dormant,not cointegrated (p=0.25),1.017,0.249,0.55,18.4,0.43,-0.2,-0.26,2026-11-24
-ACGL/AXS,ACGL,AXS,Arch Capital Group,AXIS Capital,Specialty insurers,dormant,not cointegrated (p=0.73),0.659,0.726,0.7,26.1,0.19,1.46,1.46,2026-11-24
-ACN/CTSH,ACN,CTSH,Accenture,Cognizant,IT services,dormant,not cointegrated (p=0.87),1.021,0.867,0.85,36.4,0.25,0.87,0.87,2026-11-24
-ADI/MCHP,ADI,MCHP,Analog Devices,Microchip Technology,Analog/MCU semis,dormant,not cointegrated (p=0.70); unstable hedge ratio (drift 0.80),0.694,0.704,0.79,37.7,0.8,-0.85,-0.92,2026-11-24
-ADI/NXPI,ADI,NXPI,Analog Devices,NXP Semiconductors,Analog semis,dormant,not cointegrated (p=0.43); unstable hedge ratio (drift 0.54),0.706,0.432,0.69,25.2,0.54,-3.8,-3.86,2026-11-24
-ADI/ON,ADI,ON,Analog Devices,ON Semiconductor,Analog/power semis,dormant,not cointegrated (p=0.25); unstable hedge ratio (drift 0.79),0.491,0.245,0.76,18.2,0.79,-2.85,-3.01,2026-11-24
-ADM/BG,ADM,BG,Archer Daniels Midland,Bunge Global,Ag processing,dormant,not cointegrated (p=0.87); slow/no mean reversion,0.632,0.868,0.75,81.4,0.26,-1.0,-1.02,2026-11-24
-ADP/PAYX,ADP,PAYX,Automatic Data Processing,Paychex,Payroll,dormant,not cointegrated (p=0.88),1.122,0.88,0.87,58.0,0.19,0.86,0.86,2026-11-24
-ADSK/PTC,ADSK,PTC,Autodesk,PTC Inc.,Design software,dormant,not cointegrated (p=0.37); unstable hedge ratio (drift 1.05),0.535,0.37,0.59,17.8,1.05,0.12,0.12,2026-11-24
-AEE/CMS,AEE,CMS,Ameren,CMS Energy,Utilities Midwest,dormant,not cointegrated (p=0.80); unstable hedge ratio (drift 0.65),0.621,0.801,0.86,45.8,0.65,1.2,1.2,2026-11-24
-AEE/WEC,AEE,WEC,Ameren,WEC Energy Group,Utilities Midwest,dormant,not cointegrated (p=0.60),0.978,0.602,0.88,14.1,0.35,-1.73,-1.73,2026-11-24
-AEM/B,AEM,B,Agnico Eagle,Barrick Mining,Gold miners,dormant,not cointegrated (p=0.82),1.064,0.815,0.9,45.7,0.5,1.11,1.8,2026-11-24
-AEO/URBN,AEO,URBN,American Eagle,Urban Outfitters,Teen apparel,dormant,not cointegrated (p=0.83); unstable hedge ratio (drift 1.69),0.363,0.83,0.56,47.9,1.69,2.0,2.3,2026-11-24
-AEP/DUK,AEP,DUK,American Electric Power,Duke Energy,Utilities,dormant,not cointegrated (p=0.50),1.096,0.502,0.75,16.8,0.44,-2.1,-2.1,2026-11-24
-AEP/SO,AEP,SO,American Electric Power,Southern Company,Utilities,dormant,not cointegrated (p=0.15),1.101,0.152,0.78,10.6,0.42,-1.84,-1.84,2026-11-24
-AFG/CINF,AFG,CINF,American Financial,Cincinnati Financial,P&C insurers,dormant,not cointegrated (p=0.34),1.069,0.34,0.61,14.7,0.1,0.29,0.29,2026-11-24
-AFL/UNM,AFL,UNM,Aflac,Unum,Supplemental insurers,dormant,not cointegrated (p=0.78); low return correlation (0.25); unstable hedge ratio (drift 1.86),0.329,0.78,0.25,28.3,1.86,1.43,1.43,2026-11-24
-AGCO/CNH,AGCO,CNH,AGCO,CNH Industrial,Ag equipment,dormant,not cointegrated (p=0.63); unstable hedge ratio (drift 1.15),0.422,0.628,0.81,24.1,1.15,-1.11,-1.11,2026-11-24
-AIG/HIG,AIG,HIG,American International Group,Hartford (The),P&C insurers,dormant,not cointegrated (p=0.15),0.659,0.149,0.55,11.1,0.47,0.48,0.54,2026-11-24
-AIT/MSM,AIT,MSM,Applied Industrial Tech,MSC Industrial,Industrial distribution,dormant,not cointegrated (p=0.11),0.599,0.111,0.6,9.9,0.17,-0.81,-0.81,2026-11-24
-AJG/BRO,AJG,BRO,Arthur J. Gallagher & Co.,Brown & Brown,Insurance brokers,dormant,not cointegrated (p=0.88); slow/no mean reversion,0.709,0.885,0.84,76.7,0.47,0.91,1.08,2026-11-24
-ALB/SQM,ALB,SQM,Albemarle Corporation,SQM,Lithium,dormant,not cointegrated (p=0.71),1.516,0.714,0.8,24.3,0.13,2.05,2.42,2026-11-24
-ALL/PGR,ALL,PGR,Allstate,Progressive Corporation,Personal auto insurers,dormant,not cointegrated (p=0.60); unstable hedge ratio (drift 0.86),1.442,0.598,0.72,27.4,0.86,-0.24,-0.42,2026-11-24
-AMAT/KLAC,AMAT,KLAC,Applied Materials,KLA Corporation,Semi equipment,dormant,not cointegrated (p=0.15),1.2,0.145,0.9,11.1,0.11,0.41,0.6,2026-11-24
-AMAT/LRCX,AMAT,LRCX,Applied Materials,Lam Research,Semi equipment,dormant,not cointegrated (p=0.42),1.019,0.42,0.92,17.2,0.06,1.12,1.16,2026-11-24
-AME/FTV,AME,FTV,Ametek,Fortive,Instruments,dormant,not cointegrated (p=0.33); low return correlation (0.39); unstable hedge ratio (drift 1.73),0.632,0.329,0.39,16.0,1.73,-1.76,-1.76,2026-11-24
-AMGN/GILD,AMGN,GILD,Amgen,Gilead Sciences,Large biotech,dormant,not cointegrated (p=0.44),1.008,0.444,0.59,18.9,0.28,-0.78,-0.66,2026-11-24
-AMT/CCI,AMT,CCI,American Tower,Crown Castle,Tower REITs,dormant,not cointegrated (p=0.41),0.37,0.415,0.88,11.0,0.25,0.32,0.41,2026-11-24
-AMT/SBAC,AMT,SBAC,American Tower,SBA Communications,Tower REITs,dormant,not cointegrated (p=0.49); unstable hedge ratio (drift 1.50),0.266,0.488,0.74,10.9,1.5,0.82,0.82,2026-11-24
-AN/LAD,AN,LAD,AutoNation,Lithia Motors,Auto dealers,dormant,not cointegrated (p=0.75); unstable hedge ratio (drift 0.96),0.354,0.751,0.74,32.1,0.96,0.62,0.58,2026-11-24
-ANET/CSCO,ANET,CSCO,Arista Networks,Cisco,Networking,dormant,not cointegrated (p=0.19); unstable hedge ratio (drift 0.84),0.727,0.188,0.57,15.3,0.84,-0.62,-1.06,2026-11-24
-ANF/AEO,ANF,AEO,Abercrombie & Fitch,American Eagle,Teen apparel,dormant,not cointegrated (p=0.71); low return correlation (0.50); unstable hedge ratio (drift 1.42),0.278,0.705,0.5,37.4,1.42,1.11,0.85,2026-11-24
-AON/MRSH,AON,MRSH,Aon plc,Marsh McLennan,Insurance brokers,dormant,not cointegrated (p=0.72); unstable hedge ratio (drift 1.20),0.399,0.724,0.8,30.1,1.2,1.17,1.17,2026-11-24
-APA/DVN,APA,DVN,APA Corporation,Devon Energy,E&P,dormant,not cointegrated (p=0.98); slow/no mean reversion,1.849,0.977,0.85,187.5,0.02,2.24,2.39,2026-11-24
-APH/TEL,APH,TEL,Amphenol,TE Connectivity,Connectors,dormant,not cointegrated (p=0.18); unstable hedge ratio (drift 69.96),0.005,0.176,0.68,11.9,69.96,-1.7,-2.55,2026-11-24
-APO/ARES,APO,ARES,Apollo Global Management,Ares Management,Alt managers,dormant,not cointegrated (p=0.37),0.577,0.37,0.8,12.9,0.11,-0.68,-0.68,2026-11-24
-APTV/LEA,APTV,LEA,Aptiv,Lear,Auto parts,dormant,not cointegrated (p=0.97); slow/no mean reversion; unstable hedge ratio (drift 7.92),0.314,0.967,0.54,224.5,7.92,-1.93,-1.93,2026-11-24
-ARES/OWL,ARES,OWL,Ares Management,Blue Owl,Alt managers,dormant,not cointegrated (p=0.56),0.698,0.561,0.78,13.7,0.21,2.51,2.51,2026-11-24
-ARW/AVT,ARW,AVT,Arrow Electronics,Avnet,Electronics distribution,dormant,not cointegrated (p=0.21),1.023,0.206,0.87,10.1,0.3,0.72,1.15,2026-11-24
-ASB/ONB,ASB,ONB,Associated Banc-Corp,Old National,Regional banks Midwest,dormant,not cointegrated (p=0.71),1.119,0.708,0.9,15.5,0.04,1.55,1.55,2026-11-24
-ATO/OGS,ATO,OGS,Atmos Energy,ONE Gas,Gas utilities,dormant,not cointegrated (p=0.32),0.784,0.318,0.8,13.9,0.28,-1.22,-1.22,2026-11-24
-AWK/CWT,AWK,CWT,American Water Works,California Water,Water utilities,dormant,not cointegrated (p=0.84),0.592,0.842,0.71,26.1,0.36,1.39,1.39,2026-11-24
-AXP/COF,AXP,COF,American Express,Capital One,Card issuers,dormant,not cointegrated (p=0.11),0.705,0.113,0.75,11.1,0.38,1.84,1.81,2026-11-24
-AYI/HUBB,AYI,HUBB,Acuity,Hubbell Incorporated,Electrical equipment,dormant,negative hedge ratio; not cointegrated (p=0.15); low return correlation (0.50); unstable hedge ratio (drift 2.65),-0.494,0.151,0.5,11.0,2.65,-0.77,-1.86,2026-11-24
-AZN/GSK,AZN,GSK,AstraZeneca,GSK,European pharma,dormant,not cointegrated (p=0.30),0.74,0.298,0.61,21.3,0.41,1.21,1.25,2026-11-24
-AZN/NVS,AZN,NVS,AstraZeneca,Novartis,European pharma,dormant,not cointegrated (p=0.62); unstable hedge ratio (drift 0.61),0.202,0.623,0.57,27.4,0.61,1.42,1.48,2026-11-24
-BAC/C,BAC,C,Bank of America,Citigroup,Money-center banks,dormant,not cointegrated (p=0.72); unstable hedge ratio (drift 1.37),0.666,0.717,0.74,40.9,1.37,-0.64,-0.72,2026-11-24
-BAC/WFC,BAC,WFC,Bank of America,Wells Fargo,Money-center banks,dormant,not cointegrated (p=0.93); slow/no mean reversion; unstable hedge ratio (drift 1.45),0.775,0.931,0.78,101.9,1.45,-1.13,-1.2,2026-11-24
-BALL/CCK,BALL,CCK,Ball Corporation,Crown Holdings,Beverage cans,dormant,not cointegrated (p=0.25); unstable hedge ratio (drift 0.79),0.879,0.253,0.71,20.8,0.79,0.12,0.12,2026-11-24
-BDX/BAX,BDX,BAX,Becton Dickinson,Baxter International,Hospital supplies,dormant,not cointegrated (p=0.82); low return correlation (0.48); unstable hedge ratio (drift 0.92),0.595,0.821,0.48,35.6,0.92,1.48,1.48,2026-11-24
-BEN/IVZ,BEN,IVZ,Franklin Resources,Invesco,Traditional asset managers,dormant,not cointegrated (p=0.71),1.258,0.711,0.71,32.2,0.39,1.27,1.45,2026-11-24
-BHP/VALE,BHP,VALE,BHP,Vale,Diversified miners,dormant,not cointegrated (p=0.49); unstable hedge ratio (drift 1.59),0.393,0.495,0.74,41.4,1.59,-1.7,-2.45,2026-11-24
-BJ/COST,BJ,COST,BJ's Wholesale,Costco,Warehouse clubs,dormant,not cointegrated (p=0.50); unstable hedge ratio (drift 1.25),0.623,0.504,0.52,11.5,1.25,-1.29,-1.29,2026-11-24
-BKNG/EXPE,BKNG,EXPE,Booking Holdings,Expedia Group,Online travel,dormant,not cointegrated (p=0.86),0.545,0.856,0.75,48.8,0.46,-0.56,-0.72,2026-11-24
-BMY/MRK,BMY,MRK,Bristol Myers Squibb,Merck & Co.,Big pharma,dormant,unstable hedge ratio (drift 0.66),0.526,0.014,0.52,7.8,0.66,0.66,1.04,2026-11-24
-BNY/STT,BNY,STT,BNY Mellon,State Street Corporation,Custody banks,dormant,not cointegrated (p=0.14),0.754,0.142,0.82,8.2,0.02,1.29,1.66,2026-11-24
-BP/TTE,BP,TTE,BP,TotalEnergies,Integrated oil,dormant,not cointegrated (p=0.11); unstable hedge ratio (drift 0.52),0.865,0.105,0.78,10.7,0.52,-0.59,-0.42,2026-11-24
-BRX/REG,BRX,REG,Brixmor,Regency Centers,Shopping center REITs,dormant,not cointegrated (p=0.69),1.319,0.69,0.8,9.8,0.05,2.59,2.59,2026-11-24
-BWA/LEA,BWA,LEA,BorgWarner,Lear,Auto parts,dormant,not cointegrated (p=0.19),1.378,0.187,0.53,17.6,0.28,0.94,0.94,2026-11-24
-BX/APO,BX,APO,Blackstone Inc.,Apollo Global Management,Alt managers,dormant,not cointegrated (p=0.31),1.024,0.309,0.77,15.7,0.02,0.19,0.39,2026-11-24
-BXP/VNO,BXP,VNO,"BXP, Inc.",Vornado,Office REITs,dormant,not cointegrated (p=0.22),0.659,0.215,0.84,15.3,0.37,1.23,1.23,2026-11-24
-C/WFC,C,WFC,Citigroup,Wells Fargo,Money-center banks,dormant,not cointegrated (p=0.40); unstable hedge ratio (drift 6.84),0.11,0.396,0.69,21.8,6.84,-1.98,-2.27,2026-11-24
-CACI/SAIC,CACI,SAIC,CACI,SAIC,Gov IT services,dormant,not cointegrated (p=0.52); unstable hedge ratio (drift 3.38),0.247,0.516,0.54,24.5,3.38,-1.69,-1.69,2026-11-24
-CAG/CPB,CAG,CPB,Conagra,Campbell's,Packaged food,dormant,not cointegrated (p=0.40),0.711,0.399,0.72,19.6,0.0,-1.13,-0.85,2026-11-24
-CAH/MCK,CAH,MCK,Cardinal Health,McKesson,Drug distributors,dormant,not cointegrated (p=0.80),0.732,0.798,0.73,41.6,0.02,1.68,1.68,2026-11-24
-CARR/LII,CARR,LII,Carrier Global,Lennox International,HVAC,dormant,not cointegrated (p=0.58); unstable hedge ratio (drift 0.62),0.343,0.576,0.68,21.2,0.62,-1.04,-1.17,2026-11-24
-CASY/MUSA,CASY,MUSA,Casey's,Murphy USA,Convenience stores,dormant,not cointegrated (p=0.48); low return correlation (0.43); unstable hedge ratio (drift 0.82),0.801,0.475,0.43,19.7,0.82,0.79,0.79,2026-11-24
-CAT/DE,CAT,DE,Caterpillar Inc.,Deere & Company,Heavy machinery,dormant,not cointegrated (p=0.98); low return correlation (0.41); slow/no mean reversion; unstable hedge ratio (drift 3.66),0.627,0.983,0.41,138.9,3.66,-1.56,-1.6,2026-11-24
-CB/TRV,CB,TRV,Chubb Limited,Travelers Companies (The),P&C insurers,dormant,unstable hedge ratio (drift 1.38),0.427,0.097,0.73,11.0,1.38,1.66,1.66,2026-11-24
-CBRE/JLL,CBRE,JLL,CBRE Group,Jones Lang LaSalle,Real estate services,dormant,not cointegrated (p=0.83); unstable hedge ratio (drift 1.34),0.573,0.826,0.86,48.4,1.34,-0.91,-1.01,2026-11-24
-CCI/SBAC,CCI,SBAC,Crown Castle,SBA Communications,Tower REITs,dormant,not cointegrated (p=0.57); unstable hedge ratio (drift 1.26),0.738,0.569,0.76,21.9,1.26,1.02,1.02,2026-11-24
-CCL/NCLH,CCL,NCLH,Carnival Corporation,Norwegian Cruise Line Holdings,Cruise lines,dormant,not cointegrated (p=0.28),0.497,0.275,0.81,13.7,0.23,0.78,0.55,2026-11-24
-CCL/RCL,CCL,RCL,Carnival Corporation,Royal Caribbean Group,Cruise lines,dormant,not cointegrated (p=0.26),0.903,0.259,0.81,13.3,0.03,-0.43,-0.86,2026-11-24
-CDNS/SNPS,CDNS,SNPS,Cadence Design Systems,Synopsys,EDA software,dormant,not cointegrated (p=0.71),0.525,0.712,0.8,32.1,0.16,-1.1,-1.92,2026-11-24
-CEG/VST,CEG,VST,Constellation Energy,Vistra Corp.,Power generators,dormant,not cointegrated (p=0.23); unstable hedge ratio (drift 1.17),0.853,0.231,0.81,25.2,1.17,0.77,0.81,2026-11-24
-CF/NTR,CF,NTR,CF Industries,Nutrien,Fertilizers,dormant,not cointegrated (p=0.64); unstable hedge ratio (drift 0.61),1.655,0.641,0.67,25.4,0.61,1.73,1.73,2026-11-24
-CFG/RF,CFG,RF,Citizens Financial Group,Regions Financial Corporation,Regional banks,dormant,not cointegrated (p=0.37),1.195,0.371,0.89,16.9,0.04,-1.28,-1.28,2026-11-24
-CFR/BOKF,CFR,BOKF,Cullen/Frost,BOK Financial,Regional banks Texas/OK,dormant,not cointegrated (p=0.76),1.284,0.757,0.79,38.8,0.03,-1.46,-1.46,2026-11-24
-CG/KKR,CG,KKR,Carlyle,KKR & Co.,Alt managers,dormant,not cointegrated (p=0.86); unstable hedge ratio (drift 0.55),0.919,0.857,0.77,48.6,0.55,-0.72,-0.72,2026-11-24
-CHD/CLX,CHD,CLX,Church & Dwight,Clorox,Household products,dormant,not cointegrated (p=0.73),0.12,0.725,0.6,39.6,0.47,1.3,1.3,2026-11-24
-CHRW/EXPD,CHRW,EXPD,C.H. Robinson,Expeditors International,Freight brokerage,dormant,negative hedge ratio; unstable hedge ratio (drift 3.44),-0.595,0.064,0.61,9.2,3.44,0.17,0.17,2026-11-24
-CINF/WRB,CINF,WRB,Cincinnati Financial,W. R. Berkley Corporation,P&C insurers,dormant,unstable hedge ratio (drift 0.70),0.882,0.033,0.59,9.6,0.7,0.55,0.55,2026-11-24
-CL/CLX,CL,CLX,Colgate-Palmolive,Clorox,Household products,dormant,not cointegrated (p=0.50); unstable hedge ratio (drift 0.89),0.146,0.503,0.54,32.0,0.89,1.27,1.41,2026-11-24
-CL/KMB,CL,KMB,Colgate-Palmolive,Kimberly-Clark,Household products,dormant,not cointegrated (p=0.37),0.831,0.366,0.66,21.0,0.22,1.46,1.71,2026-11-24
-CME/CBOE,CME,CBOE,CME Group,Cboe Global Markets,Exchanges,dormant,not cointegrated (p=0.69); unstable hedge ratio (drift 0.90),0.459,0.692,0.61,31.8,0.9,-0.09,-0.09,2026-11-24
-CMS/DTE,CMS,DTE,CMS Energy,DTE Energy,Utilities Michigan,dormant,not cointegrated (p=0.29),0.778,0.287,0.87,18.9,0.13,1.41,1.41,2026-11-24
-CMS/WEC,CMS,WEC,CMS Energy,WEC Energy Group,Utilities Midwest,dormant,not cointegrated (p=0.97); slow/no mean reversion,0.89,0.967,0.86,77.8,0.11,-1.08,-1.08,2026-11-24
-CNP/NI,CNP,NI,CenterPoint Energy,NiSource,Utilities gas-heavy,dormant,not cointegrated (p=0.38),0.817,0.378,0.76,11.3,0.21,-1.47,-1.47,2026-11-24
-CNQ/CVE,CNQ,CVE,Canadian Natural,Cenovus,Canadian oil,dormant,not cointegrated (p=0.65),0.672,0.649,0.87,31.9,0.21,-0.29,-0.26,2026-11-24
-CNX/RRC,CNX,RRC,CNX Resources,Range Resources,Natural gas E&P,dormant,not cointegrated (p=0.69),0.144,0.691,0.69,28.5,0.35,-0.77,-0.77,2026-11-24
-COF/SYF,COF,SYF,Capital One,Synchrony Financial,Card issuers,dormant,not cointegrated (p=0.43),1.175,0.43,0.82,13.9,0.01,-0.46,-0.68,2026-11-24
-COP/EOG,COP,EOG,ConocoPhillips,EOG Resources,E&P,dormant,not cointegrated (p=0.52); unstable hedge ratio (drift 0.58),0.998,0.522,0.88,25.0,0.58,0.52,2.7,2026-11-24
-COP/FANG,COP,FANG,ConocoPhillips,Diamondback Energy,E&P,dormant,not cointegrated (p=0.96); slow/no mean reversion,1.075,0.956,0.81,102.1,0.19,1.4,1.4,2026-11-24
-COR/CAH,COR,CAH,Cencora,Cardinal Health,Drug distributors,dormant,not cointegrated (p=0.56); unstable hedge ratio (drift 2.06),0.312,0.558,0.62,24.1,2.06,0.94,0.94,2026-11-24
-CP/CNI,CP,CNI,Canadian Pacific Kansas City,Canadian National,Canadian railroads,dormant,not cointegrated (p=0.25),0.801,0.253,0.82,13.6,0.28,1.25,1.25,2026-11-24
-CPAY/WEX,CPAY,WEX,Corpay,WEX,Fleet payments,dormant,not cointegrated (p=0.63),0.826,0.629,0.53,25.1,0.39,1.35,1.41,2026-11-24
-CPB/SJM,CPB,SJM,Campbell's,J.M. Smucker Company (The),Packaged food,dormant,negative hedge ratio; not cointegrated (p=0.40); unstable hedge ratio (drift 5.16),-0.142,0.404,0.57,24.1,5.16,1.53,1.53,2026-11-24
-CPRT/RBA,CPRT,RBA,Copart,RB Global,Vehicle auctions,dormant,not cointegrated (p=0.61); low return correlation (0.41); unstable hedge ratio (drift 1.78),0.489,0.609,0.41,35.8,1.78,0.55,0.55,2026-11-24
-CPT/MAA,CPT,MAA,Camden Property Trust,Mid-America Apartment Communities,Apartment REITs Sunbelt,dormant,not cointegrated (p=0.41),0.892,0.414,0.93,22.1,0.03,0.17,0.01,2026-11-24
-CRWD/ZS,CRWD,ZS,CrowdStrike,Zscaler,Cybersecurity,dormant,not cointegrated (p=0.88); slow/no mean reversion; unstable hedge ratio (drift 1.04),0.399,0.876,0.63,117.7,1.04,-2.53,-2.94,2026-11-24
-CTSH/INFY,CTSH,INFY,Cognizant,Infosys,IT services,dormant,not cointegrated (p=0.79),0.956,0.794,0.74,43.4,0.28,-2.16,-2.16,2026-11-24
-CVS/CI,CVS,CI,CVS Health,Cigna,PBM / insurers,dormant,not cointegrated (p=0.36); low return correlation (0.45); unstable hedge ratio (drift 0.68),1.802,0.363,0.45,16.4,0.68,-0.28,-0.02,2026-11-24
-CWT/AWR,CWT,AWR,California Water,American States Water,Water utilities,dormant,not cointegrated (p=0.24); unstable hedge ratio (drift 0.51),0.681,0.244,0.87,10.7,0.51,1.78,1.78,2026-11-24
-CZR/BYD,CZR,BYD,Caesars,Boyd Gaming,Regional casinos,dormant,negative hedge ratio; not cointegrated (p=0.72); low return correlation (0.34),-0.411,0.721,0.34,18.3,0.27,0.83,0.83,2026-11-24
-CZR/MGM,CZR,MGM,Caesars,MGM Resorts,Casinos,dormant,not cointegrated (p=0.75); low return correlation (0.46); unstable hedge ratio (drift 5.35),0.277,0.748,0.46,28.1,5.35,-0.5,-0.46,2026-11-24
-D/DUK,D,DUK,Dominion Energy,Duke Energy,Utilities Southeast,dormant,not cointegrated (p=0.73),0.861,0.728,0.71,38.0,0.33,-1.66,-1.66,2026-11-24
-D/SO,D,SO,Dominion Energy,Southern Company,Utilities Southeast,dormant,not cointegrated (p=0.72),0.887,0.715,0.68,34.2,0.25,-0.55,-0.55,2026-11-24
-DAL/AAL,DAL,AAL,Delta Air Lines,American Airlines,Airlines,dormant,not cointegrated (p=0.75),0.497,0.754,0.86,53.1,0.3,1.3,1.13,2026-11-24
-DAL/UAL,DAL,UAL,Delta Air Lines,United Airlines Holdings,Airlines,dormant,not cointegrated (p=0.90); slow/no mean reversion,0.877,0.901,0.91,64.3,0.31,1.18,1.28,2026-11-24
-DDOG/DT,DDOG,DT,Datadog,Dynatrace,Observability,dormant,not cointegrated (p=0.83),1.446,0.826,0.55,39.9,0.37,-1.91,-2.15,2026-11-24
-DE/AGCO,DE,AGCO,Deere & Company,AGCO,Ag equipment,dormant,not cointegrated (p=0.77); unstable hedge ratio (drift 1.39),0.53,0.768,0.74,56.8,1.39,-1.55,-1.55,2026-11-24
-DE/CNH,DE,CNH,Deere & Company,CNH Industrial,Ag equipment,dormant,not cointegrated (p=0.60),0.926,0.602,0.75,17.6,0.35,0.55,0.16,2026-11-24
-DG/DLTR,DG,DLTR,Dollar General,Dollar Tree,Dollar stores,dormant,not cointegrated (p=0.42),0.626,0.422,0.66,20.4,0.26,-2.34,-2.2,2026-11-24
-DHI/LEN,DHI,LEN,D. R. Horton,Lennar,Homebuilders,dormant,unstable hedge ratio (drift 1.83),0.245,0.087,0.89,7.2,1.83,2.05,2.26,2026-11-24
-DHI/NVR,DHI,NVR,D. R. Horton,"NVR, Inc.",Homebuilders,dormant,unstable hedge ratio (drift 0.89),0.32,0.088,0.77,7.8,0.89,1.9,1.9,2026-11-24
-DINO/PBF,DINO,PBF,HF Sinclair,PBF Energy,Refiners,dormant,not cointegrated (p=0.45),0.853,0.454,0.79,19.2,0.18,-0.3,-0.26,2026-11-24
-DIS/CMCSA,DIS,CMCSA,Walt Disney Company (The),Comcast,Media conglomerates,dormant,not cointegrated (p=0.94); low return correlation (0.35); unstable hedge ratio (drift 10.63),0.032,0.94,0.35,26.3,10.63,2.0,1.92,2026-11-24
-DKNG/FLUT,DKNG,FLUT,DraftKings,Flutter,Online betting,dormant,not cointegrated (p=0.12); unstable hedge ratio (drift 0.78),0.513,0.121,0.65,9.3,0.78,-2.12,-2.44,2026-11-24
-DKS/ASO,DKS,ASO,Dick's Sporting Goods,Academy Sports,Sporting goods,dormant,negative hedge ratio; not cointegrated (p=0.86); low return correlation (0.46); unstable hedge ratio (drift 2.02),-0.243,0.862,0.46,34.5,2.02,2.03,2.03,2026-11-24
-DOW/LYB,DOW,LYB,Dow Inc.,LyondellBasell,Commodity chemicals,dormant,not cointegrated (p=0.66),0.885,0.665,0.91,25.9,0.16,1.17,1.12,2026-11-24
-DPZ/PZZA,DPZ,PZZA,Domino's,Papa John's,Pizza chains,dormant,not cointegrated (p=0.82); low return correlation (0.32); unstable hedge ratio (drift 2.65),0.24,0.819,0.32,42.5,2.65,1.93,1.84,2026-11-24
-DRI/EAT,DRI,EAT,Darden Restaurants,Brinker,Casual dining,dormant,not cointegrated (p=0.38),0.257,0.375,0.52,16.1,0.37,2.19,2.19,2026-11-24
-DRI/TXRH,DRI,TXRH,Darden Restaurants,Texas Roadhouse,Casual dining,dormant,not cointegrated (p=0.58); unstable hedge ratio (drift 0.68),0.461,0.579,0.61,23.6,0.68,2.65,2.65,2026-11-24
-DTE/AEE,DTE,AEE,DTE Energy,Ameren,Utilities Midwest,dormant,not cointegrated (p=0.95),1.048,0.954,0.84,44.2,0.11,-1.04,-1.04,2026-11-24
-DTE/WEC,DTE,WEC,DTE Energy,WEC Energy Group,Utilities Midwest,dormant,not cointegrated (p=0.99); slow/no mean reversion,1.091,0.987,0.83,61.7,0.31,-1.47,-1.47,2026-11-24
-DUK/SO,DUK,SO,Duke Energy,Southern Company,Utilities Southeast,dormant,not cointegrated (p=0.67),0.927,0.665,0.87,8.5,0.17,1.88,1.57,2026-11-24
-DVN/FANG,DVN,FANG,Devon Energy,Diamondback Energy,E&P,dormant,not cointegrated (p=0.41),0.903,0.408,0.84,17.3,0.13,-2.29,-2.29,2026-11-24
-EBAY/ETSY,EBAY,ETSY,eBay Inc.,Etsy,Online marketplaces,dormant,not cointegrated (p=0.23); unstable hedge ratio (drift 0.70),0.554,0.228,0.51,14.4,0.7,0.0,0.16,2026-11-24
-ED/ES,ED,ES,Consolidated Edison,Eversource Energy,Utilities Northeast,dormant,not cointegrated (p=0.79); unstable hedge ratio (drift 0.69),0.886,0.792,0.69,36.2,0.69,0.54,0.54,2026-11-24
-ED/PEG,ED,PEG,Consolidated Edison,Public Service Enterprise Group,Utilities Northeast,dormant,not cointegrated (p=0.86); unstable hedge ratio (drift 61.93),0.017,0.859,0.61,41.4,61.93,1.4,1.47,2026-11-24
-EFX/TRU,EFX,TRU,Equifax,TransUnion,Credit bureaus,dormant,not cointegrated (p=0.63),1.028,0.634,0.87,28.6,0.12,1.43,1.43,2026-11-24
-EGP/FR,EGP,FR,EastGroup,First Industrial,Industrial REITs,dormant,not cointegrated (p=0.97); slow/no mean reversion; unstable hedge ratio (drift 1.06),0.781,0.97,0.79,155.7,1.06,1.36,1.66,2026-11-24
-EIX/PCG,EIX,PCG,Edison International,PG&E Corporation,Utilities California,dormant,not cointegrated (p=0.44),0.812,0.444,0.88,28.2,0.36,0.63,0.71,2026-11-24
-ELV/CI,ELV,CI,Elevance Health,Cigna,Managed care,dormant,not cointegrated (p=0.24),2.027,0.244,0.52,12.9,0.44,0.46,0.66,2026-11-24
-EME/FIX,EME,FIX,Emcor,Comfort Systems USA,Specialty contractors,dormant,not cointegrated (p=0.34),0.441,0.342,0.87,11.8,0.09,-0.52,-1.17,2026-11-24
-EMN/CE,EMN,CE,Eastman Chemical,Celanese,Specialty chemicals,dormant,not cointegrated (p=0.13); unstable hedge ratio (drift 0.51),0.317,0.126,0.56,13.4,0.51,-1.41,-1.41,2026-11-24
-ENB/TRP,ENB,TRP,Enbridge,TC Energy,Canadian pipelines,dormant,not cointegrated (p=0.95); slow/no mean reversion,0.763,0.953,0.84,94.4,0.44,-1.14,-1.14,2026-11-24
-ENPH/SEDG,ENPH,SEDG,Enphase,SolarEdge,Residential solar,dormant,not cointegrated (p=0.21),0.675,0.208,0.68,14.6,0.31,-1.0,-1.0,2026-11-24
-EOG/DVN,EOG,DVN,EOG Resources,Devon Energy,E&P,dormant,not cointegrated (p=0.96); slow/no mean reversion,1.078,0.959,0.87,187.6,0.28,1.88,1.74,2026-11-24
-EPAM/GLOB,EPAM,GLOB,EPAM,Globant,IT services,dormant,not cointegrated (p=0.15),1.145,0.148,0.74,10.7,0.07,-0.28,-0.28,2026-11-24
-EPD/ET,EPD,ET,Enterprise Products,Energy Transfer,Midstream MLPs,dormant,not cointegrated (p=0.60); unstable hedge ratio (drift 0.77),0.77,0.601,0.63,12.9,0.77,1.06,1.06,2026-11-24
-EPD/MPLX,EPD,MPLX,Enterprise Products,MPLX,Midstream MLPs,dormant,not cointegrated (p=0.34); unstable hedge ratio (drift 0.84),1.282,0.343,0.51,16.6,0.84,-0.23,-0.23,2026-11-24
-EQIX/DLR,EQIX,DLR,Equinix,Digital Realty,Data center REITs,dormant,not cointegrated (p=0.33); unstable hedge ratio (drift 0.60),1.526,0.333,0.8,11.0,0.6,2.78,3.16,2026-11-24
-EQT/AR,EQT,AR,EQT Corporation,Antero Resources,Natural gas E&P,dormant,not cointegrated (p=0.81),0.666,0.805,0.79,30.5,0.27,-1.4,-1.38,2026-11-24
-EQT/EXE,EQT,EXE,EQT Corporation,Expand Energy,Natural gas E&P,dormant,not cointegrated (p=0.49); unstable hedge ratio (drift 0.90),0.55,0.487,0.8,21.8,0.9,-0.59,-0.59,2026-11-24
-EQT/RRC,EQT,RRC,EQT Corporation,Range Resources,Natural gas E&P,dormant,not cointegrated (p=0.79); unstable hedge ratio (drift 2.72),0.184,0.794,0.73,32.7,2.72,-1.78,-1.83,2026-11-24
-ESS/UDR,ESS,UDR,Essex Property Trust,"UDR, Inc.",Apartment REITs coastal,dormant,not cointegrated (p=0.91); slow/no mean reversion,0.838,0.906,0.85,78.9,0.1,-0.6,-1.01,2026-11-24
-ETN/HUBB,ETN,HUBB,Eaton Corporation,Hubbell Incorporated,Electrical equipment,dormant,not cointegrated (p=0.59),0.754,0.586,0.66,23.8,0.08,-2.12,-2.33,2026-11-24
-ETR/SO,ETR,SO,Entergy,Southern Company,Utilities South,dormant,not cointegrated (p=0.51); unstable hedge ratio (drift 0.51),1.323,0.507,0.64,17.3,0.51,-2.32,-2.52,2026-11-24
-EVR/LAZ,EVR,LAZ,Evercore,Lazard,Advisory boutiques,dormant,not cointegrated (p=0.45),0.746,0.454,0.74,21.2,0.35,1.42,1.42,2026-11-24
-EVR/PJT,EVR,PJT,Evercore,PJT Partners,Advisory boutiques,dormant,not cointegrated (p=0.71),0.706,0.709,0.72,34.0,0.28,1.19,1.19,2026-11-24
-EVRG/AEE,EVRG,AEE,Evergy,Ameren,Utilities Midwest,dormant,not cointegrated (p=0.69),1.102,0.695,0.83,19.6,0.23,-0.96,-0.96,2026-11-24
-EVRG/LNT,EVRG,LNT,Evergy,Alliant Energy,Utilities Midwest,dormant,not cointegrated (p=0.91); unstable hedge ratio (drift 0.57),0.929,0.909,0.85,46.6,0.57,-0.2,-0.2,2026-11-24
-EXC/PPL,EXC,PPL,Exelon,PPL Corporation,Utilities Mid-Atlantic,dormant,not cointegrated (p=0.53),0.94,0.535,0.8,13.9,0.41,1.83,1.83,2026-11-24
-EXE/AR,EXE,AR,Expand Energy,Antero Resources,Natural gas E&P,dormant,not cointegrated (p=0.73); unstable hedge ratio (drift 2.20),0.21,0.73,0.76,39.9,2.2,-1.71,-1.71,2026-11-24
-EXP/MLM,EXP,MLM,Eagle Materials,Martin Marietta Materials,Cement & aggregates,dormant,not cointegrated (p=0.50),0.762,0.504,0.73,19.9,0.44,-0.99,-0.99,2026-11-24
-EXR/CUBE,EXR,CUBE,Extra Space Storage,CubeSmart,Self-storage REITs,dormant,not cointegrated (p=0.14),0.83,0.136,0.91,11.0,0.04,1.3,1.3,2026-11-24
-F/STLA,F,STLA,Ford Motor Company,Stellantis,Automakers,dormant,not cointegrated (p=0.32); low return correlation (0.48); unstable hedge ratio (drift 7.95),0.033,0.315,0.48,19.0,7.95,-0.43,-0.54,2026-11-24
-FANG/EOG,FANG,EOG,Diamondback Energy,EOG Resources,E&P,dormant,not cointegrated (p=0.71); unstable hedge ratio (drift 0.69),0.753,0.715,0.84,24.7,0.69,-1.29,-1.29,2026-11-24
-FAST/GWW,FAST,GWW,Fastenal,W. W. Grainger,Industrial distribution,dormant,not cointegrated (p=0.55),0.583,0.55,0.58,19.7,0.02,-0.29,-0.29,2026-11-24
-FAST/MSM,FAST,MSM,Fastenal,MSC Industrial,Industrial distribution,dormant,not cointegrated (p=0.54); low return correlation (0.43),0.406,0.535,0.43,20.5,0.45,1.41,1.41,2026-11-24
-FCX/TECK,FCX,TECK,Freeport-McMoRan,Teck Resources,Copper,dormant,not cointegrated (p=0.26),0.928,0.257,0.8,12.7,0.33,-2.18,-2.31,2026-11-24
-FE/EXC,FE,EXC,FirstEnergy,Exelon,Utilities Mid-Atlantic,dormant,not cointegrated (p=0.10),0.871,0.102,0.8,10.0,0.45,-0.79,-0.79,2026-11-24
-FHN/RF,FHN,RF,First Horizon,Regions Financial Corporation,Regional banks South,dormant,not cointegrated (p=0.26),0.647,0.264,0.82,11.3,0.07,-2.32,-2.32,2026-11-24
-FITB/HBAN,FITB,HBAN,Fifth Third Bancorp,Huntington Bancshares,Regional banks,dormant,not cointegrated (p=0.56),0.7,0.559,0.89,51.0,0.0,0.85,0.85,2026-11-24
-FIVE/OLLI,FIVE,OLLI,Five Below,Ollie's,Discount retail,dormant,negative hedge ratio; not cointegrated (p=0.16); low return correlation (0.47); unstable hedge ratio (drift 4.63),-0.201,0.16,0.47,14.4,4.63,-0.17,-0.3,2026-11-24
-FLEX/JBL,FLEX,JBL,Flex Ltd.,Jabil,EMS,dormant,not cointegrated (p=0.36),1.772,0.363,0.81,20.5,0.19,0.61,1.0,2026-11-24
-FRT/KIM,FRT,KIM,Federal Realty Investment Trust,Kimco Realty,Shopping center REITs,dormant,not cointegrated (p=0.89),0.863,0.895,0.76,47.7,0.07,-1.52,-1.52,2026-11-24
-FTNT/CHKP,FTNT,CHKP,Fortinet,Check Point,Firewalls,dormant,negative hedge ratio; not cointegrated (p=0.67); low return correlation (0.39),-1.449,0.665,0.39,27.2,0.07,0.01,0.01,2026-11-24
-GD/HII,GD,HII,General Dynamics,Huntington Ingalls Industries,Shipbuilders,dormant,negative hedge ratio; not cointegrated (p=0.24); unstable hedge ratio (drift 13.49),-0.032,0.237,0.59,13.9,13.49,0.2,0.2,2026-11-24
-GEHC/PHG,GEHC,PHG,GE HealthCare,Philips,Imaging,dormant,not cointegrated (p=0.55),1.135,0.55,0.6,25.4,0.18,0.72,0.9,2026-11-24
-GIS/CAG,GIS,CAG,General Mills,Conagra,Packaged food,dormant,not cointegrated (p=0.35),1.04,0.352,0.83,18.0,0.21,-0.41,-0.77,2026-11-24
-GIS/CPB,GIS,CPB,General Mills,Campbell's,Packaged food,dormant,not cointegrated (p=0.29),0.918,0.288,0.75,13.3,0.12,-1.36,-1.34,2026-11-24
-GIS/POST,GIS,POST,General Mills,Post Holdings,Packaged food,dormant,not cointegrated (p=0.72); low return correlation (0.42); unstable hedge ratio (drift 1.37),0.489,0.719,0.42,33.9,1.37,0.36,0.36,2026-11-24
-GM/F,GM,F,General Motors,Ford Motor Company,Detroit automakers,dormant,not cointegrated (p=0.20); unstable hedge ratio (drift 1.13),0.325,0.197,0.6,9.0,1.13,-0.05,-0.32,2026-11-24
-GOOGL/META,GOOGL,META,Alphabet Inc. (Class A),Meta Platforms,Digital advertising,dormant,not cointegrated (p=0.78); low return correlation (0.33); unstable hedge ratio (drift 1.73),0.014,0.783,0.33,31.6,1.73,-1.56,-2.07,2026-11-24
-GPC/LKQ,GPC,LKQ,Genuine Parts Company,LKQ,Auto parts distribution,dormant,negative hedge ratio; not cointegrated (p=0.72); unstable hedge ratio (drift 20.63),-0.066,0.722,0.54,34.6,20.63,-1.26,-1.26,2026-11-24
-GSK/SNY,GSK,SNY,GSK,Sanofi,European pharma,dormant,not cointegrated (p=0.26); unstable hedge ratio (drift 6.03),0.126,0.261,0.52,16.5,6.03,0.02,-0.09,2026-11-24
-GWW/MSM,GWW,MSM,W. W. Grainger,MSC Industrial,Industrial distribution,dormant,not cointegrated (p=0.18); low return correlation (0.38); unstable hedge ratio (drift 1.42),0.674,0.183,0.38,11.8,1.42,1.54,1.54,2026-11-24
-HAL/BKR,HAL,BKR,Halliburton,Baker Hughes,Oilfield services,dormant,unstable hedge ratio (drift 0.65),0.819,0.099,0.62,13.0,0.65,1.12,1.06,2026-11-24
-HAS/MAT,HAS,MAT,Hasbro,Mattel,Toys,dormant,negative hedge ratio; not cointegrated (p=0.68); low return correlation (0.27); unstable hedge ratio (drift 10.62),-0.127,0.685,0.27,41.4,10.62,0.68,0.68,2026-11-24
-HBAN/KEY,HBAN,KEY,Huntington Bancshares,KeyCorp,Regional banks,dormant,not cointegrated (p=0.69); unstable hedge ratio (drift 0.95),0.625,0.694,0.86,29.0,0.95,-1.75,-1.75,2026-11-24
-HBAN/RF,HBAN,RF,Huntington Bancshares,Regions Financial Corporation,Regional banks,dormant,not cointegrated (p=0.94),0.592,0.939,0.85,35.2,0.29,-2.42,-2.42,2026-11-24
-HCA/THC,HCA,THC,HCA Healthcare,Tenet,Hospitals,dormant,not cointegrated (p=0.85); unstable hedge ratio (drift 2.33),0.149,0.854,0.65,38.3,2.33,0.92,0.92,2026-11-24
-HCA/UHS,HCA,UHS,HCA Healthcare,Universal Health Services,Hospitals,dormant,not cointegrated (p=0.47); unstable hedge ratio (drift 0.72),0.654,0.473,0.69,19.8,0.72,1.2,1.04,2026-11-24
-HD/LOW,HD,LOW,Home Depot (The),Lowe's,Home improvement,dormant,not cointegrated (p=0.68),0.558,0.678,0.92,27.5,0.01,1.37,1.34,2026-11-24
-HIG/CINF,HIG,CINF,Hartford (The),Cincinnati Financial,P&C insurers,dormant,not cointegrated (p=0.14); unstable hedge ratio (drift 1.04),0.253,0.138,0.68,10.7,1.04,0.51,0.51,2026-11-24
-HLT/H,HLT,H,Hilton Worldwide,Hyatt,Hotels,dormant,not cointegrated (p=0.70),0.601,0.704,0.76,26.6,0.19,0.57,0.57,2026-11-24
-HP/PTEN,HP,PTEN,Helmerich & Payne,Patterson-UTI,Land drillers,dormant,not cointegrated (p=0.11); unstable hedge ratio (drift 0.98),0.485,0.105,0.77,9.8,0.98,-0.94,-0.94,2026-11-24
-HPQ/DELL,HPQ,DELL,HP Inc.,Dell Technologies,PCs,dormant,not cointegrated (p=0.60); low return correlation (0.41); unstable hedge ratio (drift 1.22),0.295,0.598,0.41,22.4,1.22,0.65,1.56,2026-11-24
-HRL/TSN,HRL,TSN,Hormel Foods,Tyson Foods,Protein,dormant,not cointegrated (p=0.58); low return correlation (0.28); unstable hedge ratio (drift 11.83),0.12,0.58,0.28,24.2,11.83,1.86,1.94,2026-11-24
-HST/PK,HST,PK,Host Hotels & Resorts,Park Hotels,Hotel REITs,dormant,not cointegrated (p=0.59); unstable hedge ratio (drift 1.46),0.676,0.594,0.79,36.0,1.46,1.05,1.05,2026-11-24
-HSY/MDLZ,HSY,MDLZ,Hershey Company (The),Mondelez International,Confectionery,dormant,negative hedge ratio; not cointegrated (p=0.49); unstable hedge ratio (drift 1.09),-0.405,0.489,0.57,20.9,1.09,1.56,1.68,2026-11-24
-HUM/UNH,HUM,UNH,Humana,UnitedHealth Group,Medicare Advantage,dormant,not cointegrated (p=0.88); unstable hedge ratio (drift 0.60),2.009,0.876,0.71,34.5,0.6,2.73,2.89,2026-11-24
-IBM/ACN,IBM,ACN,IBM,Accenture,IT services,dormant,not cointegrated (p=0.25); low return correlation (0.48); unstable hedge ratio (drift 2.76),0.252,0.247,0.48,15.8,2.76,-0.57,-1.02,2026-11-24
-ICE/CME,ICE,CME,Intercontinental Exchange,CME Group,Exchanges,dormant,not cointegrated (p=0.22); unstable hedge ratio (drift 1.56),0.665,0.224,0.53,17.3,1.56,1.34,1.34,2026-11-24
-INFY/WIT,INFY,WIT,Infosys,Wipro,Indian IT services,dormant,low return correlation (0.49); unstable hedge ratio (drift 0.73),0.977,0.073,0.49,8.9,0.73,-0.71,-0.88,2026-11-24
-INVH/AMH,INVH,AMH,Invitation Homes,American Homes 4 Rent,Single-family rental REITs,dormant,not cointegrated (p=0.92),1.031,0.925,0.88,23.1,0.21,-1.43,-1.43,2026-11-24
-IP/PKG,IP,PKG,International Paper,Packaging Corporation of America,Containerboard,dormant,not cointegrated (p=0.79); unstable hedge ratio (drift 0.55),0.274,0.786,0.75,33.1,0.55,-1.91,-1.79,2026-11-24
-IP/SW,IP,SW,International Paper,Smurfit Westrock,Containerboard,dormant,not cointegrated (p=0.75); unstable hedge ratio (drift 0.74),0.561,0.749,0.78,36.3,0.74,-1.54,-1.54,2026-11-24
-IQV/ICLR,IQV,ICLR,IQVIA,ICON,CROs,dormant,not cointegrated (p=0.35); unstable hedge ratio (drift 0.72),0.683,0.352,0.55,16.1,0.72,-1.95,-2.3,2026-11-24
-IR/DOV,IR,DOV,Ingersoll Rand,Dover Corporation,Diversified industrials,dormant,not cointegrated (p=0.59); unstable hedge ratio (drift 0.51),0.562,0.59,0.68,24.9,0.51,1.15,1.15,2026-11-24
-ITW/DOV,ITW,DOV,Illinois Tool Works,Dover Corporation,Diversified industrials,dormant,not cointegrated (p=0.66); unstable hedge ratio (drift 2.71),0.29,0.658,0.63,30.0,2.71,1.28,1.28,2026-11-24
-J/ACM,J,ACM,Jacobs Solutions,AECOM,Engineering services,dormant,negative hedge ratio; not cointegrated (p=0.59); unstable hedge ratio (drift 10.90),-0.057,0.591,0.55,21.6,10.9,0.94,0.83,2026-11-24
-JBHT/HUBG,JBHT,HUBG,J.B. Hunt,Hub Group,Intermodal,dormant,not cointegrated (p=0.21); low return correlation (0.47); unstable hedge ratio (drift 1.76),0.15,0.207,0.47,26.6,1.76,-0.28,-0.28,2026-11-24
-JNJ/MRK,JNJ,MRK,Johnson & Johnson,Merck & Co.,Big pharma,dormant,unstable hedge ratio (drift 0.52),0.696,0.088,0.53,9.0,0.52,1.64,1.85,2026-11-24
-JNJ/PFE,JNJ,PFE,Johnson & Johnson,Pfizer,Big pharma,dormant,not cointegrated (p=0.54); low return correlation (0.39); unstable hedge ratio (drift 1.07),1.01,0.543,0.39,25.1,1.07,0.83,0.88,2026-11-24
-JPM/BAC,JPM,BAC,JPMorgan Chase,Bank of America,Money-center banks,dormant,not cointegrated (p=0.83); unstable hedge ratio (drift 0.57),0.667,0.826,0.77,28.2,0.57,0.05,-0.02,2026-11-24
-JPM/C,JPM,C,JPMorgan Chase,Citigroup,Money-center banks,dormant,not cointegrated (p=0.76),0.553,0.765,0.69,29.4,0.1,-0.39,-0.59,2026-11-24
-JPM/WFC,JPM,WFC,JPMorgan Chase,Wells Fargo,Money-center banks,dormant,not cointegrated (p=0.79); unstable hedge ratio (drift 1.33),0.57,0.792,0.74,41.1,1.33,-3.14,-3.48,2026-11-24
-KBH/MTH,KBH,MTH,KB Home,Meritage Homes,Homebuilders,dormant,not cointegrated (p=0.62),1.051,0.621,0.9,34.4,0.04,0.51,0.51,2026-11-24
-KEY/CFG,KEY,CFG,KeyCorp,Citizens Financial Group,Regional banks,dormant,not cointegrated (p=0.24),0.668,0.241,0.91,16.8,0.22,-0.13,-0.13,2026-11-24
-KEY/FITB,KEY,FITB,KeyCorp,Fifth Third Bancorp,Regional banks,dormant,not cointegrated (p=0.35),0.648,0.355,0.87,17.1,0.07,-1.51,-1.51,2026-11-24
-KIM/BRX,KIM,BRX,Kimco Realty,Brixmor,Shopping center REITs,dormant,not cointegrated (p=0.95),1.077,0.945,0.88,32.2,0.01,0.3,0.3,2026-11-24
-KIM/REG,KIM,REG,Kimco Realty,Regency Centers,Shopping center REITs,dormant,not cointegrated (p=0.96); slow/no mean reversion,1.369,0.957,0.8,87.1,0.0,1.99,1.99,2026-11-24
-KKR/APO,KKR,APO,KKR & Co.,Apollo Global Management,Alt managers,dormant,not cointegrated (p=0.25),1.143,0.248,0.82,23.0,0.31,-1.14,-1.14,2026-11-24
-KMI/OKE,KMI,OKE,Kinder Morgan,Oneok,Midstream,dormant,not cointegrated (p=0.43); unstable hedge ratio (drift 0.83),0.692,0.43,0.75,18.5,0.83,0.79,0.79,2026-11-24
-KMI/WMB,KMI,WMB,Kinder Morgan,Williams Companies,Midstream,dormant,not cointegrated (p=0.45); unstable hedge ratio (drift 0.63),0.879,0.452,0.84,15.4,0.63,1.12,1.12,2026-11-24
-KNSL/RLI,KNSL,RLI,Kinsale,RLI,E&S insurers,dormant,not cointegrated (p=0.60),0.691,0.6,0.68,19.1,0.11,1.24,1.24,2026-11-24
-KNX/WERN,KNX,WERN,Knight-Swift,Werner,Truckload,dormant,not cointegrated (p=0.90),0.731,0.899,0.76,37.5,0.44,1.9,1.9,2026-11-24
-KO/PEP,KO,PEP,Coca-Cola Company (The),PepsiCo,Soft drinks,dormant,negative hedge ratio; not cointegrated (p=0.84); unstable hedge ratio (drift 1.17),-0.619,0.839,0.63,43.4,1.17,1.47,1.58,2026-11-24
-KR/ACI,KR,ACI,Kroger,Albertsons,Grocers,dormant,not cointegrated (p=0.83); unstable hedge ratio (drift 0.86),0.316,0.827,0.61,33.5,0.86,1.73,1.72,2026-11-24
-LAD/GPI,LAD,GPI,Lithia Motors,Group 1 Automotive,Auto dealers,dormant,not cointegrated (p=0.66); unstable hedge ratio (drift 35.14),0.022,0.664,0.65,29.0,35.14,-0.68,-0.7,2026-11-24
-LAMR/OUT,LAMR,OUT,Lamar,Outfront Media,Billboard REITs,dormant,not cointegrated (p=0.40),0.701,0.398,0.69,21.0,0.22,-0.62,-0.62,2026-11-24
-LDOS/BAH,LDOS,BAH,Leidos,Booz Allen,Gov IT services,dormant,not cointegrated (p=0.60),1.453,0.602,0.64,24.4,0.36,-1.41,-1.38,2026-11-24
-LDOS/CACI,LDOS,CACI,Leidos,CACI,Gov IT services,dormant,not cointegrated (p=0.91); slow/no mean reversion; unstable hedge ratio (drift 0.79),0.83,0.915,0.63,94.3,0.79,0.8,0.67,2026-11-24
-LEN/PHM,LEN,PHM,Lennar,PulteGroup,Homebuilders,dormant,not cointegrated (p=0.22); unstable hedge ratio (drift 0.80),1.159,0.224,0.86,40.1,0.8,-1.79,-1.84,2026-11-24
-LH/DGX,LH,DGX,Labcorp,Quest Diagnostics,Lab testing,dormant,not cointegrated (p=0.67); unstable hedge ratio (drift 0.76),0.907,0.668,0.72,15.1,0.76,1.1,1.1,2026-11-24
-LHX/LMT,LHX,LMT,L3Harris,Lockheed Martin,Defense primes,dormant,not cointegrated (p=0.99); slow/no mean reversion; unstable hedge ratio (drift 1.04),0.598,0.989,0.67,204.7,1.04,-0.42,-0.68,2026-11-24
-LHX/NOC,LHX,NOC,L3Harris,Northrop Grumman,Defense primes,dormant,not cointegrated (p=0.71),0.941,0.707,0.7,28.8,0.19,-0.9,-0.9,2026-11-24
-LIN/APD,LIN,APD,Linde plc,Air Products,Industrial gases,dormant,not cointegrated (p=0.21); unstable hedge ratio (drift 0.85),0.821,0.214,0.56,14.8,0.85,0.66,0.56,2026-11-24
-LMT/GD,LMT,GD,Lockheed Martin,General Dynamics,Defense primes,dormant,not cointegrated (p=0.41); unstable hedge ratio (drift 1.64),0.844,0.413,0.62,34.9,1.64,0.94,0.94,2026-11-24
-LMT/NOC,LMT,NOC,Lockheed Martin,Northrop Grumman,Defense primes,dormant,not cointegrated (p=0.31),0.586,0.309,0.73,24.6,0.01,0.52,0.52,2026-11-24
-LNT/XEL,LNT,XEL,Alliant Energy,Xcel Energy,Utilities Midwest,dormant,not cointegrated (p=0.14),1.154,0.136,0.82,10.9,0.1,-0.69,-0.69,2026-11-24
-LPLA/RJF,LPLA,RJF,LPL Financial,Raymond James Financial,Wealth/brokerage,dormant,not cointegrated (p=0.87),1.053,0.874,0.7,28.5,0.26,-1.86,-1.86,2026-11-24
-LUV/ALK,LUV,ALK,Southwest Airlines,Alaska Air,Airlines,dormant,not cointegrated (p=0.30),0.428,0.295,0.76,19.3,0.26,1.53,1.6,2026-11-24
-LYB/WLK,LYB,WLK,LyondellBasell,Westlake,Commodity chemicals,dormant,not cointegrated (p=0.71); unstable hedge ratio (drift 2.34),0.398,0.712,0.56,43.4,2.34,-1.8,-1.71,2026-11-24
-M/KSS,M,KSS,Macy's,Kohl's,Department stores,dormant,not cointegrated (p=0.40),0.421,0.396,0.66,14.7,0.39,-1.11,-0.97,2026-11-24
-MAA/UDR,MAA,UDR,Mid-America Apartment Communities,"UDR, Inc.",Apartment REITs,dormant,not cointegrated (p=0.95); slow/no mean reversion; unstable hedge ratio (drift 0.55),0.725,0.946,0.86,80.4,0.55,-1.61,-1.67,2026-11-24
-MAR/H,MAR,H,Marriott International,Hyatt,Hotels,dormant,not cointegrated (p=0.67),0.792,0.672,0.76,30.3,0.1,0.61,0.61,2026-11-24
-MAS/FBIN,MAS,FBIN,Masco,Fortune Brands,Building products,dormant,not cointegrated (p=0.77); unstable hedge ratio (drift 2.02),0.185,0.766,0.72,34.4,2.02,1.51,1.41,2026-11-24
-MCD/QSR,MCD,QSR,McDonald's,Restaurant Brands,Quick service,dormant,negative hedge ratio; not cointegrated (p=0.55); low return correlation (0.40); unstable hedge ratio (drift 1.27),-0.747,0.549,0.4,21.7,1.27,1.42,1.4,2026-11-24
-MCD/YUM,MCD,YUM,McDonald's,Yum! Brands,Quick service,dormant,not cointegrated (p=0.79),1.154,0.792,0.6,40.3,0.08,-0.63,-0.64,2026-11-24
-MCHP/NXPI,MCHP,NXPI,Microchip Technology,NXP Semiconductors,MCU semis,dormant,not cointegrated (p=0.84),0.85,0.836,0.78,35.3,0.3,-1.79,-1.81,2026-11-24
-MCK/COR,MCK,COR,McKesson,Cencora,Drug distributors,dormant,not cointegrated (p=0.95); unstable hedge ratio (drift 1.16),0.721,0.948,0.71,47.2,1.16,1.28,1.28,2026-11-24
-MCO/SPGI,MCO,SPGI,Moody's Corporation,S&P Global,Ratings agencies,dormant,not cointegrated (p=0.13),0.65,0.133,0.88,11.3,0.08,-1.26,-1.26,2026-11-24
-MDT/BSX,MDT,BSX,Medtronic,Boston Scientific,Med devices,dormant,not cointegrated (p=0.87); low return correlation (0.46); unstable hedge ratio (drift 5.69),0.121,0.866,0.46,52.7,5.69,0.38,0.36,2026-11-24
-MET/PRU,MET,PRU,MetLife,Prudential Financial,Life insurers,dormant,not cointegrated (p=0.59),1.223,0.591,0.72,25.6,0.37,-0.55,-0.55,2026-11-24
-MGM/LVS,MGM,LVS,MGM Resorts,Las Vegas Sands,Casinos,dormant,not cointegrated (p=0.70); low return correlation (0.39); unstable hedge ratio (drift 14.08),0.129,0.697,0.39,38.9,14.08,0.3,0.23,2026-11-24
-MKSI/ENTG,MKSI,ENTG,MKS,Entegris,Semi materials/subsystems,dormant,not cointegrated (p=0.94); slow/no mean reversion,0.989,0.944,0.82,75.0,0.41,-0.59,-0.69,2026-11-24
-MLM/CRH,MLM,CRH,Martin Marietta Materials,CRH plc,Aggregates,dormant,not cointegrated (p=0.18),0.734,0.185,0.77,6.8,0.14,-0.32,-0.32,2026-11-24
-MLM/VMC,MLM,VMC,Martin Marietta Materials,Vulcan Materials Company,Aggregates,dormant,not cointegrated (p=0.88),1.242,0.884,0.89,46.2,0.03,-1.48,-1.48,2026-11-24
-MO/BTI,MO,BTI,Altria,British American Tobacco,Tobacco,dormant,not cointegrated (p=0.58),1.351,0.583,0.59,22.8,0.47,0.38,-0.08,2026-11-24
-MOS/NTR,MOS,NTR,Mosaic Company (The),Nutrien,Fertilizers,dormant,not cointegrated (p=0.65); unstable hedge ratio (drift 1.29),0.317,0.65,0.53,25.0,1.29,-0.5,-0.5,2026-11-24
-MPC/VLO,MPC,VLO,Marathon Petroleum,Valero Energy,Refiners,dormant,not cointegrated (p=0.10),1.061,0.101,0.89,13.2,0.18,1.12,1.12,2026-11-24
-MRK/PFE,MRK,PFE,Merck & Co.,Pfizer,Big pharma,dormant,not cointegrated (p=0.43); low return correlation (0.48),1.503,0.434,0.48,20.3,0.3,-0.64,-0.79,2026-11-24
-MRSH/AJG,MRSH,AJG,Marsh McLennan,Arthur J. Gallagher & Co.,Insurance brokers,dormant,not cointegrated (p=0.23); unstable hedge ratio (drift 0.73),0.593,0.231,0.82,16.1,0.73,1.84,1.84,2026-11-24
-MRVL/AVGO,MRVL,AVGO,Marvell Technology,Broadcom,Custom silicon/networking,dormant,not cointegrated (p=0.68); unstable hedge ratio (drift 0.53),2.346,0.68,0.57,42.5,0.53,-0.91,-0.59,2026-11-24
-MS/SCHW,MS,SCHW,Morgan Stanley,Charles Schwab Corporation,Wealth/brokerage,dormant,not cointegrated (p=0.73); low return correlation (0.45); unstable hedge ratio (drift 0.75),0.583,0.729,0.45,38.0,0.75,-3.05,-3.53,2026-11-24
-MTDR/PR,MTDR,PR,Matador,Permian Resources,E&P Permian,dormant,not cointegrated (p=0.72); unstable hedge ratio (drift 0.66),0.612,0.716,0.87,26.6,0.66,-1.63,-1.57,2026-11-24
-NDAQ/ICE,NDAQ,ICE,"Nasdaq, Inc.",Intercontinental Exchange,Exchanges,dormant,not cointegrated (p=0.69),0.645,0.686,0.64,28.1,0.07,0.68,0.71,2026-11-24
-NEE/DUK,NEE,DUK,NextEra Energy,Duke Energy,Utilities large-cap,dormant,not cointegrated (p=0.68),1.01,0.684,0.63,22.8,0.21,-1.85,-1.86,2026-11-24
-NEM/B,NEM,B,Newmont,Barrick Mining,Gold miners,dormant,not cointegrated (p=0.31),0.765,0.314,0.9,24.1,0.47,-1.15,-1.44,2026-11-24
-NKE/LULU,NKE,LULU,"Nike, Inc.",Lululemon Athletica,Athletic apparel,dormant,not cointegrated (p=0.12); low return correlation (0.42),0.768,0.116,0.42,10.5,0.19,-1.4,-1.54,2026-11-24
-NNN/ADC,NNN,ADC,NNN REIT,Agree Realty,Net lease REITs,dormant,not cointegrated (p=0.66),0.835,0.655,0.8,42.8,0.11,-1.86,-1.86,2026-11-24
-NNN/EPRT,NNN,EPRT,NNN REIT,Essential Properties,Net lease REITs,dormant,not cointegrated (p=0.62); unstable hedge ratio (drift 0.52),0.473,0.619,0.75,44.1,0.52,-0.95,-0.95,2026-11-24
-NOC/GD,NOC,GD,Northrop Grumman,General Dynamics,Defense primes,dormant,negative hedge ratio; not cointegrated (p=0.85); unstable hedge ratio (drift 40.53),-0.033,0.849,0.64,56.8,40.53,1.04,1.04,2026-11-24
-NOV/FTI,NOV,FTI,NOV,TechnipFMC,Oilfield equipment,dormant,not cointegrated (p=0.17); unstable hedge ratio (drift 0.68),0.498,0.167,0.67,7.3,0.68,-1.42,-1.42,2026-11-24
-NTAP/P,NTAP,P,NetApp,Everpure,Enterprise storage,dormant,not cointegrated (p=0.38),1.02,0.38,0.61,19.6,0.05,0.5,0.5,2026-11-24
-NUE/CMC,NUE,CMC,Nucor,Commercial Metals,Steel,dormant,negative hedge ratio; not cointegrated (p=0.71); unstable hedge ratio (drift 1.73),-0.086,0.707,0.72,56.2,1.73,-0.87,-0.87,2026-11-24
-NUE/STLD,NUE,STLD,Nucor,Steel Dynamics,Steel,dormant,not cointegrated (p=0.88),1.165,0.878,0.89,37.3,0.43,2.68,3.08,2026-11-24
-NVR/PHM,NVR,PHM,"NVR, Inc.",PulteGroup,Homebuilders,dormant,not cointegrated (p=0.91); slow/no mean reversion; unstable hedge ratio (drift 0.84),0.819,0.907,0.78,74.5,0.84,-1.66,-1.66,2026-11-24
-NVT/HUBB,NVT,HUBB,nVent,Hubbell Incorporated,Electrical equipment,dormant,not cointegrated (p=0.85); unstable hedge ratio (drift 0.88),1.002,0.847,0.67,60.0,0.88,-1.72,-2.06,2026-11-24
-NXPI/ON,NXPI,ON,NXP Semiconductors,ON Semiconductor,Auto semis,dormant,not cointegrated (p=0.44),0.48,0.437,0.75,17.2,0.05,1.14,0.97,2026-11-24
-NXPI/STM,NXPI,STM,NXP Semiconductors,STMicroelectronics,Auto/industrial semis,dormant,not cointegrated (p=0.42),0.296,0.422,0.69,18.3,0.43,0.82,0.57,2026-11-24
-O/NNN,O,NNN,Realty Income,NNN REIT,Net lease REITs,dormant,not cointegrated (p=0.56),0.707,0.562,0.82,27.1,0.24,1.32,1.32,2026-11-24
-ODFL/SAIA,ODFL,SAIA,Old Dominion,Saia,LTL trucking,dormant,not cointegrated (p=0.27),0.851,0.275,0.81,25.7,0.02,0.19,0.19,2026-11-24
-ODFL/XPO,ODFL,XPO,Old Dominion,XPO,LTL trucking,dormant,not cointegrated (p=0.12); unstable hedge ratio (drift 1.01),0.82,0.118,0.75,16.8,1.01,-0.03,-0.03,2026-11-24
-OGE/EVRG,OGE,EVRG,OGE Energy,Evergy,Utilities Plains,dormant,not cointegrated (p=0.26),0.939,0.262,0.82,8.4,0.15,1.19,1.19,2026-11-24
-OGS/SR,OGS,SR,ONE Gas,Spire,Gas utilities,dormant,not cointegrated (p=0.32),0.94,0.32,0.83,15.4,0.45,1.32,1.32,2026-11-24
-OHI/SBRA,OHI,SBRA,Omega Healthcare,Sabra,Skilled nursing REITs,dormant,not cointegrated (p=0.20),0.785,0.199,0.8,11.9,0.32,-1.66,-1.66,2026-11-24
-OLN/WLK,OLN,WLK,Olin,Westlake,Chlor-alkali,dormant,not cointegrated (p=0.24); unstable hedge ratio (drift 0.77),0.839,0.238,0.66,15.3,0.77,0.41,0.41,2026-11-24
-OMC/WPP,OMC,WPP,Omnicom Group,WPP,Ad agencies,dormant,not cointegrated (p=0.14); unstable hedge ratio (drift 0.63),0.216,0.142,0.55,10.4,0.63,1.88,1.88,2026-11-24
-ON/STM,ON,STM,ON Semiconductor,STMicroelectronics,Power semis,dormant,not cointegrated (p=0.55),0.637,0.55,0.74,17.4,0.24,-1.04,-1.27,2026-11-24
-ONTO/NVMI,ONTO,NVMI,Onto Innovation,Nova,Semi metrology,dormant,not cointegrated (p=0.56); unstable hedge ratio (drift 0.60),0.73,0.564,0.83,35.2,0.6,-1.62,-1.77,2026-11-24
-OSK/TEX,OSK,TEX,Oshkosh,Terex,Specialty vehicles,dormant,not cointegrated (p=0.51); unstable hedge ratio (drift 0.58),0.617,0.508,0.69,15.0,0.58,-1.03,-1.03,2026-11-24
-OVV/DVN,OVV,DVN,Ovintiv,Devon Energy,E&P,dormant,not cointegrated (p=0.78),1.52,0.783,0.86,36.1,0.24,2.02,2.02,2026-11-24
-OXY/APA,OXY,APA,Occidental Petroleum,APA Corporation,E&P,dormant,not cointegrated (p=0.88); unstable hedge ratio (drift 0.63),0.584,0.877,0.84,38.9,0.63,-2.38,-2.47,2026-11-24
-OXY/COP,OXY,COP,Occidental Petroleum,ConocoPhillips,E&P,dormant,not cointegrated (p=0.92); unstable hedge ratio (drift 0.74),0.939,0.915,0.84,50.3,0.74,-2.23,-2.53,2026-11-24
-PAG/GPI,PAG,GPI,Penske Automotive,Group 1 Automotive,Auto dealers,dormant,negative hedge ratio; not cointegrated (p=0.51); unstable hedge ratio (drift 0.89),-0.642,0.506,0.55,15.2,0.89,0.23,0.22,2026-11-24
-PANW/CRWD,PANW,CRWD,Palo Alto Networks,CrowdStrike,Cybersecurity,dormant,not cointegrated (p=0.18),0.994,0.182,0.84,12.6,0.26,2.48,2.53,2026-11-24
-PANW/FTNT,PANW,FTNT,Palo Alto Networks,Fortinet,Cybersecurity,dormant,not cointegrated (p=0.61),1.018,0.606,0.72,28.5,0.1,1.44,1.41,2026-11-24
-PAYC/PCTY,PAYC,PCTY,Paycom,Paylocity,HR software,dormant,not cointegrated (p=0.61); unstable hedge ratio (drift 0.61),1.319,0.607,0.72,30.8,0.61,-1.57,-1.57,2026-11-24
-PB/CFR,PB,CFR,Prosperity Bancshares,Cullen/Frost,Regional banks Texas,dormant,not cointegrated (p=0.24),0.275,0.244,0.7,10.3,0.49,1.24,1.24,2026-11-24
-PCAR/CMI,PCAR,CMI,Paccar,Cummins,Heavy trucks,dormant,not cointegrated (p=0.24),0.349,0.24,0.51,19.2,0.4,0.53,0.42,2026-11-24
-PEG/EXC,PEG,EXC,Public Service Enterprise Group,Exelon,Utilities Mid-Atlantic,dormant,not cointegrated (p=0.76); unstable hedge ratio (drift 0.83),0.755,0.759,0.64,24.2,0.83,-0.17,-0.18,2026-11-24
-PEP/MDLZ,PEP,MDLZ,PepsiCo,Mondelez International,Snacks,dormant,negative hedge ratio; not cointegrated (p=0.47); unstable hedge ratio (drift 0.83),-0.214,0.469,0.6,20.0,0.83,1.34,1.43,2026-11-24
-PFE/BMY,PFE,BMY,Pfizer,Bristol Myers Squibb,Big pharma,dormant,not cointegrated (p=0.65),0.609,0.653,0.62,28.6,0.4,0.01,-0.05,2026-11-24
-PG/CHD,PG,CHD,Procter & Gamble,Church & Dwight,Household products,dormant,not cointegrated (p=0.33); unstable hedge ratio (drift 0.73),0.594,0.325,0.72,15.4,0.73,1.93,1.93,2026-11-24
-PG/CL,PG,CL,Procter & Gamble,Colgate-Palmolive,Household products,dormant,not cointegrated (p=0.85); unstable hedge ratio (drift 0.89),0.621,0.849,0.77,26.9,0.89,1.79,1.84,2026-11-24
-PG/KMB,PG,KMB,Procter & Gamble,Kimberly-Clark,Household products,dormant,not cointegrated (p=0.92); unstable hedge ratio (drift 0.88),0.561,0.923,0.65,53.7,0.88,1.82,1.95,2026-11-24
-PHM/DHI,PHM,DHI,PulteGroup,D. R. Horton,Homebuilders,dormant,not cointegrated (p=0.26),0.893,0.264,0.93,18.4,0.0,0.52,0.41,2026-11-24
-PII/HOG,PII,HOG,Polaris,Harley-Davidson,Powersports,dormant,not cointegrated (p=0.40); low return correlation (0.45); unstable hedge ratio (drift 3.31),0.126,0.395,0.45,17.2,3.31,1.67,1.67,2026-11-24
-PINS/SNAP,PINS,SNAP,Pinterest,Snap,Social media,dormant,not cointegrated (p=0.39); unstable hedge ratio (drift 1.50),0.514,0.394,0.51,17.0,1.5,0.09,0.07,2026-11-24
-PKG/SW,PKG,SW,Packaging Corporation of America,Smurfit Westrock,Containerboard,dormant,not cointegrated (p=0.65),0.694,0.653,0.78,21.6,0.2,1.02,1.02,2026-11-24
-PLD/EGP,PLD,EGP,Prologis,EastGroup,Industrial REITs,dormant,not cointegrated (p=0.79),0.667,0.793,0.79,30.6,0.1,-1.13,-1.2,2026-11-24
-PLD/FR,PLD,FR,Prologis,First Industrial,Industrial REITs,dormant,unstable hedge ratio (drift 0.50),0.854,0.096,0.76,9.7,0.5,0.74,1.14,2026-11-24
-PNC/FITB,PNC,FITB,PNC Financial Services,Fifth Third Bancorp,Super-regional banks,dormant,not cointegrated (p=0.21),0.907,0.208,0.87,6.5,0.22,-0.67,-0.67,2026-11-24
-PNC/TFC,PNC,TFC,PNC Financial Services,Truist Financial,Super-regional banks,dormant,not cointegrated (p=0.51),1.286,0.508,0.86,21.4,0.27,-1.31,-1.31,2026-11-24
-PNW/IDA,PNW,IDA,Pinnacle West Capital,IDACORP,Utilities West,dormant,not cointegrated (p=0.24),1.159,0.243,0.78,8.3,0.15,-0.94,-0.94,2026-11-24
-PNW/POR,PNW,POR,Pinnacle West Capital,Portland General,Utilities West,dormant,not cointegrated (p=0.61); unstable hedge ratio (drift 2.61),0.382,0.614,0.64,51.2,2.61,0.38,0.38,2026-11-24
-POR/IDA,POR,IDA,Portland General,IDACORP,Utilities West,dormant,not cointegrated (p=0.81),0.426,0.807,0.67,31.8,0.22,-0.06,-0.06,2026-11-24
-PPG/AXTA,PPG,AXTA,PPG Industries,Axalta,Paints & coatings,dormant,not cointegrated (p=0.31),0.5,0.306,0.74,17.4,0.13,1.47,1.47,2026-11-24
-PPL/AEP,PPL,AEP,PPL Corporation,American Electric Power,Utilities,dormant,not cointegrated (p=0.48),0.546,0.482,0.68,17.2,0.14,0.45,0.45,2026-11-24
-PPL/FE,PPL,FE,PPL Corporation,FirstEnergy,Utilities Mid-Atlantic,dormant,not cointegrated (p=0.51),0.803,0.514,0.84,19.9,0.03,-0.72,-0.72,2026-11-24
-PR/FANG,PR,FANG,Permian Resources,Diamondback Energy,E&P Permian,dormant,not cointegrated (p=0.71),1.497,0.71,0.85,26.3,0.24,0.72,0.72,2026-11-24
-PRU/LNC,PRU,LNC,Prudential Financial,Lincoln National,Life insurers,dormant,not cointegrated (p=0.23),0.806,0.234,0.58,14.9,0.04,1.27,1.27,2026-11-24
-PSA/CUBE,PSA,CUBE,Public Storage,CubeSmart,Self-storage REITs,dormant,not cointegrated (p=0.12),1.086,0.122,0.86,12.7,0.3,-1.92,-1.92,2026-11-24
-PSA/EXR,PSA,EXR,Public Storage,Extra Space Storage,Self-storage REITs,dormant,not cointegrated (p=0.44),1.219,0.443,0.87,16.9,0.16,-1.94,-1.94,2026-11-24
-PSX/DINO,PSX,DINO,Phillips 66,HF Sinclair,Refiners,dormant,not cointegrated (p=0.36),0.779,0.363,0.8,17.6,0.18,2.41,2.38,2026-11-24
-PVH/RL,PVH,RL,PVH,Ralph Lauren Corporation,Apparel brands,dormant,not cointegrated (p=0.34); low return correlation (0.50); unstable hedge ratio (drift 0.57),1.142,0.343,0.5,21.5,0.57,1.45,1.45,2026-11-24
-PWR/MTZ,PWR,MTZ,Quanta Services,MasTec,Infrastructure contractors,dormant,not cointegrated (p=0.84); unstable hedge ratio (drift 1.89),0.312,0.838,0.75,44.7,1.89,0.58,-0.05,2026-11-24
-PYPL/XYZ,PYPL,XYZ,PayPal,"Block, Inc.",Digital payments,dormant,not cointegrated (p=0.41); low return correlation (0.44); unstable hedge ratio (drift 2.05),0.493,0.413,0.44,25.2,2.05,1.05,0.96,2026-11-24
-RCL/NCLH,RCL,NCLH,Royal Caribbean Group,Norwegian Cruise Line Holdings,Cruise lines,dormant,not cointegrated (p=0.30),0.294,0.304,0.76,14.0,0.02,1.24,1.11,2026-11-24
-REG/FRT,REG,FRT,Regency Centers,Federal Realty Investment Trust,Shopping center REITs,dormant,not cointegrated (p=0.66),0.59,0.658,0.81,28.9,0.33,0.22,0.22,2026-11-24
-REXR/TRNO,REXR,TRNO,Rexford Industrial,Terreno,Industrial REITs,dormant,negative hedge ratio; not cointegrated (p=0.38); unstable hedge ratio (drift 14.94),-0.065,0.377,0.65,14.7,14.94,-0.43,-0.43,2026-11-24
-RF/FITB,RF,FITB,Regions Financial Corporation,Fifth Third Bancorp,Regional banks,dormant,not cointegrated (p=0.20),0.736,0.197,0.89,11.5,0.29,-0.33,-0.33,2026-11-24
-RHI/MAN,RHI,MAN,Robert Half,ManpowerGroup,Staffing,dormant,not cointegrated (p=0.15); unstable hedge ratio (drift 0.58),0.7,0.154,0.7,10.9,0.58,0.61,0.54,2026-11-24
-RIG/NE,RIG,NE,Transocean,Noble Corp,Offshore drillers,dormant,not cointegrated (p=0.21),0.847,0.209,0.79,8.0,0.24,-0.63,-0.94,2026-11-24
-RIO/BHP,RIO,BHP,Rio Tinto,BHP,Diversified miners,dormant,not cointegrated (p=0.99); slow/no mean reversion,0.65,0.991,0.9,,0.49,-1.84,-1.75,2026-11-24
-RJF/SF,RJF,SF,Raymond James Financial,Stifel,Wealth/brokerage,dormant,not cointegrated (p=0.83),0.492,0.827,0.78,28.9,0.02,0.53,0.53,2026-11-24
-RL/TPR,RL,TPR,Ralph Lauren Corporation,"Tapestry, Inc.",Luxury/accessible luxury,dormant,not cointegrated (p=0.12); unstable hedge ratio (drift 1.64),0.135,0.121,0.5,9.6,1.64,1.15,1.15,2026-11-24
-RNR/EG,RNR,EG,RenaissanceRe,Everest Group,Reinsurers,dormant,not cointegrated (p=0.44),0.864,0.439,0.73,13.0,0.17,-2.45,-2.49,2026-11-24
-ROK/EMR,ROK,EMR,Rockwell Automation,Emerson Electric,Automation,dormant,not cointegrated (p=0.69); unstable hedge ratio (drift 2.89),0.358,0.689,0.72,26.9,2.89,-1.76,-1.76,2026-11-24
-ROST/BURL,ROST,BURL,Ross Stores,Burlington,Off-price retail,dormant,not cointegrated (p=0.47); unstable hedge ratio (drift 4.70),0.171,0.471,0.53,32.9,4.7,-0.5,-0.5,2026-11-24
-RRC/AR,RRC,AR,Range Resources,Antero Resources,Natural gas E&P,dormant,not cointegrated (p=0.96); slow/no mean reversion,1.181,0.962,0.82,86.6,0.37,1.5,1.46,2026-11-24
-RSG/WCN,RSG,WCN,Republic Services,Waste Connections,Waste,dormant,not cointegrated (p=0.75); unstable hedge ratio (drift 0.69),0.675,0.751,0.75,29.1,0.69,2.06,2.06,2026-11-24
-RTX/GE,RTX,GE,RTX Corporation,GE Aerospace,Aero engines,dormant,not cointegrated (p=0.41),0.525,0.406,0.55,19.2,0.42,0.35,0.74,2026-11-24
-SAIA/XPO,SAIA,XPO,Saia,XPO,LTL trucking,dormant,not cointegrated (p=0.62); unstable hedge ratio (drift 1.44),0.657,0.618,0.73,25.7,1.44,-1.01,-1.01,2026-11-24
-SCHW/IBKR,SCHW,IBKR,Charles Schwab Corporation,Interactive Brokers,Brokers,dormant,not cointegrated (p=0.69); low return correlation (0.37); unstable hedge ratio (drift 4.38),0.166,0.694,0.37,23.2,4.38,-0.11,-0.18,2026-11-24
-SHEL/BP,SHEL,BP,Shell,BP,Integrated oil,dormant,not cointegrated (p=0.63),0.97,0.632,0.82,16.9,0.38,0.68,0.27,2026-11-24
-SHEL/TTE,SHEL,TTE,Shell,TotalEnergies,Integrated oil,dormant,not cointegrated (p=0.82); unstable hedge ratio (drift 0.95),0.823,0.816,0.76,44.7,0.95,-0.31,-0.31,2026-11-24
-SHW/PPG,SHW,PPG,Sherwin-Williams,PPG Industries,Paints & coatings,dormant,not cointegrated (p=0.18),0.429,0.182,0.77,13.2,0.16,1.23,1.23,2026-11-24
-SHW/RPM,SHW,RPM,Sherwin-Williams,RPM International,Paints & coatings,dormant,not cointegrated (p=0.23),0.789,0.233,0.81,14.4,0.32,1.31,1.31,2026-11-24
-SIGI/THG,SIGI,THG,Selective Insurance,Hanover Insurance,Regional P&C insurers,dormant,not cointegrated (p=0.22),0.577,0.224,0.56,20.4,0.36,1.72,1.72,2026-11-24
-SJM/CAG,SJM,CAG,J.M. Smucker Company (The),Conagra,Packaged food,dormant,negative hedge ratio; not cointegrated (p=0.93); slow/no mean reversion; unstable hedge ratio (drift 6.48),-0.076,0.928,0.57,78.9,6.48,1.0,1.0,2026-11-24
-SLB/BKR,SLB,BKR,Schlumberger,Baker Hughes,Oilfield services,dormant,not cointegrated (p=0.24); unstable hedge ratio (drift 0.66),0.829,0.241,0.67,16.4,0.66,1.0,0.99,2026-11-24
-SLB/HAL,SLB,HAL,Schlumberger,Halliburton,Oilfield services,dormant,not cointegrated (p=0.47),0.905,0.466,0.75,20.2,0.33,-0.66,-0.66,2026-11-24
-SLG/VNO,SLG,VNO,SL Green,Vornado,Office REITs NYC,dormant,not cointegrated (p=0.41),0.959,0.408,0.84,20.1,0.15,-1.04,-1.04,2026-11-24
-SM/MTDR,SM,MTDR,SM Energy,Matador,E&P Permian,dormant,not cointegrated (p=0.86),1.641,0.863,0.85,52.9,0.08,0.19,0.15,2026-11-24
-SNA/SWK,SNA,SWK,Snap-on,Stanley Black & Decker,Tools,dormant,not cointegrated (p=0.76); unstable hedge ratio (drift 1.74),0.18,0.761,0.62,26.0,1.74,-1.33,-1.33,2026-11-24
-SNOW/MDB,SNOW,MDB,Snowflake,MongoDB,Data platforms,dormant,not cointegrated (p=0.78),1.096,0.782,0.63,48.7,0.01,0.07,0.43,2026-11-24
-SPG/MAC,SPG,MAC,Simon Property Group,Macerich,Mall REITs,dormant,not cointegrated (p=0.16); unstable hedge ratio (drift 0.61),0.615,0.165,0.72,10.0,0.61,2.03,2.03,2026-11-24
-SRE/EIX,SRE,EIX,Sempra,Edison International,Utilities California,dormant,not cointegrated (p=0.27),0.342,0.273,0.55,20.7,0.08,-1.51,-1.51,2026-11-24
-STLD/CMC,STLD,CMC,Steel Dynamics,Commercial Metals,Steel,dormant,not cointegrated (p=0.67); unstable hedge ratio (drift 1.87),0.186,0.674,0.7,49.0,1.87,-1.83,-1.83,2026-11-24
-STT/NTRS,STT,NTRS,State Street Corporation,Northern Trust,Custody banks,dormant,not cointegrated (p=0.32),1.396,0.318,0.79,9.0,0.09,-0.77,-0.77,2026-11-24
-STX/WDC,STX,WDC,Seagate Technology,Western Digital,Hard drives,dormant,not cointegrated (p=0.62),1.068,0.615,0.91,25.8,0.18,-0.73,-0.73,2026-11-24
-STZ/TAP,STZ,TAP,Constellation Brands,Molson Coors,Brewers,dormant,not cointegrated (p=0.24); unstable hedge ratio (drift 1.13),0.754,0.241,0.58,15.9,1.13,0.77,0.77,2026-11-24
-SU/IMO,SU,IMO,Suncor,Imperial Oil,Canadian oil,dormant,not cointegrated (p=0.55),1.164,0.551,0.84,27.9,0.33,0.21,0.21,2026-11-24
-SUI/ELS,SUI,ELS,Sun Communities,Equity LifeStyle,Manufactured housing REITs,dormant,not cointegrated (p=0.37),0.735,0.374,0.77,17.2,0.02,-0.3,-0.3,2026-11-24
-SYF/BFH,SYF,BFH,Synchrony Financial,Bread Financial,Private-label cards,dormant,not cointegrated (p=0.59); unstable hedge ratio (drift 7.17),0.075,0.589,0.73,17.9,7.17,-2.12,-2.39,2026-11-24
-SYK/ZBH,SYK,ZBH,Stryker Corporation,Zimmer Biomet,Orthopedics,dormant,not cointegrated (p=0.60); unstable hedge ratio (drift 2.32),0.261,0.603,0.65,29.3,2.32,1.2,1.2,2026-11-24
-SYY/PFGC,SYY,PFGC,Sysco,Performance Food Group,Foodservice distribution,dormant,not cointegrated (p=0.25); low return correlation (0.45),0.304,0.251,0.45,14.3,0.33,-0.52,-0.52,2026-11-24
-SYY/USFD,SYY,USFD,Sysco,US Foods,Foodservice distribution,dormant,not cointegrated (p=0.18); low return correlation (0.48); unstable hedge ratio (drift 0.71),0.367,0.18,0.48,11.5,0.71,-0.63,-0.63,2026-11-24
-T/TMUS,T,TMUS,AT&T,T-Mobile US,Telecom,dormant,not cointegrated (p=0.56); unstable hedge ratio (drift 1.27),0.568,0.558,0.7,30.4,1.27,-0.59,-0.44,2026-11-24
-T/VZ,T,VZ,AT&T,Verizon,Telecom,dormant,not cointegrated (p=0.74); unstable hedge ratio (drift 1.29),0.459,0.744,0.78,38.3,1.29,-0.54,-0.51,2026-11-24
-TAP/BUD,TAP,BUD,Molson Coors,AB InBev,Brewers,dormant,negative hedge ratio; not cointegrated (p=0.21); unstable hedge ratio (drift 2.20),-0.395,0.206,0.53,12.4,2.2,0.54,0.54,2026-11-24
-TDG/HEI,TDG,HEI,TransDigm Group,HEICO,Aero parts,dormant,not cointegrated (p=0.63),0.419,0.626,0.58,25.7,0.12,-1.6,-1.6,2026-11-24
-TJX/BURL,TJX,BURL,TJX Companies,Burlington,Off-price retail,dormant,not cointegrated (p=0.36); unstable hedge ratio (drift 0.56),0.409,0.357,0.51,15.6,0.56,1.54,1.47,2026-11-24
-TJX/ROST,TJX,ROST,TJX Companies,Ross Stores,Off-price retail,dormant,negative hedge ratio; not cointegrated (p=0.49); unstable hedge ratio (drift 2.27),-0.132,0.495,0.63,21.0,2.27,1.17,1.17,2026-11-24
-TM/HMC,TM,HMC,Toyota,Honda,Japanese automakers,dormant,not cointegrated (p=0.83),0.161,0.83,0.73,51.0,0.45,1.41,1.83,2026-11-24
-TMO/A,TMO,A,Thermo Fisher Scientific,Agilent Technologies,Life science tools,dormant,not cointegrated (p=0.43),0.877,0.435,0.74,19.0,0.17,-1.81,-1.62,2026-11-24
-TMO/DHR,TMO,DHR,Thermo Fisher Scientific,Danaher Corporation,Life science tools,dormant,not cointegrated (p=0.68); unstable hedge ratio (drift 0.52),1.169,0.684,0.74,29.2,0.52,0.15,0.15,2026-11-24
-TRN/GBX,TRN,GBX,Trinity Industries,Greenbrier,Railcars,dormant,not cointegrated (p=0.55),0.641,0.554,0.63,28.7,0.15,1.73,1.73,2026-11-24
-TROW/BEN,TROW,BEN,T. Rowe Price,Franklin Resources,Traditional asset managers,dormant,not cointegrated (p=0.55); unstable hedge ratio (drift 1.14),0.396,0.546,0.58,23.7,1.14,-1.63,-1.63,2026-11-24
-TROW/IVZ,TROW,IVZ,T. Rowe Price,Invesco,Traditional asset managers,dormant,not cointegrated (p=0.37); unstable hedge ratio (drift 1.00),0.674,0.366,0.59,17.3,1.0,0.44,0.44,2026-11-24
-TRV/ALL,TRV,ALL,Travelers Companies (The),Allstate,P&C insurers,dormant,not cointegrated (p=0.27),1.133,0.272,0.7,14.4,0.18,-0.94,-0.94,2026-11-24
-TRV/HIG,TRV,HIG,Travelers Companies (The),Hartford (The),P&C insurers,dormant,not cointegrated (p=0.98); slow/no mean reversion,1.048,0.981,0.75,2279.8,0.46,0.36,0.36,2026-11-24
-TSN/PPC,TSN,PPC,Tyson Foods,Pilgrim's Pride,Chicken,dormant,not cointegrated (p=0.59); low return correlation (0.46); unstable hedge ratio (drift 1.32),0.131,0.594,0.46,23.8,1.32,1.84,1.84,2026-11-24
-TT/CARR,TT,CARR,Trane Technologies,Carrier Global,HVAC,dormant,not cointegrated (p=0.39); unstable hedge ratio (drift 0.82),0.597,0.387,0.67,14.5,0.82,-1.19,-1.19,2026-11-24
-TT/LII,TT,LII,Trane Technologies,Lennox International,HVAC,dormant,not cointegrated (p=0.49); unstable hedge ratio (drift 4.27),0.059,0.489,0.52,20.8,4.27,-1.42,-1.42,2026-11-24
-TXN/ADI,TXN,ADI,Texas Instruments,Analog Devices,Analog semis,dormant,not cointegrated (p=0.62),1.381,0.622,0.86,17.3,0.28,4.07,4.07,2026-11-24
-TXN/MCHP,TXN,MCHP,Texas Instruments,Microchip Technology,Analog/MCU semis,dormant,not cointegrated (p=0.97); slow/no mean reversion; unstable hedge ratio (drift 0.95),0.933,0.97,0.82,,0.95,1.14,1.08,2026-11-24
-TXRH/EAT,TXRH,EAT,Texas Roadhouse,Brinker,Casual dining,dormant,not cointegrated (p=0.40); low return correlation (0.45),0.254,0.397,0.45,17.4,0.35,0.93,0.93,2026-11-24
-UAL/AAL,UAL,AAL,United Airlines Holdings,American Airlines,Airlines,dormant,not cointegrated (p=0.35),0.722,0.352,0.85,9.9,0.12,0.72,0.44,2026-11-24
-UDR/CPT,UDR,CPT,"UDR, Inc.",Camden Property Trust,Apartment REITs,dormant,not cointegrated (p=0.49),0.909,0.49,0.86,22.6,0.0,1.93,2.17,2026-11-24
-UMBF/CBSH,UMBF,CBSH,UMB Financial,Commerce Bancshares,Regional banks Midwest,dormant,not cointegrated (p=0.14),1.296,0.139,0.78,13.5,0.05,0.71,0.71,2026-11-24
-UNH/ELV,UNH,ELV,UnitedHealth Group,Elevance Health,Managed care,dormant,not cointegrated (p=0.23); unstable hedge ratio (drift 0.77),1.093,0.23,0.68,18.2,0.77,-1.8,-1.59,2026-11-24
-UNM/GL,UNM,GL,Unum,Globe Life,Supplemental insurers,dormant,low return correlation (0.32),0.835,0.039,0.32,7.8,0.17,-0.81,-0.81,2026-11-24
-UNP/CSX,UNP,CSX,Union Pacific Corporation,CSX Corporation,Railroads,dormant,unstable hedge ratio (drift 0.66),0.744,0.077,0.81,9.1,0.66,-0.42,-0.29,2026-11-24
-UPS/FDX,UPS,FDX,United Parcel Service,FedEx,Parcel delivery,dormant,not cointegrated (p=0.46); unstable hedge ratio (drift 1.88),0.311,0.46,0.68,17.6,1.88,1.72,1.54,2026-11-24
-URI/HRI,URI,HRI,United Rentals,Herc Holdings,Equipment rental,dormant,not cointegrated (p=0.79),0.546,0.786,0.71,45.6,0.09,-0.08,-0.34,2026-11-24
-USB/PNC,USB,PNC,U.S. Bancorp,PNC Financial Services,Super-regional banks,dormant,not cointegrated (p=0.83),0.994,0.828,0.9,17.0,0.1,1.32,1.32,2026-11-24
-USB/TFC,USB,TFC,U.S. Bancorp,Truist Financial,Super-regional banks,dormant,not cointegrated (p=0.68),1.233,0.678,0.88,36.9,0.12,-0.61,-0.76,2026-11-24
-USFD/PFGC,USFD,PFGC,US Foods,Performance Food Group,Foodservice distribution,dormant,not cointegrated (p=0.65); unstable hedge ratio (drift 1.06),0.729,0.649,0.68,39.8,1.06,0.68,0.68,2026-11-24
-V/MA,V,MA,Visa Inc.,Mastercard,Card networks,dormant,not cointegrated (p=0.64),1.05,0.639,0.88,30.0,0.12,-1.34,-1.36,2026-11-24
-VAC/HGV,VAC,HGV,Marriott Vacations,Hilton Grand Vacations,Timeshare,dormant,negative hedge ratio; not cointegrated (p=0.84); unstable hedge ratio (drift 1.36),-0.455,0.835,0.56,46.4,1.36,0.97,0.97,2026-11-24
-VFC/PVH,VFC,PVH,VF Corp,PVH,Apparel brands,dormant,not cointegrated (p=0.76); low return correlation (0.44); unstable hedge ratio (drift 12.98),0.084,0.765,0.44,33.7,12.98,1.44,1.44,2026-11-24
-VICI/GLPI,VICI,GLPI,Vici Properties,Gaming and Leisure Properties,Gaming REITs,dormant,not cointegrated (p=0.33),0.811,0.331,0.79,13.3,0.46,1.7,1.6,2026-11-24
-VLO/PSX,VLO,PSX,Valero Energy,Phillips 66,Refiners,dormant,not cointegrated (p=0.48),1.182,0.478,0.87,17.7,0.22,-1.54,-1.64,2026-11-24
-VMC/CRH,VMC,CRH,Vulcan Materials Company,CRH plc,Aggregates,dormant,not cointegrated (p=0.45),0.444,0.446,0.79,12.3,0.08,1.39,1.39,2026-11-24
-VMRK/ESS,VMRK,ESS,Vivmark Residential,Essex Property Trust,Apartment REITs coastal,dormant,not cointegrated (p=0.11),0.718,0.107,0.82,10.8,0.14,0.84,0.84,2026-11-24
-VST/NRG,VST,NRG,Vistra Corp.,NRG Energy,Power generators,dormant,unstable hedge ratio (drift 0.56),0.36,0.004,0.81,5.1,0.56,-1.79,-2.22,2026-11-24
-VTR/DOC,VTR,DOC,Ventas,Healthpeak Properties,Health care REITs,dormant,low return correlation (0.39); unstable hedge ratio (drift 1.01),0.449,0.048,0.39,12.0,1.01,-0.55,-0.55,2026-11-24
-VTRS/TEVA,VTRS,TEVA,Viatris,Teva,Generics,dormant,not cointegrated (p=0.34); low return correlation (0.36); unstable hedge ratio (drift 0.57),1.2,0.342,0.36,15.3,0.57,2.05,2.36,2026-11-24
-VZ/TMUS,VZ,TMUS,Verizon,T-Mobile US,Telecom,dormant,negative hedge ratio; not cointegrated (p=0.46); unstable hedge ratio (drift 16.09),-0.045,0.462,0.65,25.1,16.09,0.52,0.62,2026-11-24
-WEC/LNT,WEC,LNT,WEC Energy Group,Alliant Energy,Utilities Midwest,dormant,not cointegrated (p=0.84),0.757,0.837,0.89,26.1,0.05,1.97,1.97,2026-11-24
-WELL/VTR,WELL,VTR,Welltower,Ventas,Senior housing REITs,dormant,not cointegrated (p=0.88),1.258,0.877,0.83,32.2,0.16,1.36,1.36,2026-11-24
-WFC/USB,WFC,USB,Wells Fargo,U.S. Bancorp,Banks,dormant,not cointegrated (p=0.51); unstable hedge ratio (drift 1.34),0.239,0.507,0.73,21.3,1.34,-0.84,-1.17,2026-11-24
-WH/CHH,WH,CHH,Wyndham Hotels,Choice Hotels,Economy hotels,dormant,not cointegrated (p=0.31),0.465,0.313,0.69,15.0,0.5,1.37,1.37,2026-11-24
-WM/RSG,WM,RSG,Waste Management,Republic Services,Waste,dormant,not cointegrated (p=0.29),0.577,0.294,0.82,17.4,0.5,1.4,1.4,2026-11-24
-WM/WCN,WM,WCN,Waste Management,Waste Connections,Waste,dormant,not cointegrated (p=0.20); unstable hedge ratio (drift 1.45),0.464,0.203,0.72,15.6,1.45,2.0,2.0,2026-11-24
-WMB/OKE,WMB,OKE,Williams Companies,Oneok,Midstream,dormant,not cointegrated (p=0.23); unstable hedge ratio (drift 0.78),0.739,0.228,0.64,12.1,0.78,-0.86,-0.86,2026-11-24
-WMT/COST,WMT,COST,Walmart,Costco,Mass retail,dormant,not cointegrated (p=0.23),0.896,0.228,0.66,15.5,0.15,0.56,0.6,2026-11-24
-WPC/O,WPC,O,W. P. Carey,Realty Income,Net lease REITs,dormant,not cointegrated (p=0.47),0.893,0.471,0.74,17.4,0.03,-1.07,-1.24,2026-11-24
-WPM/FNV,WPM,FNV,Wheaton Precious Metals,Franco-Nevada,Precious metals streamers,dormant,not cointegrated (p=0.34),1.239,0.343,0.9,11.8,0.13,-2.65,-2.5,2026-11-24
-WRB/MKL,WRB,MKL,W. R. Berkley Corporation,Markel,Specialty insurers,dormant,not cointegrated (p=0.71); low return correlation (0.47); unstable hedge ratio (drift 3.33),0.114,0.715,0.47,21.6,3.33,1.71,1.71,2026-11-24
-WSM/RH,WSM,RH,"Williams-Sonoma, Inc.",RH,Home furnishings,dormant,negative hedge ratio; not cointegrated (p=0.52); unstable hedge ratio (drift 59.06),-0.005,0.524,0.59,28.1,59.06,-1.71,-1.71,2026-11-24
-WTW/AON,WTW,AON,Willis Towers Watson,Aon plc,Insurance brokers,dormant,not cointegrated (p=0.90); slow/no mean reversion; unstable hedge ratio (drift 3.10),0.489,0.896,0.7,61.2,3.1,1.71,1.71,2026-11-24
-WYNN/MGM,WYNN,MGM,Wynn Resorts,MGM Resorts,Casinos,dormant,not cointegrated (p=0.64); unstable hedge ratio (drift 3.47),0.332,0.644,0.53,50.0,3.47,0.91,0.67,2026-11-24
-XOM/COP,XOM,COP,ExxonMobil,ConocoPhillips,Integrated oil,dormant,not cointegrated (p=0.38),0.836,0.376,0.84,14.7,0.18,-2.04,-2.49,2026-11-24
-XOM/SHEL,XOM,SHEL,ExxonMobil,Shell,Integrated oil,dormant,not cointegrated (p=0.15),0.962,0.147,0.7,13.1,0.24,-0.66,-0.45,2026-11-24
-XYL/PNR,XYL,PNR,Xylem Inc.,Pentair,Water equipment,dormant,not cointegrated (p=0.35); low return correlation (0.23); unstable hedge ratio (drift 1.19),0.415,0.347,0.23,20.0,1.19,-1.48,-1.48,2026-11-24
-YUM/QSR,YUM,QSR,Yum! Brands,Restaurant Brands,Quick service,dormant,not cointegrated (p=0.61); low return correlation (0.39); unstable hedge ratio (drift 5.79),0.084,0.61,0.39,13.6,5.79,1.77,1.85,2026-11-24
-ZBH/SNN,ZBH,SNN,Zimmer Biomet,Smith & Nephew,Orthopedics,dormant,not cointegrated (p=0.68); unstable hedge ratio (drift 5.87),0.08,0.684,0.64,19.7,5.87,2.06,2.06,2026-11-24
-ZION/KEY,ZION,KEY,Zions,KeyCorp,Regional banks,dormant,not cointegrated (p=0.95),1.213,0.952,0.9,48.9,0.07,1.71,2.12,2026-11-24
-ZION/WAL,ZION,WAL,Zions,Western Alliance,Regional banks West,dormant,not cointegrated (p=0.30); unstable hedge ratio (drift 3.20),0.165,0.296,0.81,28.3,3.2,-0.63,-0.63,2026-11-24
-ZTS/ELAN,ZTS,ELAN,Zoetis,Elanco,Animal health,dormant,negative hedge ratio; not cointegrated (p=0.87); low return correlation (0.47); slow/no mean reversion; unstable hedge ratio (drift 52.42),-0.015,0.874,0.47,87.6,52.42,0.98,0.95,2026-11-24
+CL/CHD,CL,CHD,Colgate-Palmolive,Church & Dwight,Household products,A,,0.885,0.039,0.77,7.6,0.29,-0.62,-0.62,2026-11-25
+CRBG/EQH,CRBG,EQH,Corebridge,Equitable,Annuity writers,A,,1.025,0.001,0.93,6.9,0.07,0.71,0.71,2026-11-25
+MAR/HLT,MAR,HLT,Marriott International,Hilton Worldwide,Hotels,A,,1.251,0.001,0.83,4.5,0.1,-0.29,-0.29,2026-11-25
+O/ADC,O,ADC,Realty Income,Agree Realty,Net lease REITs,A,,0.902,0.009,0.79,10.4,0.29,-0.63,-0.63,2026-11-25
+OKE/TRGP,OKE,TRGP,Oneok,Targa Resources,Midstream,A,,0.531,0.035,0.75,7.0,0.03,-1.35,-1.35,2026-11-25
+SU/CNQ,SU,CNQ,Suncor,Canadian Natural,Canadian oil,A,,1.024,0.002,0.83,13.5,0.06,0.04,0.04,2026-11-25
+THO/WGO,THO,WGO,Thor Industries,Winnebago,RVs,A,,0.926,0.0,0.74,5.3,0.39,-0.88,-0.88,2026-11-25
+TOL/PHM,TOL,PHM,Toll Brothers,PulteGroup,Homebuilders,A,,0.937,0.032,0.9,6.7,0.06,-0.26,-0.26,2026-11-25
+VST/NRG,VST,NRG,Vistra Corp.,NRG Energy,Power generators,A,,0.363,0.005,0.81,5.2,0.49,-1.72,-1.72,2026-11-25
+XEL/WEC,XEL,WEC,Xcel Energy,WEC Energy Group,Utilities Midwest,A,,0.838,0.02,0.83,6.8,0.12,-1.22,-1.22,2026-11-25
+ASML/AMAT,ASML,AMAT,ASML,Applied Materials,Semi equipment,B,,0.622,0.074,0.84,9.9,0.41,-1.15,-1.15,2026-11-25
+AZO/ORLY,AZO,ORLY,AutoZone,O'Reilly Automotive,Auto parts retail,B,,1.825,0.055,0.79,7.8,0.08,-2.92,-2.92,2026-11-25
+BF-B/DEO,BF-B,DEO,Brown-Forman,Diageo,Spirits,B,,0.579,0.033,0.59,7.5,0.26,-0.17,-0.17,2026-11-25
+BX/KKR,BX,KKR,Blackstone Inc.,KKR & Co.,Alt managers,B,,0.834,0.073,0.84,9.0,0.43,0.85,0.85,2026-11-25
+CMCSA/CHTR,CMCSA,CHTR,Comcast,Charter Communications,Cable,B,,0.347,0.084,0.73,12.0,0.27,0.9,0.9,2026-11-25
+CNC/MOH,CNC,MOH,Centene Corporation,Molina,Medicaid managed care,B,,1.423,0.092,0.59,11.8,0.34,-1.81,-1.81,2026-11-25
+CUZ/HIW,CUZ,HIW,Cousins Properties,Highwoods,Office REITs Sunbelt,B,,0.746,0.064,0.88,9.9,0.05,2.13,2.13,2026-11-25
+CVX/COP,CVX,COP,Chevron Corporation,ConocoPhillips,Integrated oil,B,,0.854,0.093,0.85,8.0,0.02,-0.16,-0.16,2026-11-25
+ELV/HUM,ELV,HUM,Elevance Health,Humana,Managed care,B,,0.349,0.05,0.6,8.0,0.06,-1.96,-1.96,2026-11-25
+EWBC/CATY,EWBC,CATY,East West Bancorp,Cathay General,Regional banks,B,,0.695,0.082,0.78,8.8,0.41,-1.9,-1.9,2026-11-25
+FCX/SCCO,FCX,SCCO,Freeport-McMoRan,Southern Copper,Copper,B,,1.014,0.057,0.9,8.7,0.13,-1.47,-1.47,2026-11-25
+GS/MS,GS,MS,Goldman Sachs,Morgan Stanley,Investment banks,B,,0.817,0.095,0.88,9.2,0.33,-1.85,-1.85,2026-11-25
+IEX/NDSN,IEX,NDSN,IDEX Corporation,Nordson Corporation,Precision/flow,B,,0.931,0.1,0.65,9.5,0.49,-1.29,-1.29,2026-11-25
+LRCX/KLAC,LRCX,KLAC,Lam Research,KLA Corporation,Semi equipment,B,,1.143,0.06,0.89,10.1,0.21,-2.36,-2.36,2026-11-25
+LVS/WYNN,LVS,WYNN,Las Vegas Sands,Wynn Resorts,Casinos Macau/LV,B,,1.134,0.04,0.59,7.6,0.11,-2.01,-2.01,2026-11-25
+MPC/PSX,MPC,PSX,Marathon Petroleum,Phillips 66,Refiners,B,,1.271,0.078,0.88,9.8,0.06,-2.1,-2.1,2026-11-25
+MPC/VLO,MPC,VLO,Marathon Petroleum,Valero Energy,Refiners,B,,1.064,0.052,0.89,12.2,0.18,0.55,0.55,2026-11-25
+MTB/CFG,MTB,CFG,M&T Bank,Citizens Financial Group,Regional banks,B,,0.888,0.077,0.86,6.9,0.16,1.45,1.45,2026-11-25
+NEM/AEM,NEM,AEM,Newmont,Agnico Eagle,Gold miners,B,,0.687,0.064,0.9,13.0,0.24,-1.97,-1.97,2026-11-25
+NTRS/BNY,NTRS,BNY,Northern Trust,BNY Mellon,Custody banks,B,,0.9,0.05,0.77,6.3,0.34,-1.74,-1.74,2026-11-25
+PH/ITW,PH,ITW,Parker Hannifin,Illinois Tool Works,Diversified industrials,B,,0.762,0.077,0.54,7.8,0.25,-1.7,-1.7,2026-11-25
+PSA/CUBE,PSA,CUBE,Public Storage,CubeSmart,Self-storage REITs,B,,1.079,0.1,0.86,12.3,0.31,-1.59,-1.59,2026-11-25
+TFC/RF,TFC,RF,Truist Financial,Regions Financial Corporation,Regional banks,B,,0.677,0.092,0.88,9.5,0.36,0.72,0.72,2026-11-25
+TSM/UMC,TSM,UMC,TSMC,UMC,Foundries,B,,0.308,0.008,0.58,5.9,0.15,-2.05,-2.05,2026-11-25
+A/MTD,A,MTD,Agilent Technologies,Mettler Toledo,Lab instruments,dormant,not cointegrated (p=0.72),1.03,0.717,0.68,32.6,0.03,-0.1,-0.1,2026-11-25
+AA/CENX,AA,CENX,Alcoa,Century Aluminum,Aluminum,dormant,not cointegrated (p=0.50),0.803,0.496,0.76,18.4,0.39,-0.48,-0.48,2026-11-25
+ABBV/AMGN,ABBV,AMGN,AbbVie,Amgen,Large biopharma,dormant,not cointegrated (p=0.21); unstable hedge ratio (drift 0.61),0.893,0.209,0.55,16.4,0.61,-0.62,-0.62,2026-11-25
+ABBV/BMY,ABBV,BMY,AbbVie,Bristol Myers Squibb,Big pharma,dormant,not cointegrated (p=0.86); unstable hedge ratio (drift 0.96),0.926,0.863,0.55,56.4,0.96,0.98,0.98,2026-11-25
+ABG/AN,ABG,AN,Asbury Automotive,AutoNation,Auto dealers,dormant,not cointegrated (p=0.34); unstable hedge ratio (drift 0.85),1.012,0.341,0.76,15.4,0.85,0.65,0.65,2026-11-25
+ABT/MDT,ABT,MDT,Abbott Laboratories,Medtronic,Med devices,dormant,not cointegrated (p=0.20),1.012,0.204,0.55,18.1,0.43,0.56,0.56,2026-11-25
+ACGL/AXS,ACGL,AXS,Arch Capital Group,AXIS Capital,Specialty insurers,dormant,not cointegrated (p=0.74),0.667,0.744,0.71,27.1,0.18,1.33,1.33,2026-11-25
+ACN/CTSH,ACN,CTSH,Accenture,Cognizant,IT services,dormant,not cointegrated (p=0.86),1.022,0.859,0.85,36.0,0.26,0.81,0.81,2026-11-25
+ADI/MCHP,ADI,MCHP,Analog Devices,Microchip Technology,Analog/MCU semis,dormant,not cointegrated (p=0.85); unstable hedge ratio (drift 0.80),0.678,0.855,0.79,45.4,0.8,-0.23,-0.23,2026-11-25
+ADI/NXPI,ADI,NXPI,Analog Devices,NXP Semiconductors,Analog semis,dormant,not cointegrated (p=0.51); unstable hedge ratio (drift 0.53),0.693,0.509,0.69,26.9,0.53,-2.68,-2.68,2026-11-25
+ADI/ON,ADI,ON,Analog Devices,ON Semiconductor,Analog/power semis,dormant,not cointegrated (p=0.49); unstable hedge ratio (drift 0.76),0.485,0.494,0.76,19.6,0.76,-1.72,-1.72,2026-11-25
+ADM/BG,ADM,BG,Archer Daniels Midland,Bunge Global,Ag processing,dormant,not cointegrated (p=0.85); slow/no mean reversion,0.619,0.853,0.75,77.3,0.25,-1.1,-1.1,2026-11-25
+ADP/PAYX,ADP,PAYX,Automatic Data Processing,Paychex,Payroll,dormant,not cointegrated (p=0.83),1.127,0.829,0.87,48.2,0.19,0.6,0.6,2026-11-25
+ADSK/PTC,ADSK,PTC,Autodesk,PTC Inc.,Design software,dormant,not cointegrated (p=0.41); unstable hedge ratio (drift 1.05),0.528,0.408,0.58,18.3,1.05,-0.53,-0.53,2026-11-25
+AEE/CMS,AEE,CMS,Ameren,CMS Energy,Utilities Midwest,dormant,not cointegrated (p=0.83); unstable hedge ratio (drift 0.64),0.624,0.83,0.86,49.3,0.64,1.48,1.48,2026-11-25
+AEE/WEC,AEE,WEC,Ameren,WEC Energy Group,Utilities Midwest,dormant,not cointegrated (p=0.51),0.975,0.507,0.88,13.7,0.35,-1.3,-1.3,2026-11-25
+AEM/B,AEM,B,Agnico Eagle,Barrick Mining,Gold miners,dormant,not cointegrated (p=0.82),1.058,0.821,0.9,46.5,0.5,1.07,1.07,2026-11-25
+AEO/URBN,AEO,URBN,American Eagle,Urban Outfitters,Teen apparel,dormant,not cointegrated (p=0.84); unstable hedge ratio (drift 1.66),0.37,0.839,0.55,49.2,1.66,2.02,2.02,2026-11-25
+AEP/DUK,AEP,DUK,American Electric Power,Duke Energy,Utilities,dormant,not cointegrated (p=0.56),1.084,0.556,0.75,18.0,0.47,-2.16,-2.16,2026-11-25
+AEP/SO,AEP,SO,American Electric Power,Southern Company,Utilities,dormant,not cointegrated (p=0.18),1.098,0.179,0.78,11.0,0.43,-2.1,-2.1,2026-11-25
+AFG/CINF,AFG,CINF,American Financial,Cincinnati Financial,P&C insurers,dormant,not cointegrated (p=0.32),1.077,0.319,0.61,14.4,0.12,0.0,0.0,2026-11-25
+AFL/UNM,AFL,UNM,Aflac,Unum,Supplemental insurers,dormant,not cointegrated (p=0.83); low return correlation (0.25); unstable hedge ratio (drift 1.93),0.328,0.829,0.25,31.9,1.93,1.5,1.5,2026-11-25
+AGCO/CNH,AGCO,CNH,AGCO,CNH Industrial,Ag equipment,dormant,not cointegrated (p=0.62); unstable hedge ratio (drift 1.15),0.419,0.615,0.81,23.6,1.15,-0.91,-0.91,2026-11-25
+AIG/HIG,AIG,HIG,American International Group,Hartford (The),P&C insurers,dormant,not cointegrated (p=0.14),0.665,0.143,0.55,11.0,0.45,0.58,0.58,2026-11-25
+AIT/MSM,AIT,MSM,Applied Industrial Tech,MSC Industrial,Industrial distribution,dormant,not cointegrated (p=0.14),0.596,0.141,0.6,10.4,0.23,-0.79,-0.79,2026-11-25
+AJG/BRO,AJG,BRO,Arthur J. Gallagher & Co.,Brown & Brown,Insurance brokers,dormant,not cointegrated (p=0.86); slow/no mean reversion,0.718,0.864,0.84,72.0,0.46,0.78,0.78,2026-11-25
+ALB/SQM,ALB,SQM,Albemarle Corporation,SQM,Lithium,dormant,not cointegrated (p=0.73),1.518,0.732,0.8,23.9,0.13,1.74,1.74,2026-11-25
+ALL/PGR,ALL,PGR,Allstate,Progressive Corporation,Personal auto insurers,dormant,not cointegrated (p=0.57); unstable hedge ratio (drift 0.84),1.444,0.572,0.72,26.5,0.84,-0.65,-0.65,2026-11-25
+AMAT/KLAC,AMAT,KLAC,Applied Materials,KLA Corporation,Semi equipment,dormant,not cointegrated (p=0.15),1.196,0.153,0.9,11.2,0.09,-1.69,-1.69,2026-11-25
+AMAT/LRCX,AMAT,LRCX,Applied Materials,Lam Research,Semi equipment,dormant,not cointegrated (p=0.46),1.017,0.463,0.93,18.1,0.07,1.54,1.54,2026-11-25
+AME/FTV,AME,FTV,Ametek,Fortive,Instruments,dormant,not cointegrated (p=0.39); low return correlation (0.39); unstable hedge ratio (drift 1.80),0.609,0.389,0.39,16.1,1.8,-1.74,-1.74,2026-11-25
+AMGN/GILD,AMGN,GILD,Amgen,Gilead Sciences,Large biotech,dormant,not cointegrated (p=0.33),1.008,0.328,0.59,18.9,0.27,-0.79,-0.79,2026-11-25
+AMT/CCI,AMT,CCI,American Tower,Crown Castle,Tower REITs,dormant,not cointegrated (p=0.42),0.371,0.425,0.88,11.3,0.26,0.63,0.63,2026-11-25
+AMT/SBAC,AMT,SBAC,American Tower,SBA Communications,Tower REITs,dormant,not cointegrated (p=0.51); unstable hedge ratio (drift 1.50),0.262,0.505,0.74,11.2,1.5,0.93,0.93,2026-11-25
+AN/LAD,AN,LAD,AutoNation,Lithia Motors,Auto dealers,dormant,not cointegrated (p=0.71); unstable hedge ratio (drift 0.97),0.355,0.714,0.74,30.1,0.97,0.82,0.82,2026-11-25
+ANET/CSCO,ANET,CSCO,Arista Networks,Cisco,Networking,dormant,not cointegrated (p=0.18); unstable hedge ratio (drift 0.76),0.724,0.18,0.57,15.2,0.76,-1.09,-1.09,2026-11-25
+ANF/AEO,ANF,AEO,Abercrombie & Fitch,American Eagle,Teen apparel,dormant,not cointegrated (p=0.96); slow/no mean reversion; unstable hedge ratio (drift 1.51),0.287,0.964,0.53,137.5,1.51,1.93,1.93,2026-11-25
+AON/MRSH,AON,MRSH,Aon plc,Marsh McLennan,Insurance brokers,dormant,not cointegrated (p=0.70); unstable hedge ratio (drift 1.14),0.396,0.703,0.8,29.0,1.14,1.29,1.29,2026-11-25
+APA/DVN,APA,DVN,APA Corporation,Devon Energy,E&P,dormant,not cointegrated (p=0.96); slow/no mean reversion,1.847,0.958,0.84,85.4,0.0,1.81,1.81,2026-11-25
+APH/TEL,APH,TEL,Amphenol,TE Connectivity,Connectors,dormant,not cointegrated (p=0.18); unstable hedge ratio (drift 48.60),0.007,0.176,0.68,11.9,48.6,-1.72,-1.72,2026-11-25
+APO/ARES,APO,ARES,Apollo Global Management,Ares Management,Alt managers,dormant,not cointegrated (p=0.35),0.577,0.351,0.8,12.9,0.1,-0.71,-0.71,2026-11-25
+APTV/LEA,APTV,LEA,Aptiv,Lear,Auto parts,dormant,not cointegrated (p=0.96); slow/no mean reversion; unstable hedge ratio (drift 6.48),0.383,0.959,0.54,182.4,6.48,-1.79,-1.79,2026-11-25
+ARES/OWL,ARES,OWL,Ares Management,Blue Owl,Alt managers,dormant,not cointegrated (p=0.59),0.698,0.594,0.78,14.3,0.22,2.5,2.5,2026-11-25
+ARW/AVT,ARW,AVT,Arrow Electronics,Avnet,Electronics distribution,dormant,not cointegrated (p=0.22),1.023,0.216,0.87,10.1,0.28,0.24,0.24,2026-11-25
+ASB/ONB,ASB,ONB,Associated Banc-Corp,Old National,Regional banks Midwest,dormant,not cointegrated (p=0.69),1.124,0.695,0.89,15.7,0.01,1.56,1.56,2026-11-25
+ATO/OGS,ATO,OGS,Atmos Energy,ONE Gas,Gas utilities,dormant,not cointegrated (p=0.28),0.782,0.276,0.8,13.5,0.29,-1.12,-1.12,2026-11-25
+AWK/CWT,AWK,CWT,American Water Works,California Water,Water utilities,dormant,not cointegrated (p=0.88),0.602,0.884,0.71,29.5,0.36,1.62,1.62,2026-11-25
+AXP/COF,AXP,COF,American Express,Capital One,Card issuers,dormant,not cointegrated (p=0.11),0.703,0.114,0.75,11.0,0.38,2.02,2.02,2026-11-25
+AYI/HUBB,AYI,HUBB,Acuity,Hubbell Incorporated,Electrical equipment,dormant,negative hedge ratio; not cointegrated (p=0.14); low return correlation (0.49); unstable hedge ratio (drift 2.70),-0.482,0.139,0.49,11.0,2.7,-0.54,-0.54,2026-11-25
+AZN/GSK,AZN,GSK,AstraZeneca,GSK,European pharma,dormant,not cointegrated (p=0.31),0.75,0.307,0.61,20.3,0.4,1.08,1.08,2026-11-25
+AZN/NVS,AZN,NVS,AstraZeneca,Novartis,European pharma,dormant,not cointegrated (p=0.61); unstable hedge ratio (drift 0.57),0.211,0.607,0.57,27.1,0.57,1.46,1.46,2026-11-25
+BAC/C,BAC,C,Bank of America,Citigroup,Money-center banks,dormant,not cointegrated (p=0.68); unstable hedge ratio (drift 1.33),0.679,0.684,0.73,38.7,1.33,-0.54,-0.54,2026-11-25
+BAC/WFC,BAC,WFC,Bank of America,Wells Fargo,Money-center banks,dormant,not cointegrated (p=0.93); slow/no mean reversion; unstable hedge ratio (drift 1.52),0.777,0.933,0.78,104.1,1.52,-1.07,-1.07,2026-11-25
+BALL/CCK,BALL,CCK,Ball Corporation,Crown Holdings,Beverage cans,dormant,not cointegrated (p=0.36); unstable hedge ratio (drift 0.76),0.869,0.357,0.72,19.9,0.76,0.28,0.28,2026-11-25
+BDX/BAX,BDX,BAX,Becton Dickinson,Baxter International,Hospital supplies,dormant,not cointegrated (p=0.82); low return correlation (0.48); unstable hedge ratio (drift 0.94),0.601,0.818,0.48,35.5,0.94,1.41,1.41,2026-11-25
+BEN/IVZ,BEN,IVZ,Franklin Resources,Invesco,Traditional asset managers,dormant,not cointegrated (p=0.68),1.252,0.679,0.71,31.1,0.4,1.12,1.12,2026-11-25
+BHP/VALE,BHP,VALE,BHP,Vale,Diversified miners,dormant,not cointegrated (p=0.49); unstable hedge ratio (drift 1.69),0.367,0.49,0.74,40.1,1.69,-1.79,-1.79,2026-11-25
+BJ/COST,BJ,COST,BJ's Wholesale,Costco,Warehouse clubs,dormant,not cointegrated (p=0.49); unstable hedge ratio (drift 1.25),0.617,0.491,0.52,11.6,1.25,-1.79,-1.79,2026-11-25
+BKNG/EXPE,BKNG,EXPE,Booking Holdings,Expedia Group,Online travel,dormant,not cointegrated (p=0.84),0.549,0.843,0.75,47.1,0.43,-0.25,-0.25,2026-11-25
+BMY/MRK,BMY,MRK,Bristol Myers Squibb,Merck & Co.,Big pharma,dormant,unstable hedge ratio (drift 0.62),0.52,0.01,0.51,7.5,0.62,0.6,0.6,2026-11-25
+BNY/STT,BNY,STT,BNY Mellon,State Street Corporation,Custody banks,dormant,not cointegrated (p=0.19),0.754,0.185,0.82,8.6,0.01,1.53,1.53,2026-11-25
+BP/TTE,BP,TTE,BP,TotalEnergies,Integrated oil,dormant,not cointegrated (p=0.13); unstable hedge ratio (drift 0.52),0.869,0.132,0.78,11.0,0.52,-0.56,-0.56,2026-11-25
+BRX/REG,BRX,REG,Brixmor,Regency Centers,Shopping center REITs,dormant,not cointegrated (p=0.67),1.318,0.669,0.8,10.3,0.05,2.37,2.37,2026-11-25
+BWA/LEA,BWA,LEA,BorgWarner,Lear,Auto parts,dormant,not cointegrated (p=0.19),1.363,0.189,0.53,17.7,0.3,0.88,0.88,2026-11-25
+BX/APO,BX,APO,Blackstone Inc.,Apollo Global Management,Alt managers,dormant,not cointegrated (p=0.29),1.023,0.289,0.77,15.4,0.02,-0.11,-0.11,2026-11-25
+BXP/VNO,BXP,VNO,"BXP, Inc.",Vornado,Office REITs,dormant,not cointegrated (p=0.28),0.659,0.28,0.84,16.2,0.36,0.94,0.94,2026-11-25
+C/WFC,C,WFC,Citigroup,Wells Fargo,Money-center banks,dormant,not cointegrated (p=0.44); unstable hedge ratio (drift 7.20),0.111,0.436,0.69,22.5,7.2,-1.96,-1.96,2026-11-25
+CACI/SAIC,CACI,SAIC,CACI,SAIC,Gov IT services,dormant,not cointegrated (p=0.49); unstable hedge ratio (drift 3.28),0.253,0.485,0.55,23.7,3.28,-0.98,-0.98,2026-11-25
+CAG/CPB,CAG,CPB,Conagra,Campbell's,Packaged food,dormant,not cointegrated (p=0.42),0.717,0.425,0.72,19.9,0.02,-0.45,-0.45,2026-11-25
+CAH/MCK,CAH,MCK,Cardinal Health,McKesson,Drug distributors,dormant,not cointegrated (p=0.81),0.74,0.811,0.73,42.7,0.03,2.06,2.06,2026-11-25
+CARR/LII,CARR,LII,Carrier Global,Lennox International,HVAC,dormant,not cointegrated (p=0.59); unstable hedge ratio (drift 0.56),0.343,0.587,0.67,22.6,0.56,-0.44,-0.44,2026-11-25
+CASY/MUSA,CASY,MUSA,Casey's,Murphy USA,Convenience stores,dormant,not cointegrated (p=0.48); low return correlation (0.42); unstable hedge ratio (drift 0.84),0.799,0.475,0.42,19.7,0.84,0.98,0.98,2026-11-25
+CAT/DE,CAT,DE,Caterpillar Inc.,Deere & Company,Heavy machinery,dormant,not cointegrated (p=0.99); low return correlation (0.41); slow/no mean reversion; unstable hedge ratio (drift 3.84),0.604,0.986,0.41,180.6,3.84,-1.64,-1.64,2026-11-25
+CB/TRV,CB,TRV,Chubb Limited,Travelers Companies (The),P&C insurers,dormant,unstable hedge ratio (drift 1.35),0.427,0.084,0.74,11.2,1.35,1.83,1.83,2026-11-25
+CBRE/JLL,CBRE,JLL,CBRE Group,Jones Lang LaSalle,Real estate services,dormant,not cointegrated (p=0.78); unstable hedge ratio (drift 1.38),0.567,0.778,0.86,43.3,1.38,-0.66,-0.66,2026-11-25
+CCI/SBAC,CCI,SBAC,Crown Castle,SBA Communications,Tower REITs,dormant,not cointegrated (p=0.57); unstable hedge ratio (drift 1.25),0.734,0.571,0.76,22.0,1.25,1.0,1.0,2026-11-25
+CCL/NCLH,CCL,NCLH,Carnival Corporation,Norwegian Cruise Line Holdings,Cruise lines,dormant,not cointegrated (p=0.28),0.494,0.285,0.81,13.8,0.22,0.6,0.6,2026-11-25
+CCL/RCL,CCL,RCL,Carnival Corporation,Royal Caribbean Group,Cruise lines,dormant,not cointegrated (p=0.26),0.9,0.264,0.81,13.4,0.02,-0.53,-0.53,2026-11-25
+CDNS/SNPS,CDNS,SNPS,Cadence Design Systems,Synopsys,EDA software,dormant,not cointegrated (p=0.71),0.527,0.712,0.8,31.9,0.19,-0.87,-0.87,2026-11-25
+CEG/VST,CEG,VST,Constellation Energy,Vistra Corp.,Power generators,dormant,not cointegrated (p=0.16); unstable hedge ratio (drift 1.15),0.846,0.164,0.8,23.6,1.15,-0.11,-0.11,2026-11-25
+CF/NTR,CF,NTR,CF Industries,Nutrien,Fertilizers,dormant,not cointegrated (p=0.64); unstable hedge ratio (drift 0.63),1.655,0.635,0.67,25.3,0.63,1.55,1.55,2026-11-25
+CFG/RF,CFG,RF,Citizens Financial Group,Regions Financial Corporation,Regional banks,dormant,not cointegrated (p=0.37),1.192,0.373,0.89,17.0,0.06,-1.34,-1.34,2026-11-25
+CG/KKR,CG,KKR,Carlyle,KKR & Co.,Alt managers,dormant,not cointegrated (p=0.81); unstable hedge ratio (drift 0.55),0.923,0.812,0.77,43.1,0.55,0.2,0.2,2026-11-25
+CHD/CLX,CHD,CLX,Church & Dwight,Clorox,Household products,dormant,not cointegrated (p=0.79),0.13,0.794,0.6,45.0,0.28,1.31,1.31,2026-11-25
+CHRW/EXPD,CHRW,EXPD,C.H. Robinson,Expeditors International,Freight brokerage,dormant,negative hedge ratio; unstable hedge ratio (drift 3.39),-0.604,0.07,0.6,9.3,3.39,0.71,0.71,2026-11-25
+CINF/WRB,CINF,WRB,Cincinnati Financial,W. R. Berkley Corporation,P&C insurers,dormant,unstable hedge ratio (drift 0.68),0.9,0.031,0.59,9.3,0.68,0.63,0.63,2026-11-25
+CL/CLX,CL,CLX,Colgate-Palmolive,Clorox,Household products,dormant,not cointegrated (p=0.50); unstable hedge ratio (drift 0.75),0.154,0.504,0.53,32.6,0.75,1.18,1.18,2026-11-25
+CL/KMB,CL,KMB,Colgate-Palmolive,Kimberly-Clark,Household products,dormant,not cointegrated (p=0.35),0.836,0.346,0.66,20.4,0.21,1.36,1.36,2026-11-25
+CME/CBOE,CME,CBOE,CME Group,Cboe Global Markets,Exchanges,dormant,not cointegrated (p=0.70); unstable hedge ratio (drift 0.95),0.462,0.701,0.6,32.0,0.95,1.29,1.29,2026-11-25
+CMS/DTE,CMS,DTE,CMS Energy,DTE Energy,Utilities Michigan,dormant,not cointegrated (p=0.21),0.781,0.207,0.87,17.4,0.13,1.88,1.88,2026-11-25
+CMS/WEC,CMS,WEC,CMS Energy,WEC Energy Group,Utilities Midwest,dormant,not cointegrated (p=0.96); slow/no mean reversion,0.878,0.963,0.86,68.7,0.13,-0.96,-0.96,2026-11-25
+CNP/NI,CNP,NI,CenterPoint Energy,NiSource,Utilities gas-heavy,dormant,not cointegrated (p=0.35),0.815,0.349,0.76,11.2,0.22,-1.27,-1.27,2026-11-25
+CNQ/CVE,CNQ,CVE,Canadian Natural,Cenovus,Canadian oil,dormant,not cointegrated (p=0.63),0.67,0.631,0.87,34.8,0.22,-0.0,-0.0,2026-11-25
+CNX/RRC,CNX,RRC,CNX Resources,Range Resources,Natural gas E&P,dormant,not cointegrated (p=0.61),0.141,0.608,0.69,25.5,0.35,0.17,0.17,2026-11-25
+COF/SYF,COF,SYF,Capital One,Synchrony Financial,Card issuers,dormant,not cointegrated (p=0.43),1.176,0.428,0.82,14.0,0.01,-1.13,-1.13,2026-11-25
+COP/EOG,COP,EOG,ConocoPhillips,EOG Resources,E&P,dormant,not cointegrated (p=0.49); unstable hedge ratio (drift 0.60),0.995,0.486,0.88,24.1,0.6,-0.14,-0.14,2026-11-25
+COP/FANG,COP,FANG,ConocoPhillips,Diamondback Energy,E&P,dormant,not cointegrated (p=0.93); slow/no mean reversion,1.07,0.925,0.81,71.3,0.2,0.96,0.96,2026-11-25
+COR/CAH,COR,CAH,Cencora,Cardinal Health,Drug distributors,dormant,not cointegrated (p=0.54); unstable hedge ratio (drift 2.09),0.319,0.544,0.62,23.7,2.09,1.26,1.26,2026-11-25
+CP/CNI,CP,CNI,Canadian Pacific Kansas City,Canadian National,Canadian railroads,dormant,not cointegrated (p=0.26),0.8,0.257,0.82,13.6,0.27,1.12,1.12,2026-11-25
+CPAY/WEX,CPAY,WEX,Corpay,WEX,Fleet payments,dormant,not cointegrated (p=0.63),0.828,0.633,0.53,25.3,0.44,1.34,1.34,2026-11-25
+CPB/SJM,CPB,SJM,Campbell's,J.M. Smucker Company (The),Packaged food,dormant,negative hedge ratio; not cointegrated (p=0.45); unstable hedge ratio (drift 5.27),-0.132,0.447,0.57,24.9,5.27,1.77,1.77,2026-11-25
+CPRT/RBA,CPRT,RBA,Copart,RB Global,Vehicle auctions,dormant,not cointegrated (p=0.62); low return correlation (0.41); unstable hedge ratio (drift 1.84),0.492,0.619,0.41,35.9,1.84,0.8,0.8,2026-11-25
+CPT/MAA,CPT,MAA,Camden Property Trust,Mid-America Apartment Communities,Apartment REITs Sunbelt,dormant,not cointegrated (p=0.45),0.89,0.447,0.93,22.7,0.04,0.22,0.22,2026-11-25
+CRWD/ZS,CRWD,ZS,CrowdStrike,Zscaler,Cybersecurity,dormant,not cointegrated (p=0.89); slow/no mean reversion; unstable hedge ratio (drift 1.00),0.42,0.887,0.63,111.8,1.0,-2.5,-2.5,2026-11-25
+CTSH/INFY,CTSH,INFY,Cognizant,Infosys,IT services,dormant,not cointegrated (p=0.80),0.958,0.801,0.75,44.2,0.29,-2.11,-2.11,2026-11-25
+CVS/CI,CVS,CI,CVS Health,Cigna,PBM / insurers,dormant,not cointegrated (p=0.34); low return correlation (0.45); unstable hedge ratio (drift 0.68),1.798,0.339,0.45,16.2,0.68,0.1,0.1,2026-11-25
+CWT/AWR,CWT,AWR,California Water,American States Water,Water utilities,dormant,not cointegrated (p=0.25); unstable hedge ratio (drift 0.51),0.684,0.254,0.87,10.8,0.51,1.77,1.77,2026-11-25
+CZR/BYD,CZR,BYD,Caesars,Boyd Gaming,Regional casinos,dormant,negative hedge ratio; not cointegrated (p=0.74); low return correlation (0.33),-0.416,0.737,0.33,20.4,0.42,0.96,0.96,2026-11-25
+CZR/MGM,CZR,MGM,Caesars,MGM Resorts,Casinos,dormant,not cointegrated (p=0.75); low return correlation (0.45); unstable hedge ratio (drift 5.35),0.269,0.752,0.45,30.5,5.35,-0.62,-0.62,2026-11-25
+D/DUK,D,DUK,Dominion Energy,Duke Energy,Utilities Southeast,dormant,not cointegrated (p=0.73),0.859,0.726,0.71,37.8,0.3,-1.36,-1.36,2026-11-25
+D/SO,D,SO,Dominion Energy,Southern Company,Utilities Southeast,dormant,not cointegrated (p=0.71),0.887,0.713,0.68,34.0,0.24,-0.43,-0.43,2026-11-25
+DAL/AAL,DAL,AAL,Delta Air Lines,American Airlines,Airlines,dormant,not cointegrated (p=0.73),0.493,0.735,0.86,51.0,0.29,0.78,0.78,2026-11-25
+DAL/UAL,DAL,UAL,Delta Air Lines,United Airlines Holdings,Airlines,dormant,not cointegrated (p=0.94); slow/no mean reversion,0.87,0.941,0.91,65.2,0.29,1.44,1.44,2026-11-25
+DDOG/DT,DDOG,DT,Datadog,Dynatrace,Observability,dormant,not cointegrated (p=0.85),1.443,0.852,0.55,41.7,0.37,-2.68,-2.68,2026-11-25
+DE/AGCO,DE,AGCO,Deere & Company,AGCO,Ag equipment,dormant,not cointegrated (p=0.82); slow/no mean reversion; unstable hedge ratio (drift 1.42),0.516,0.823,0.74,60.4,1.42,-0.46,-0.46,2026-11-25
+DE/CNH,DE,CNH,Deere & Company,CNH Industrial,Ag equipment,dormant,not cointegrated (p=0.37),0.923,0.375,0.75,17.2,0.36,0.0,0.0,2026-11-25
+DG/DLTR,DG,DLTR,Dollar General,Dollar Tree,Dollar stores,dormant,not cointegrated (p=0.37),0.616,0.368,0.66,19.4,0.27,-1.64,-1.64,2026-11-25
+DHI/LEN,DHI,LEN,D. R. Horton,Lennar,Homebuilders,dormant,not cointegrated (p=0.13); unstable hedge ratio (drift 1.83),0.249,0.132,0.88,8.1,1.83,2.67,2.67,2026-11-25
+DHI/NVR,DHI,NVR,D. R. Horton,"NVR, Inc.",Homebuilders,dormant,not cointegrated (p=0.12); unstable hedge ratio (drift 0.86),0.318,0.124,0.77,8.6,0.86,2.28,2.28,2026-11-25
+DINO/PBF,DINO,PBF,HF Sinclair,PBF Energy,Refiners,dormant,not cointegrated (p=0.46),0.853,0.461,0.79,19.3,0.18,0.1,0.1,2026-11-25
+DIS/CMCSA,DIS,CMCSA,Walt Disney Company (The),Comcast,Media conglomerates,dormant,not cointegrated (p=0.97); low return correlation (0.35); unstable hedge ratio (drift 11.55),0.032,0.966,0.35,33.3,11.55,2.32,2.32,2026-11-25
+DKNG/FLUT,DKNG,FLUT,DraftKings,Flutter,Online betting,dormant,unstable hedge ratio (drift 0.77),0.517,0.09,0.65,9.0,0.77,-1.08,-1.08,2026-11-25
+DKS/ASO,DKS,ASO,Dick's Sporting Goods,Academy Sports,Sporting goods,dormant,negative hedge ratio; not cointegrated (p=0.83); low return correlation (0.47); unstable hedge ratio (drift 1.87),-0.249,0.833,0.47,33.3,1.87,2.35,2.35,2026-11-25
+DOW/LYB,DOW,LYB,Dow Inc.,LyondellBasell,Commodity chemicals,dormant,not cointegrated (p=0.67),0.882,0.665,0.91,25.5,0.17,1.19,1.19,2026-11-25
+DPZ/PZZA,DPZ,PZZA,Domino's,Papa John's,Pizza chains,dormant,not cointegrated (p=0.80); low return correlation (0.32); unstable hedge ratio (drift 2.72),0.237,0.799,0.32,41.1,2.72,1.92,1.92,2026-11-25
+DRI/EAT,DRI,EAT,Darden Restaurants,Brinker,Casual dining,dormant,not cointegrated (p=0.42),0.257,0.417,0.52,16.7,0.28,1.96,1.96,2026-11-25
+DRI/TXRH,DRI,TXRH,Darden Restaurants,Texas Roadhouse,Casual dining,dormant,not cointegrated (p=0.68); unstable hedge ratio (drift 0.67),0.461,0.677,0.6,26.5,0.67,2.44,2.44,2026-11-25
+DTE/AEE,DTE,AEE,DTE Energy,Ameren,Utilities Midwest,dormant,not cointegrated (p=0.97); slow/no mean reversion,1.038,0.974,0.84,60.6,0.09,-1.71,-1.71,2026-11-25
+DTE/WEC,DTE,WEC,DTE Energy,WEC Energy Group,Utilities Midwest,dormant,not cointegrated (p=0.99); slow/no mean reversion,1.074,0.99,0.83,83.8,0.34,-1.66,-1.66,2026-11-25
+DUK/SO,DUK,SO,Duke Energy,Southern Company,Utilities Southeast,dormant,not cointegrated (p=0.67),0.931,0.667,0.87,8.6,0.16,1.68,1.68,2026-11-25
+DVN/FANG,DVN,FANG,Devon Energy,Diamondback Energy,E&P,dormant,not cointegrated (p=0.40),0.901,0.396,0.84,17.2,0.12,-1.99,-1.99,2026-11-25
+EBAY/ETSY,EBAY,ETSY,eBay Inc.,Etsy,Online marketplaces,dormant,not cointegrated (p=0.24); unstable hedge ratio (drift 0.69),0.552,0.238,0.51,14.5,0.69,0.7,0.7,2026-11-25
+ED/ES,ED,ES,Consolidated Edison,Eversource Energy,Utilities Northeast,dormant,not cointegrated (p=0.81); unstable hedge ratio (drift 0.67),0.89,0.813,0.68,37.9,0.67,0.73,0.73,2026-11-25
+ED/PEG,ED,PEG,Consolidated Edison,Public Service Enterprise Group,Utilities Northeast,dormant,not cointegrated (p=0.90); unstable hedge ratio (drift 57.86),0.018,0.904,0.61,43.4,57.86,1.46,1.46,2026-11-25
+EFX/TRU,EFX,TRU,Equifax,TransUnion,Credit bureaus,dormant,not cointegrated (p=0.73),1.026,0.726,0.87,29.0,0.13,1.32,1.32,2026-11-25
+EGP/FR,EGP,FR,EastGroup,First Industrial,Industrial REITs,dormant,not cointegrated (p=0.96); slow/no mean reversion; unstable hedge ratio (drift 1.10),0.768,0.96,0.79,113.1,1.1,1.2,1.2,2026-11-25
+EIX/PCG,EIX,PCG,Edison International,PG&E Corporation,Utilities California,dormant,not cointegrated (p=0.42),0.81,0.416,0.88,28.6,0.35,0.96,0.96,2026-11-25
+ELV/CI,ELV,CI,Elevance Health,Cigna,Managed care,dormant,not cointegrated (p=0.26),2.016,0.262,0.52,13.2,0.45,0.84,0.84,2026-11-25
+EME/FIX,EME,FIX,Emcor,Comfort Systems USA,Specialty contractors,dormant,not cointegrated (p=0.36),0.441,0.36,0.87,11.9,0.09,-0.9,-0.9,2026-11-25
+EMN/CE,EMN,CE,Eastman Chemical,Celanese,Specialty chemicals,dormant,not cointegrated (p=0.12); unstable hedge ratio (drift 0.54),0.312,0.118,0.56,14.2,0.54,-1.21,-1.21,2026-11-25
+ENB/TRP,ENB,TRP,Enbridge,TC Energy,Canadian pipelines,dormant,not cointegrated (p=0.94); slow/no mean reversion,0.764,0.935,0.84,76.6,0.43,-0.91,-0.91,2026-11-25
+ENPH/SEDG,ENPH,SEDG,Enphase,SolarEdge,Residential solar,dormant,not cointegrated (p=0.25),0.679,0.249,0.68,15.0,0.27,-1.4,-1.4,2026-11-25
+EOG/DVN,EOG,DVN,EOG Resources,Devon Energy,E&P,dormant,not cointegrated (p=0.93); slow/no mean reversion,1.077,0.934,0.87,105.5,0.3,1.57,1.57,2026-11-25
+EPAM/GLOB,EPAM,GLOB,EPAM,Globant,IT services,dormant,not cointegrated (p=0.15),1.147,0.154,0.74,10.8,0.08,-0.03,-0.03,2026-11-25
+EPD/ET,EPD,ET,Enterprise Products,Energy Transfer,Midstream MLPs,dormant,not cointegrated (p=0.59); unstable hedge ratio (drift 0.77),0.77,0.59,0.63,12.9,0.77,0.9,0.9,2026-11-25
+EPD/MPLX,EPD,MPLX,Enterprise Products,MPLX,Midstream MLPs,dormant,not cointegrated (p=0.33); unstable hedge ratio (drift 0.84),1.277,0.331,0.51,16.7,0.84,-0.55,-0.55,2026-11-25
+EQIX/DLR,EQIX,DLR,Equinix,Digital Realty,Data center REITs,dormant,not cointegrated (p=0.26); unstable hedge ratio (drift 0.61),1.518,0.258,0.8,10.7,0.61,2.17,2.17,2026-11-25
+EQT/AR,EQT,AR,EQT Corporation,Antero Resources,Natural gas E&P,dormant,not cointegrated (p=0.69),0.668,0.69,0.79,28.2,0.28,-0.57,-0.57,2026-11-25
+EQT/EXE,EQT,EXE,EQT Corporation,Expand Energy,Natural gas E&P,dormant,not cointegrated (p=0.44); unstable hedge ratio (drift 0.87),0.555,0.442,0.8,21.0,0.87,-0.05,-0.05,2026-11-25
+EQT/RRC,EQT,RRC,EQT Corporation,Range Resources,Natural gas E&P,dormant,not cointegrated (p=0.69); unstable hedge ratio (drift 2.85),0.177,0.692,0.73,27.5,2.85,-0.91,-0.91,2026-11-25
+ESS/UDR,ESS,UDR,Essex Property Trust,"UDR, Inc.",Apartment REITs coastal,dormant,not cointegrated (p=0.91); slow/no mean reversion,0.839,0.906,0.85,78.9,0.13,-0.55,-0.55,2026-11-25
+ETN/HUBB,ETN,HUBB,Eaton Corporation,Hubbell Incorporated,Electrical equipment,dormant,not cointegrated (p=0.62),0.757,0.62,0.66,24.7,0.11,-2.21,-2.21,2026-11-25
+ETR/AEP,ETR,AEP,Entergy,American Electric Power,Utilities,dormant,not cointegrated (p=0.15),1.264,0.146,0.78,10.2,0.21,-0.88,-0.88,2026-11-25
+ETR/SO,ETR,SO,Entergy,Southern Company,Utilities South,dormant,not cointegrated (p=0.51); unstable hedge ratio (drift 0.52),1.314,0.507,0.64,17.1,0.52,-2.18,-2.18,2026-11-25
+EVR/LAZ,EVR,LAZ,Evercore,Lazard,Advisory boutiques,dormant,not cointegrated (p=0.44),0.747,0.437,0.74,20.8,0.35,1.45,1.45,2026-11-25
+EVR/PJT,EVR,PJT,Evercore,PJT Partners,Advisory boutiques,dormant,not cointegrated (p=0.70),0.708,0.702,0.72,33.7,0.28,1.21,1.21,2026-11-25
+EVRG/AEE,EVRG,AEE,Evergy,Ameren,Utilities Midwest,dormant,not cointegrated (p=0.63),1.102,0.633,0.83,18.6,0.23,-1.56,-1.56,2026-11-25
+EVRG/LNT,EVRG,LNT,Evergy,Alliant Energy,Utilities Midwest,dormant,not cointegrated (p=0.90); unstable hedge ratio (drift 0.56),0.931,0.904,0.85,43.3,0.56,-0.29,-0.29,2026-11-25
+EXC/PPL,EXC,PPL,Exelon,PPL Corporation,Utilities Mid-Atlantic,dormant,not cointegrated (p=0.54),0.94,0.538,0.8,14.2,0.42,1.76,1.76,2026-11-25
+EXE/AR,EXE,AR,Expand Energy,Antero Resources,Natural gas E&P,dormant,not cointegrated (p=0.58); unstable hedge ratio (drift 2.10),0.216,0.578,0.76,32.5,2.1,-0.56,-0.56,2026-11-25
+EXP/MLM,EXP,MLM,Eagle Materials,Martin Marietta Materials,Cement & aggregates,dormant,not cointegrated (p=0.43),0.763,0.435,0.73,18.6,0.46,0.07,0.07,2026-11-25
+EXR/CUBE,EXR,CUBE,Extra Space Storage,CubeSmart,Self-storage REITs,dormant,not cointegrated (p=0.14),0.83,0.14,0.9,11.0,0.05,1.64,1.64,2026-11-25
+F/STLA,F,STLA,Ford Motor Company,Stellantis,Automakers,dormant,not cointegrated (p=0.30); low return correlation (0.48); unstable hedge ratio (drift 7.41),0.034,0.303,0.48,19.0,7.41,-0.12,-0.12,2026-11-25
+FANG/EOG,FANG,EOG,Diamondback Energy,EOG Resources,E&P,dormant,not cointegrated (p=0.64); unstable hedge ratio (drift 0.70),0.748,0.641,0.84,22.6,0.7,-0.99,-0.99,2026-11-25
+FAST/GWW,FAST,GWW,Fastenal,W. W. Grainger,Industrial distribution,dormant,not cointegrated (p=0.55),0.584,0.552,0.58,20.0,0.03,-0.01,-0.01,2026-11-25
+FAST/MSM,FAST,MSM,Fastenal,MSC Industrial,Industrial distribution,dormant,not cointegrated (p=0.61); low return correlation (0.43); unstable hedge ratio (drift 0.58),0.404,0.615,0.43,22.3,0.58,1.6,1.6,2026-11-25
+FCX/TECK,FCX,TECK,Freeport-McMoRan,Teck Resources,Copper,dormant,not cointegrated (p=0.22),0.923,0.221,0.81,12.3,0.38,-2.11,-2.11,2026-11-25
+FE/EXC,FE,EXC,FirstEnergy,Exelon,Utilities Mid-Atlantic,dormant,not cointegrated (p=0.10),0.871,0.1,0.8,10.0,0.45,-0.75,-0.75,2026-11-25
+FHN/RF,FHN,RF,First Horizon,Regions Financial Corporation,Regional banks South,dormant,not cointegrated (p=0.33),0.644,0.328,0.82,12.3,0.05,-2.2,-2.2,2026-11-25
+FITB/HBAN,FITB,HBAN,Fifth Third Bancorp,Huntington Bancshares,Regional banks,dormant,not cointegrated (p=0.64),0.676,0.641,0.89,54.4,0.01,1.12,1.12,2026-11-25
+FIVE/OLLI,FIVE,OLLI,Five Below,Ollie's,Discount retail,dormant,negative hedge ratio; not cointegrated (p=0.20); low return correlation (0.47); unstable hedge ratio (drift 4.74),-0.191,0.205,0.47,15.0,4.74,-0.81,-0.81,2026-11-25
+FLEX/JBL,FLEX,JBL,Flex Ltd.,Jabil,EMS,dormant,not cointegrated (p=0.36),1.78,0.359,0.81,21.8,0.16,0.64,0.64,2026-11-25
+FRT/KIM,FRT,KIM,Federal Realty Investment Trust,Kimco Realty,Shopping center REITs,dormant,not cointegrated (p=0.87),0.856,0.867,0.76,43.2,0.09,-1.29,-1.29,2026-11-25
+FTNT/CHKP,FTNT,CHKP,Fortinet,Check Point,Firewalls,dormant,negative hedge ratio; not cointegrated (p=0.70); low return correlation (0.39),-1.441,0.702,0.39,28.7,0.06,0.42,0.42,2026-11-25
+GD/HII,GD,HII,General Dynamics,Huntington Ingalls Industries,Shipbuilders,dormant,negative hedge ratio; not cointegrated (p=0.26); unstable hedge ratio (drift 13.72),-0.033,0.257,0.59,14.0,13.72,0.85,0.85,2026-11-25
+GEHC/PHG,GEHC,PHG,GE HealthCare,Philips,Imaging,dormant,not cointegrated (p=0.54),1.14,0.541,0.6,25.1,0.17,0.66,0.66,2026-11-25
+GIS/CAG,GIS,CAG,General Mills,Conagra,Packaged food,dormant,not cointegrated (p=0.47),1.036,0.468,0.83,19.8,0.21,-1.49,-1.49,2026-11-25
+GIS/CPB,GIS,CPB,General Mills,Campbell's,Packaged food,dormant,not cointegrated (p=0.31),0.92,0.309,0.75,13.6,0.14,-1.34,-1.34,2026-11-25
+GIS/POST,GIS,POST,General Mills,Post Holdings,Packaged food,dormant,not cointegrated (p=0.72); low return correlation (0.43); unstable hedge ratio (drift 1.48),0.486,0.724,0.43,35.6,1.48,0.51,0.51,2026-11-25
+GM/F,GM,F,General Motors,Ford Motor Company,Detroit automakers,dormant,not cointegrated (p=0.27); unstable hedge ratio (drift 1.09),0.321,0.272,0.6,9.4,1.09,0.3,0.3,2026-11-25
+GOOGL/META,GOOGL,META,Alphabet Inc. (Class A),Meta Platforms,Digital advertising,dormant,not cointegrated (p=0.84); low return correlation (0.32); unstable hedge ratio (drift 0.93),0.017,0.836,0.32,36.0,0.93,-1.72,-1.72,2026-11-25
+GPC/LKQ,GPC,LKQ,Genuine Parts Company,LKQ,Auto parts distribution,dormant,negative hedge ratio; not cointegrated (p=0.71); unstable hedge ratio (drift 20.09),-0.068,0.715,0.54,34.2,20.09,-0.71,-0.71,2026-11-25
+GSK/SNY,GSK,SNY,GSK,Sanofi,European pharma,dormant,not cointegrated (p=0.28); unstable hedge ratio (drift 5.40),0.129,0.277,0.52,16.7,5.4,0.29,0.29,2026-11-25
+GWW/MSM,GWW,MSM,W. W. Grainger,MSC Industrial,Industrial distribution,dormant,not cointegrated (p=0.23); low return correlation (0.38); unstable hedge ratio (drift 1.47),0.67,0.229,0.38,12.4,1.47,1.63,1.63,2026-11-25
+HAL/BKR,HAL,BKR,Halliburton,Baker Hughes,Oilfield services,dormant,unstable hedge ratio (drift 0.67),0.804,0.093,0.62,12.8,0.67,1.32,1.32,2026-11-25
+HAS/MAT,HAS,MAT,Hasbro,Mattel,Toys,dormant,negative hedge ratio; not cointegrated (p=0.66); low return correlation (0.27); unstable hedge ratio (drift 10.55),-0.126,0.66,0.27,42.5,10.55,0.55,0.55,2026-11-25
+HBAN/KEY,HBAN,KEY,Huntington Bancshares,KeyCorp,Regional banks,dormant,not cointegrated (p=0.69); unstable hedge ratio (drift 0.91),0.641,0.691,0.86,29.3,0.91,-1.74,-1.74,2026-11-25
+HBAN/RF,HBAN,RF,Huntington Bancshares,Regions Financial Corporation,Regional banks,dormant,not cointegrated (p=0.94),0.596,0.937,0.85,35.2,0.29,-2.23,-2.23,2026-11-25
+HCA/THC,HCA,THC,HCA Healthcare,Tenet,Hospitals,dormant,not cointegrated (p=0.86); unstable hedge ratio (drift 2.38),0.152,0.86,0.65,36.5,2.38,1.14,1.14,2026-11-25
+HCA/UHS,HCA,UHS,HCA Healthcare,Universal Health Services,Hospitals,dormant,not cointegrated (p=0.48); unstable hedge ratio (drift 0.69),0.658,0.476,0.69,19.8,0.69,1.01,1.01,2026-11-25
+HD/LOW,HD,LOW,Home Depot (The),Lowe's,Home improvement,dormant,not cointegrated (p=0.74),0.559,0.741,0.92,30.4,0.01,1.67,1.67,2026-11-25
+HIG/CINF,HIG,CINF,Hartford (The),Cincinnati Financial,P&C insurers,dormant,not cointegrated (p=0.14); unstable hedge ratio (drift 1.12),0.253,0.135,0.68,10.7,1.12,0.87,0.87,2026-11-25
+HLT/H,HLT,H,Hilton Worldwide,Hyatt,Hotels,dormant,not cointegrated (p=0.63),0.602,0.625,0.76,31.4,0.17,0.75,0.75,2026-11-25
+HP/PTEN,HP,PTEN,Helmerich & Payne,Patterson-UTI,Land drillers,dormant,not cointegrated (p=0.10); unstable hedge ratio (drift 0.98),0.484,0.103,0.77,9.7,0.98,-0.57,-0.57,2026-11-25
+HPQ/DELL,HPQ,DELL,HP Inc.,Dell Technologies,PCs,dormant,not cointegrated (p=0.79); low return correlation (0.40); unstable hedge ratio (drift 1.06),0.297,0.789,0.4,25.5,1.06,2.9,2.9,2026-11-25
+HRL/TSN,HRL,TSN,Hormel Foods,Tyson Foods,Protein,dormant,not cointegrated (p=0.58); low return correlation (0.28); unstable hedge ratio (drift 11.78),0.12,0.584,0.28,24.4,11.78,1.65,1.65,2026-11-25
+HST/PK,HST,PK,Host Hotels & Resorts,Park Hotels,Hotel REITs,dormant,not cointegrated (p=0.55); unstable hedge ratio (drift 1.44),0.674,0.554,0.79,37.0,1.44,1.17,1.17,2026-11-25
+HSY/MDLZ,HSY,MDLZ,Hershey Company (The),Mondelez International,Confectionery,dormant,negative hedge ratio; not cointegrated (p=0.51); unstable hedge ratio (drift 0.99),-0.401,0.514,0.57,21.2,0.99,2.22,2.22,2026-11-25
+HUM/UNH,HUM,UNH,Humana,UnitedHealth Group,Medicare Advantage,dormant,not cointegrated (p=0.86); unstable hedge ratio (drift 0.64),2.008,0.857,0.71,33.0,0.64,2.38,2.38,2026-11-25
+IBM/ACN,IBM,ACN,IBM,Accenture,IT services,dormant,not cointegrated (p=0.22); low return correlation (0.48); unstable hedge ratio (drift 2.75),0.249,0.225,0.48,15.4,2.75,0.14,0.14,2026-11-25
+ICE/CME,ICE,CME,Intercontinental Exchange,CME Group,Exchanges,dormant,not cointegrated (p=0.25); unstable hedge ratio (drift 1.56),0.669,0.255,0.53,17.7,1.56,1.71,1.71,2026-11-25
+INFY/WIT,INFY,WIT,Infosys,Wipro,Indian IT services,dormant,low return correlation (0.49); unstable hedge ratio (drift 0.72),0.976,0.075,0.49,8.9,0.72,-0.49,-0.49,2026-11-25
+INVH/AMH,INVH,AMH,Invitation Homes,American Homes 4 Rent,Single-family rental REITs,dormant,not cointegrated (p=0.91),1.027,0.907,0.88,23.0,0.2,-1.25,-1.25,2026-11-25
+IP/PKG,IP,PKG,International Paper,Packaging Corporation of America,Containerboard,dormant,not cointegrated (p=0.70); unstable hedge ratio (drift 0.68),0.268,0.697,0.75,28.7,0.68,-1.04,-1.04,2026-11-25
+IP/SW,IP,SW,International Paper,Smurfit Westrock,Containerboard,dormant,not cointegrated (p=0.64); unstable hedge ratio (drift 0.69),0.576,0.641,0.78,31.5,0.69,-0.85,-0.85,2026-11-25
+IQV/ICLR,IQV,ICLR,IQVIA,ICON,CROs,dormant,not cointegrated (p=0.36); unstable hedge ratio (drift 0.69),0.682,0.356,0.55,16.2,0.69,-1.93,-1.93,2026-11-25
+IR/DOV,IR,DOV,Ingersoll Rand,Dover Corporation,Diversified industrials,dormant,not cointegrated (p=0.58),0.567,0.578,0.68,24.7,0.48,1.1,1.1,2026-11-25
+ITW/DOV,ITW,DOV,Illinois Tool Works,Dover Corporation,Diversified industrials,dormant,not cointegrated (p=0.72); unstable hedge ratio (drift 2.81),0.277,0.719,0.63,32.4,2.81,1.38,1.38,2026-11-25
+J/ACM,J,ACM,Jacobs Solutions,AECOM,Engineering services,dormant,negative hedge ratio; not cointegrated (p=0.50); unstable hedge ratio (drift 10.67),-0.056,0.502,0.53,19.8,10.67,0.17,0.17,2026-11-25
+JBHT/HUBG,JBHT,HUBG,J.B. Hunt,Hub Group,Intermodal,dormant,not cointegrated (p=0.28); low return correlation (0.47); unstable hedge ratio (drift 1.92),0.146,0.284,0.47,28.1,1.92,0.09,0.09,2026-11-25
+JNJ/MRK,JNJ,MRK,Johnson & Johnson,Merck & Co.,Big pharma,dormant,unstable hedge ratio (drift 0.52),0.696,0.066,0.53,8.8,0.52,1.5,1.5,2026-11-25
+JNJ/PFE,JNJ,PFE,Johnson & Johnson,Pfizer,Big pharma,dormant,not cointegrated (p=0.42); low return correlation (0.39); unstable hedge ratio (drift 1.07),1.006,0.418,0.39,23.9,1.07,0.6,0.6,2026-11-25
+JPM/BAC,JPM,BAC,JPMorgan Chase,Bank of America,Money-center banks,dormant,not cointegrated (p=0.84); unstable hedge ratio (drift 0.59),0.662,0.838,0.77,29.2,0.59,-0.01,-0.01,2026-11-25
+JPM/C,JPM,C,JPMorgan Chase,Citigroup,Money-center banks,dormant,not cointegrated (p=0.75),0.556,0.746,0.69,28.8,0.1,-0.29,-0.29,2026-11-25
+JPM/WFC,JPM,WFC,JPMorgan Chase,Wells Fargo,Money-center banks,dormant,not cointegrated (p=0.83); unstable hedge ratio (drift 1.32),0.569,0.825,0.74,43.9,1.32,-2.86,-2.86,2026-11-25
+KBH/MTH,KBH,MTH,KB Home,Meritage Homes,Homebuilders,dormant,not cointegrated (p=0.63),1.052,0.627,0.9,34.4,0.05,0.39,0.39,2026-11-25
+KEY/CFG,KEY,CFG,KeyCorp,Citizens Financial Group,Regional banks,dormant,not cointegrated (p=0.27),0.66,0.274,0.9,17.0,0.19,0.16,0.16,2026-11-25
+KEY/FITB,KEY,FITB,KeyCorp,Fifth Third Bancorp,Regional banks,dormant,not cointegrated (p=0.40),0.639,0.403,0.87,17.8,0.13,-1.15,-1.15,2026-11-25
+KIM/BRX,KIM,BRX,Kimco Realty,Brixmor,Shopping center REITs,dormant,not cointegrated (p=0.95),1.079,0.945,0.88,33.4,0.01,0.3,0.3,2026-11-25
+KIM/REG,KIM,REG,Kimco Realty,Regency Centers,Shopping center REITs,dormant,not cointegrated (p=0.96); slow/no mean reversion,1.368,0.964,0.81,104.2,0.0,1.88,1.88,2026-11-25
+KKR/APO,KKR,APO,KKR & Co.,Apollo Global Management,Alt managers,dormant,not cointegrated (p=0.24),1.142,0.241,0.82,21.3,0.3,-0.91,-0.91,2026-11-25
+KMI/OKE,KMI,OKE,Kinder Morgan,Oneok,Midstream,dormant,not cointegrated (p=0.40); unstable hedge ratio (drift 0.83),0.691,0.404,0.75,18.2,0.83,0.94,0.94,2026-11-25
+KMI/WMB,KMI,WMB,Kinder Morgan,Williams Companies,Midstream,dormant,not cointegrated (p=0.58); unstable hedge ratio (drift 0.65),0.877,0.578,0.84,17.6,0.65,1.44,1.44,2026-11-25
+KNSL/RLI,KNSL,RLI,Kinsale,RLI,E&S insurers,dormant,not cointegrated (p=0.57),0.692,0.566,0.68,18.6,0.09,2.15,2.15,2026-11-25
+KNX/WERN,KNX,WERN,Knight-Swift,Werner,Truckload,dormant,not cointegrated (p=0.87),0.718,0.867,0.76,34.7,0.46,1.73,1.73,2026-11-25
+KO/PEP,KO,PEP,Coca-Cola Company (The),PepsiCo,Soft drinks,dormant,negative hedge ratio; not cointegrated (p=0.85); unstable hedge ratio (drift 1.06),-0.621,0.85,0.63,44.9,1.06,1.48,1.48,2026-11-25
+KR/ACI,KR,ACI,Kroger,Albertsons,Grocers,dormant,not cointegrated (p=0.82); unstable hedge ratio (drift 0.89),0.313,0.823,0.61,33.6,0.89,1.55,1.55,2026-11-25
+LAD/GPI,LAD,GPI,Lithia Motors,Group 1 Automotive,Auto dealers,dormant,not cointegrated (p=0.66); unstable hedge ratio (drift 32.26),0.023,0.661,0.65,29.1,32.26,-0.42,-0.42,2026-11-25
+LAMR/OUT,LAMR,OUT,Lamar,Outfront Media,Billboard REITs,dormant,not cointegrated (p=0.34),0.707,0.342,0.69,22.1,0.21,-0.56,-0.56,2026-11-25
+LDOS/BAH,LDOS,BAH,Leidos,Booz Allen,Gov IT services,dormant,not cointegrated (p=0.73),1.436,0.734,0.64,29.2,0.38,-1.8,-1.8,2026-11-25
+LDOS/CACI,LDOS,CACI,Leidos,CACI,Gov IT services,dormant,not cointegrated (p=0.91); slow/no mean reversion; unstable hedge ratio (drift 0.81),0.821,0.91,0.63,89.8,0.81,0.71,0.71,2026-11-25
+LEN/PHM,LEN,PHM,Lennar,PulteGroup,Homebuilders,dormant,not cointegrated (p=0.33); unstable hedge ratio (drift 0.82),1.16,0.332,0.86,39.8,0.82,-2.4,-2.4,2026-11-25
+LH/DGX,LH,DGX,Labcorp,Quest Diagnostics,Lab testing,dormant,not cointegrated (p=0.53); unstable hedge ratio (drift 0.76),0.91,0.527,0.72,14.0,0.76,0.57,0.57,2026-11-25
+LHX/LMT,LHX,LMT,L3Harris,Lockheed Martin,Defense primes,dormant,not cointegrated (p=0.99); slow/no mean reversion; unstable hedge ratio (drift 1.04),0.596,0.989,0.67,194.7,1.04,-0.31,-0.31,2026-11-25
+LHX/NOC,LHX,NOC,L3Harris,Northrop Grumman,Defense primes,dormant,not cointegrated (p=0.68),0.941,0.685,0.7,28.0,0.17,-0.65,-0.65,2026-11-25
+LIN/APD,LIN,APD,Linde plc,Air Products,Industrial gases,dormant,not cointegrated (p=0.18); unstable hedge ratio (drift 0.83),0.814,0.179,0.56,14.3,0.83,0.65,0.65,2026-11-25
+LMT/GD,LMT,GD,Lockheed Martin,General Dynamics,Defense primes,dormant,not cointegrated (p=0.40); unstable hedge ratio (drift 1.61),0.831,0.397,0.62,33.6,1.61,0.92,0.92,2026-11-25
+LMT/NOC,LMT,NOC,Lockheed Martin,Northrop Grumman,Defense primes,dormant,not cointegrated (p=0.27),0.582,0.268,0.73,24.5,0.05,0.81,0.81,2026-11-25
+LNT/XEL,LNT,XEL,Alliant Energy,Xcel Energy,Utilities Midwest,dormant,not cointegrated (p=0.12),1.156,0.116,0.82,10.6,0.1,-0.39,-0.39,2026-11-25
+LPLA/RJF,LPLA,RJF,LPL Financial,Raymond James Financial,Wealth/brokerage,dormant,not cointegrated (p=0.87),1.056,0.872,0.7,30.1,0.27,-1.81,-1.81,2026-11-25
+LUV/ALK,LUV,ALK,Southwest Airlines,Alaska Air,Airlines,dormant,not cointegrated (p=0.38),0.417,0.384,0.75,20.5,0.27,1.63,1.63,2026-11-25
+LYB/WLK,LYB,WLK,LyondellBasell,Westlake,Commodity chemicals,dormant,not cointegrated (p=0.74); unstable hedge ratio (drift 2.44),0.389,0.735,0.55,44.7,2.44,-1.51,-1.51,2026-11-25
+M/KSS,M,KSS,Macy's,Kohl's,Department stores,dormant,not cointegrated (p=0.38),0.418,0.375,0.66,14.1,0.41,-2.33,-2.33,2026-11-25
+MAA/UDR,MAA,UDR,Mid-America Apartment Communities,"UDR, Inc.",Apartment REITs,dormant,not cointegrated (p=0.92); slow/no mean reversion; unstable hedge ratio (drift 0.56),0.725,0.92,0.86,63.2,0.56,-1.39,-1.39,2026-11-25
+MAR/H,MAR,H,Marriott International,Hyatt,Hotels,dormant,not cointegrated (p=0.72),0.794,0.716,0.75,30.5,0.08,0.65,0.65,2026-11-25
+MAS/FBIN,MAS,FBIN,Masco,Fortune Brands,Building products,dormant,not cointegrated (p=0.83); unstable hedge ratio (drift 2.04),0.189,0.829,0.72,39.6,2.04,1.65,1.65,2026-11-25
+MCD/QSR,MCD,QSR,McDonald's,Restaurant Brands,Quick service,dormant,negative hedge ratio; not cointegrated (p=0.55); low return correlation (0.40); unstable hedge ratio (drift 1.32),-0.743,0.555,0.4,22.0,1.32,1.62,1.62,2026-11-25
+MCD/YUM,MCD,YUM,McDonald's,Yum! Brands,Quick service,dormant,not cointegrated (p=0.79),1.141,0.791,0.6,40.7,0.06,-0.45,-0.45,2026-11-25
+MCHP/NXPI,MCHP,NXPI,Microchip Technology,NXP Semiconductors,MCU semis,dormant,not cointegrated (p=0.83),0.839,0.832,0.78,35.3,0.27,-1.64,-1.64,2026-11-25
+MCK/COR,MCK,COR,McKesson,Cencora,Drug distributors,dormant,not cointegrated (p=0.92); unstable hedge ratio (drift 1.15),0.735,0.925,0.71,46.4,1.15,1.05,1.05,2026-11-25
+MCO/SPGI,MCO,SPGI,Moody's Corporation,S&P Global,Ratings agencies,dormant,not cointegrated (p=0.16),0.65,0.157,0.88,11.5,0.09,-1.71,-1.71,2026-11-25
+MDT/BSX,MDT,BSX,Medtronic,Boston Scientific,Med devices,dormant,not cointegrated (p=0.85); low return correlation (0.46); unstable hedge ratio (drift 5.59),0.119,0.846,0.46,49.6,5.59,0.3,0.3,2026-11-25
+MET/PRU,MET,PRU,MetLife,Prudential Financial,Life insurers,dormant,not cointegrated (p=0.58),1.222,0.575,0.72,24.7,0.37,-0.73,-0.73,2026-11-25
+MGM/LVS,MGM,LVS,MGM Resorts,Las Vegas Sands,Casinos,dormant,not cointegrated (p=0.76); low return correlation (0.38); unstable hedge ratio (drift 13.36),0.138,0.756,0.38,42.8,13.36,0.4,0.4,2026-11-25
+MKSI/ENTG,MKSI,ENTG,MKS,Entegris,Semi materials/subsystems,dormant,not cointegrated (p=0.94); slow/no mean reversion,0.992,0.936,0.82,93.2,0.38,-0.95,-0.95,2026-11-25
+MLM/CRH,MLM,CRH,Martin Marietta Materials,CRH plc,Aggregates,dormant,not cointegrated (p=0.19),0.734,0.191,0.77,6.8,0.13,-0.76,-0.76,2026-11-25
+MLM/VMC,MLM,VMC,Martin Marietta Materials,Vulcan Materials Company,Aggregates,dormant,not cointegrated (p=0.91),1.238,0.907,0.89,52.3,0.04,-1.59,-1.59,2026-11-25
+MO/BTI,MO,BTI,Altria,British American Tobacco,Tobacco,dormant,not cointegrated (p=0.46),1.346,0.46,0.59,20.4,0.46,-0.73,-0.73,2026-11-25
+MOS/NTR,MOS,NTR,Mosaic Company (The),Nutrien,Fertilizers,dormant,not cointegrated (p=0.59); unstable hedge ratio (drift 1.29),0.326,0.594,0.53,23.6,1.29,-0.2,-0.2,2026-11-25
+MRK/PFE,MRK,PFE,Merck & Co.,Pfizer,Big pharma,dormant,not cointegrated (p=0.48); low return correlation (0.48),1.495,0.475,0.48,21.1,0.3,-0.8,-0.8,2026-11-25
+MRSH/AJG,MRSH,AJG,Marsh McLennan,Arthur J. Gallagher & Co.,Insurance brokers,dormant,not cointegrated (p=0.25); unstable hedge ratio (drift 0.72),0.6,0.245,0.82,17.3,0.72,1.9,1.9,2026-11-25
+MRVL/AVGO,MRVL,AVGO,Marvell Technology,Broadcom,Custom silicon/networking,dormant,not cointegrated (p=0.63); unstable hedge ratio (drift 0.51),2.336,0.631,0.57,40.1,0.51,-0.94,-0.94,2026-11-25
+MS/SCHW,MS,SCHW,Morgan Stanley,Charles Schwab Corporation,Wealth/brokerage,dormant,not cointegrated (p=0.76); low return correlation (0.45); unstable hedge ratio (drift 0.92),0.577,0.762,0.45,40.1,0.92,-2.89,-2.89,2026-11-25
+MTDR/PR,MTDR,PR,Matador,Permian Resources,E&P Permian,dormant,not cointegrated (p=0.73); unstable hedge ratio (drift 0.65),0.609,0.728,0.87,27.2,0.65,-1.69,-1.69,2026-11-25
+NDAQ/ICE,NDAQ,ICE,"Nasdaq, Inc.",Intercontinental Exchange,Exchanges,dormant,not cointegrated (p=0.67),0.651,0.668,0.64,27.5,0.03,0.54,0.54,2026-11-25
+NEE/DUK,NEE,DUK,NextEra Energy,Duke Energy,Utilities large-cap,dormant,not cointegrated (p=0.67),0.994,0.674,0.63,22.8,0.23,-1.65,-1.65,2026-11-25
+NEM/B,NEM,B,Newmont,Barrick Mining,Gold miners,dormant,not cointegrated (p=0.31),0.753,0.307,0.9,23.6,0.49,-1.26,-1.26,2026-11-25
+NKE/LULU,NKE,LULU,"Nike, Inc.",Lululemon Athletica,Athletic apparel,dormant,not cointegrated (p=0.11); low return correlation (0.42),0.768,0.112,0.42,10.4,0.19,-1.05,-1.05,2026-11-25
+NNN/ADC,NNN,ADC,NNN REIT,Agree Realty,Net lease REITs,dormant,not cointegrated (p=0.62),0.833,0.617,0.79,40.7,0.11,-2.12,-2.12,2026-11-25
+NNN/EPRT,NNN,EPRT,NNN REIT,Essential Properties,Net lease REITs,dormant,not cointegrated (p=0.65); unstable hedge ratio (drift 0.51),0.475,0.649,0.75,45.3,0.51,-1.45,-1.45,2026-11-25
+NOC/GD,NOC,GD,Northrop Grumman,General Dynamics,Defense primes,dormant,negative hedge ratio; not cointegrated (p=0.85); unstable hedge ratio (drift 34.05),-0.038,0.847,0.64,56.3,34.05,1.2,1.2,2026-11-25
+NOV/FTI,NOV,FTI,NOV,TechnipFMC,Oilfield equipment,dormant,not cointegrated (p=0.10); unstable hedge ratio (drift 0.70),0.495,0.104,0.67,7.0,0.7,-0.87,-0.87,2026-11-25
+NTAP/P,NTAP,P,NetApp,Everpure,Enterprise storage,dormant,not cointegrated (p=0.30),1.021,0.301,0.61,19.6,0.08,0.35,0.35,2026-11-25
+NUE/CMC,NUE,CMC,Nucor,Commercial Metals,Steel,dormant,negative hedge ratio; not cointegrated (p=0.73); unstable hedge ratio (drift 1.24),-0.129,0.728,0.72,55.6,1.24,-0.88,-0.88,2026-11-25
+NUE/STLD,NUE,STLD,Nucor,Steel Dynamics,Steel,dormant,not cointegrated (p=0.86),1.166,0.855,0.89,35.0,0.43,2.28,2.28,2026-11-25
+NVR/PHM,NVR,PHM,"NVR, Inc.",PulteGroup,Homebuilders,dormant,not cointegrated (p=0.93); slow/no mean reversion; unstable hedge ratio (drift 0.88),0.81,0.931,0.78,89.3,0.88,-1.64,-1.64,2026-11-25
+NVT/HUBB,NVT,HUBB,nVent,Hubbell Incorporated,Electrical equipment,dormant,not cointegrated (p=0.85); slow/no mean reversion; unstable hedge ratio (drift 0.93),1.002,0.85,0.66,61.6,0.93,-1.82,-1.82,2026-11-25
+NXPI/ON,NXPI,ON,NXP Semiconductors,ON Semiconductor,Auto semis,dormant,not cointegrated (p=0.45),0.478,0.446,0.75,17.4,0.01,1.2,1.2,2026-11-25
+NXPI/STM,NXPI,STM,NXP Semiconductors,STMicroelectronics,Auto/industrial semis,dormant,not cointegrated (p=0.42),0.295,0.422,0.69,18.3,0.36,0.99,0.99,2026-11-25
+O/NNN,O,NNN,Realty Income,NNN REIT,Net lease REITs,dormant,not cointegrated (p=0.58),0.703,0.584,0.81,27.5,0.22,1.65,1.65,2026-11-25
+ODFL/SAIA,ODFL,SAIA,Old Dominion,Saia,LTL trucking,dormant,not cointegrated (p=0.13),0.842,0.13,0.81,24.8,0.05,0.44,0.44,2026-11-25
+ODFL/XPO,ODFL,XPO,Old Dominion,XPO,LTL trucking,dormant,not cointegrated (p=0.10); unstable hedge ratio (drift 1.03),0.814,0.1,0.75,15.4,1.03,0.26,0.26,2026-11-25
+OGE/EVRG,OGE,EVRG,OGE Energy,Evergy,Utilities Plains,dormant,not cointegrated (p=0.24),0.941,0.239,0.83,8.5,0.16,1.08,1.08,2026-11-25
+OGS/SR,OGS,SR,ONE Gas,Spire,Gas utilities,dormant,not cointegrated (p=0.32),0.941,0.32,0.83,15.4,0.44,1.3,1.3,2026-11-25
+OHI/SBRA,OHI,SBRA,Omega Healthcare,Sabra,Skilled nursing REITs,dormant,not cointegrated (p=0.20),0.784,0.203,0.8,12.0,0.34,-1.6,-1.6,2026-11-25
+OLN/WLK,OLN,WLK,Olin,Westlake,Chlor-alkali,dormant,not cointegrated (p=0.23); unstable hedge ratio (drift 0.74),0.845,0.234,0.66,15.1,0.74,1.07,1.07,2026-11-25
+OMC/WPP,OMC,WPP,Omnicom Group,WPP,Ad agencies,dormant,unstable hedge ratio (drift 0.62),0.218,0.022,0.55,10.3,0.62,2.08,2.08,2026-11-25
+ON/STM,ON,STM,ON Semiconductor,STMicroelectronics,Power semis,dormant,not cointegrated (p=0.52),0.637,0.52,0.74,17.2,0.22,-0.66,-0.66,2026-11-25
+ONTO/NVMI,ONTO,NVMI,Onto Innovation,Nova,Semi metrology,dormant,not cointegrated (p=0.61); unstable hedge ratio (drift 0.57),0.72,0.608,0.83,36.5,0.57,-1.66,-1.66,2026-11-25
+OSK/TEX,OSK,TEX,Oshkosh,Terex,Specialty vehicles,dormant,not cointegrated (p=0.50); unstable hedge ratio (drift 0.61),0.622,0.501,0.69,14.6,0.61,-0.39,-0.39,2026-11-25
+OVV/DVN,OVV,DVN,Ovintiv,Devon Energy,E&P,dormant,not cointegrated (p=0.70),1.519,0.701,0.86,31.1,0.25,1.59,1.59,2026-11-25
+OXY/APA,OXY,APA,Occidental Petroleum,APA Corporation,E&P,dormant,not cointegrated (p=0.87); unstable hedge ratio (drift 0.64),0.58,0.871,0.84,38.5,0.64,-2.17,-2.17,2026-11-25
+OXY/COP,OXY,COP,Occidental Petroleum,ConocoPhillips,E&P,dormant,not cointegrated (p=0.89); unstable hedge ratio (drift 0.76),0.936,0.891,0.84,44.9,0.76,-1.94,-1.94,2026-11-25
+PAG/GPI,PAG,GPI,Penske Automotive,Group 1 Automotive,Auto dealers,dormant,negative hedge ratio; not cointegrated (p=0.51); unstable hedge ratio (drift 0.87),-0.644,0.511,0.55,15.2,0.87,0.48,0.48,2026-11-25
+PANW/CRWD,PANW,CRWD,Palo Alto Networks,CrowdStrike,Cybersecurity,dormant,not cointegrated (p=0.20),0.994,0.199,0.84,12.7,0.27,2.83,2.83,2026-11-25
+PANW/FTNT,PANW,FTNT,Palo Alto Networks,Fortinet,Cybersecurity,dormant,not cointegrated (p=0.59),1.021,0.586,0.72,27.8,0.14,1.3,1.3,2026-11-25
+PAYC/PCTY,PAYC,PCTY,Paycom,Paylocity,HR software,dormant,not cointegrated (p=0.61); unstable hedge ratio (drift 0.60),1.321,0.61,0.72,30.7,0.6,-1.66,-1.66,2026-11-25
+PB/CFR,PB,CFR,Prosperity Bancshares,Cullen/Frost,Regional banks Texas,dormant,not cointegrated (p=0.25); unstable hedge ratio (drift 0.51),0.274,0.245,0.7,10.4,0.51,1.19,1.19,2026-11-25
+PCAR/CMI,PCAR,CMI,Paccar,Cummins,Heavy trucks,dormant,not cointegrated (p=0.28),0.342,0.285,0.51,20.1,0.49,0.95,0.95,2026-11-25
+PEG/EXC,PEG,EXC,Public Service Enterprise Group,Exelon,Utilities Mid-Atlantic,dormant,not cointegrated (p=0.76); unstable hedge ratio (drift 0.83),0.751,0.757,0.64,23.9,0.83,-0.21,-0.21,2026-11-25
+PEP/MDLZ,PEP,MDLZ,PepsiCo,Mondelez International,Snacks,dormant,negative hedge ratio; not cointegrated (p=0.49); unstable hedge ratio (drift 0.66),-0.213,0.487,0.6,20.4,0.66,1.5,1.5,2026-11-25
+PFE/BMY,PFE,BMY,Pfizer,Bristol Myers Squibb,Big pharma,dormant,not cointegrated (p=0.64),0.62,0.643,0.61,28.1,0.38,0.11,0.11,2026-11-25
+PG/CHD,PG,CHD,Procter & Gamble,Church & Dwight,Household products,dormant,not cointegrated (p=0.29); unstable hedge ratio (drift 0.71),0.609,0.289,0.72,15.0,0.71,1.84,1.84,2026-11-25
+PG/CL,PG,CL,Procter & Gamble,Colgate-Palmolive,Household products,dormant,not cointegrated (p=0.84); unstable hedge ratio (drift 0.89),0.634,0.841,0.77,26.2,0.89,1.78,1.78,2026-11-25
+PG/KMB,PG,KMB,Procter & Gamble,Kimberly-Clark,Household products,dormant,not cointegrated (p=0.92); unstable hedge ratio (drift 0.84),0.573,0.924,0.64,54.9,0.84,1.77,1.77,2026-11-25
+PHM/DHI,PHM,DHI,PulteGroup,D. R. Horton,Homebuilders,dormant,not cointegrated (p=0.45),0.895,0.446,0.92,18.9,0.01,0.84,0.84,2026-11-25
+PII/HOG,PII,HOG,Polaris,Harley-Davidson,Powersports,dormant,not cointegrated (p=0.39); low return correlation (0.45); unstable hedge ratio (drift 3.12),0.128,0.393,0.45,17.2,3.12,1.66,1.66,2026-11-25
+PINS/SNAP,PINS,SNAP,Pinterest,Snap,Social media,dormant,not cointegrated (p=0.36); unstable hedge ratio (drift 1.50),0.514,0.364,0.51,16.5,1.5,1.06,1.06,2026-11-25
+PKG/SW,PKG,SW,Packaging Corporation of America,Smurfit Westrock,Containerboard,dormant,not cointegrated (p=0.63),0.697,0.635,0.78,21.3,0.22,0.9,0.9,2026-11-25
+PLD/EGP,PLD,EGP,Prologis,EastGroup,Industrial REITs,dormant,not cointegrated (p=0.82),0.66,0.817,0.79,32.4,0.1,-1.22,-1.22,2026-11-25
+PLD/FR,PLD,FR,Prologis,First Industrial,Industrial REITs,dormant,unstable hedge ratio (drift 0.51),0.851,0.089,0.76,9.5,0.51,0.36,0.36,2026-11-25
+PNC/FITB,PNC,FITB,PNC Financial Services,Fifth Third Bancorp,Super-regional banks,dormant,not cointegrated (p=0.22),0.906,0.217,0.87,6.6,0.24,-0.8,-0.8,2026-11-25
+PNC/TFC,PNC,TFC,PNC Financial Services,Truist Financial,Super-regional banks,dormant,not cointegrated (p=0.53),1.275,0.529,0.85,21.4,0.28,-1.46,-1.46,2026-11-25
+PNW/IDA,PNW,IDA,Pinnacle West Capital,IDACORP,Utilities West,dormant,not cointegrated (p=0.22),1.158,0.224,0.78,8.3,0.15,-0.87,-0.87,2026-11-25
+PNW/POR,PNW,POR,Pinnacle West Capital,Portland General,Utilities West,dormant,not cointegrated (p=0.73); unstable hedge ratio (drift 2.65),0.374,0.729,0.64,50.9,2.65,0.51,0.51,2026-11-25
+POR/IDA,POR,IDA,Portland General,IDACORP,Utilities West,dormant,not cointegrated (p=0.79),0.425,0.793,0.67,31.1,0.21,0.01,0.01,2026-11-25
+PPG/AXTA,PPG,AXTA,PPG Industries,Axalta,Paints & coatings,dormant,not cointegrated (p=0.43),0.499,0.428,0.74,19.2,0.07,1.68,1.68,2026-11-25
+PPL/AEP,PPL,AEP,PPL Corporation,American Electric Power,Utilities,dormant,not cointegrated (p=0.49),0.547,0.493,0.68,17.0,0.14,0.73,0.73,2026-11-25
+PPL/FE,PPL,FE,PPL Corporation,FirstEnergy,Utilities Mid-Atlantic,dormant,not cointegrated (p=0.49),0.802,0.491,0.85,19.5,0.03,-0.6,-0.6,2026-11-25
+PR/FANG,PR,FANG,Permian Resources,Diamondback Energy,E&P Permian,dormant,not cointegrated (p=0.66),1.496,0.663,0.85,24.9,0.24,0.22,0.22,2026-11-25
+PRU/LNC,PRU,LNC,Prudential Financial,Lincoln National,Life insurers,dormant,not cointegrated (p=0.25),0.807,0.247,0.58,15.3,0.03,1.63,1.63,2026-11-25
+PSA/EXR,PSA,EXR,Public Storage,Extra Space Storage,Self-storage REITs,dormant,not cointegrated (p=0.46),1.212,0.458,0.87,17.4,0.17,-1.89,-1.89,2026-11-25
+PSX/DINO,PSX,DINO,Phillips 66,HF Sinclair,Refiners,dormant,not cointegrated (p=0.45),0.779,0.447,0.8,18.9,0.19,2.29,2.29,2026-11-25
+PVH/RL,PVH,RL,PVH,Ralph Lauren Corporation,Apparel brands,dormant,not cointegrated (p=0.32); low return correlation (0.49); unstable hedge ratio (drift 0.57),1.161,0.323,0.49,21.1,0.57,1.35,1.35,2026-11-25
+PWR/MTZ,PWR,MTZ,Quanta Services,MasTec,Infrastructure contractors,dormant,not cointegrated (p=0.80); unstable hedge ratio (drift 1.96),0.304,0.805,0.74,40.7,1.96,-0.36,-0.36,2026-11-25
+PYPL/XYZ,PYPL,XYZ,PayPal,"Block, Inc.",Digital payments,dormant,not cointegrated (p=0.41); low return correlation (0.44); unstable hedge ratio (drift 2.02),0.502,0.414,0.44,25.2,2.02,1.49,1.49,2026-11-25
+RCL/NCLH,RCL,NCLH,Royal Caribbean Group,Norwegian Cruise Line Holdings,Cruise lines,dormant,not cointegrated (p=0.33),0.29,0.33,0.75,14.3,0.04,1.06,1.06,2026-11-25
+REG/FRT,REG,FRT,Regency Centers,Federal Realty Investment Trust,Shopping center REITs,dormant,not cointegrated (p=0.67),0.591,0.671,0.82,29.4,0.3,0.1,0.1,2026-11-25
+REXR/TRNO,REXR,TRNO,Rexford Industrial,Terreno,Industrial REITs,dormant,negative hedge ratio; not cointegrated (p=0.35); unstable hedge ratio (drift 16.60),-0.058,0.35,0.65,14.4,16.6,-0.53,-0.53,2026-11-25
+RF/FITB,RF,FITB,Regions Financial Corporation,Fifth Third Bancorp,Regional banks,dormant,not cointegrated (p=0.20),0.735,0.196,0.89,11.5,0.3,-0.24,-0.24,2026-11-25
+RHI/MAN,RHI,MAN,Robert Half,ManpowerGroup,Staffing,dormant,not cointegrated (p=0.18); unstable hedge ratio (drift 0.61),0.702,0.18,0.7,11.0,0.61,0.64,0.64,2026-11-25
+RIG/NE,RIG,NE,Transocean,Noble Corp,Offshore drillers,dormant,not cointegrated (p=0.18),0.847,0.183,0.79,7.8,0.23,-0.13,-0.13,2026-11-25
+RIO/BHP,RIO,BHP,Rio Tinto,BHP,Diversified miners,dormant,not cointegrated (p=0.99); slow/no mean reversion,0.649,0.989,0.9,662.5,0.5,-1.62,-1.62,2026-11-25
+RJF/SF,RJF,SF,Raymond James Financial,Stifel,Wealth/brokerage,dormant,not cointegrated (p=0.84),0.487,0.844,0.78,30.1,0.05,1.28,1.28,2026-11-25
+RL/TPR,RL,TPR,Ralph Lauren Corporation,"Tapestry, Inc.",Luxury/accessible luxury,dormant,not cointegrated (p=0.14); unstable hedge ratio (drift 1.70),0.132,0.141,0.5,9.9,1.7,1.25,1.25,2026-11-25
+RNR/EG,RNR,EG,RenaissanceRe,Everest Group,Reinsurers,dormant,not cointegrated (p=0.44),0.852,0.44,0.73,14.3,0.17,-2.48,-2.48,2026-11-25
+ROK/EMR,ROK,EMR,Rockwell Automation,Emerson Electric,Automation,dormant,not cointegrated (p=0.68); unstable hedge ratio (drift 3.02),0.348,0.676,0.72,26.4,3.02,-1.56,-1.56,2026-11-25
+ROST/BURL,ROST,BURL,Ross Stores,Burlington,Off-price retail,dormant,not cointegrated (p=0.58); unstable hedge ratio (drift 4.79),0.166,0.583,0.57,36.4,4.79,-1.15,-1.15,2026-11-25
+RRC/AR,RRC,AR,Range Resources,Antero Resources,Natural gas E&P,dormant,not cointegrated (p=0.96); slow/no mean reversion,1.184,0.956,0.82,77.2,0.37,1.4,1.4,2026-11-25
+RSG/WCN,RSG,WCN,Republic Services,Waste Connections,Waste,dormant,not cointegrated (p=0.68); unstable hedge ratio (drift 0.67),0.688,0.682,0.75,26.3,0.67,1.69,1.69,2026-11-25
+RTX/GE,RTX,GE,RTX Corporation,GE Aerospace,Aero engines,dormant,not cointegrated (p=0.39),0.521,0.391,0.55,19.0,0.4,0.59,0.59,2026-11-25
+SAIA/XPO,SAIA,XPO,Saia,XPO,LTL trucking,dormant,not cointegrated (p=0.59); unstable hedge ratio (drift 1.44),0.651,0.595,0.73,25.1,1.44,-0.7,-0.7,2026-11-25
+SCHW/IBKR,SCHW,IBKR,Charles Schwab Corporation,Interactive Brokers,Brokers,dormant,not cointegrated (p=0.70); low return correlation (0.37); unstable hedge ratio (drift 4.43),0.165,0.703,0.37,23.2,4.43,-0.17,-0.17,2026-11-25
+SHEL/BP,SHEL,BP,Shell,BP,Integrated oil,dormant,not cointegrated (p=0.64),0.97,0.644,0.82,17.2,0.38,0.8,0.8,2026-11-25
+SHEL/TTE,SHEL,TTE,Shell,TotalEnergies,Integrated oil,dormant,not cointegrated (p=0.84); unstable hedge ratio (drift 0.94),0.827,0.841,0.76,48.0,0.94,-0.23,-0.23,2026-11-25
+SHW/PPG,SHW,PPG,Sherwin-Williams,PPG Industries,Paints & coatings,dormant,not cointegrated (p=0.17),0.441,0.174,0.77,13.1,0.15,1.8,1.8,2026-11-25
+SHW/RPM,SHW,RPM,Sherwin-Williams,RPM International,Paints & coatings,dormant,not cointegrated (p=0.25),0.793,0.25,0.81,15.2,0.3,1.59,1.59,2026-11-25
+SIGI/THG,SIGI,THG,Selective Insurance,Hanover Insurance,Regional P&C insurers,dormant,not cointegrated (p=0.19),0.579,0.194,0.56,21.0,0.36,1.65,1.65,2026-11-25
+SJM/CAG,SJM,CAG,J.M. Smucker Company (The),Conagra,Packaged food,dormant,negative hedge ratio; not cointegrated (p=0.91); slow/no mean reversion; unstable hedge ratio (drift 7.09),-0.07,0.913,0.57,72.1,7.09,0.93,0.93,2026-11-25
+SLB/BKR,SLB,BKR,Schlumberger,Baker Hughes,Oilfield services,dormant,not cointegrated (p=0.23); unstable hedge ratio (drift 0.67),0.809,0.226,0.67,16.9,0.67,1.36,1.36,2026-11-25
+SLB/HAL,SLB,HAL,Schlumberger,Halliburton,Oilfield services,dormant,not cointegrated (p=0.49),0.896,0.489,0.75,20.6,0.32,-0.09,-0.09,2026-11-25
+SLG/VNO,SLG,VNO,SL Green,Vornado,Office REITs NYC,dormant,not cointegrated (p=0.32),0.96,0.321,0.84,18.6,0.17,-1.41,-1.41,2026-11-25
+SM/MTDR,SM,MTDR,SM Energy,Matador,E&P Permian,dormant,not cointegrated (p=0.86),1.636,0.863,0.85,53.4,0.07,0.12,0.12,2026-11-25
+SNA/SWK,SNA,SWK,Snap-on,Stanley Black & Decker,Tools,dormant,not cointegrated (p=0.70); unstable hedge ratio (drift 1.81),0.172,0.704,0.61,25.9,1.81,-1.02,-1.02,2026-11-25
+SNOW/MDB,SNOW,MDB,Snowflake,MongoDB,Data platforms,dormant,not cointegrated (p=0.76),1.093,0.761,0.63,46.3,0.02,-0.53,-0.53,2026-11-25
+SPG/MAC,SPG,MAC,Simon Property Group,Macerich,Mall REITs,dormant,not cointegrated (p=0.29); unstable hedge ratio (drift 0.60),0.62,0.286,0.72,11.3,0.6,2.28,2.28,2026-11-25
+SRE/EIX,SRE,EIX,Sempra,Edison International,Utilities California,dormant,not cointegrated (p=0.23),0.346,0.234,0.55,22.3,0.06,-1.51,-1.51,2026-11-25
+STLD/CMC,STLD,CMC,Steel Dynamics,Commercial Metals,Steel,dormant,not cointegrated (p=0.68); unstable hedge ratio (drift 2.13),0.16,0.679,0.7,48.5,2.13,-1.69,-1.69,2026-11-25
+STT/NTRS,STT,NTRS,State Street Corporation,Northern Trust,Custody banks,dormant,not cointegrated (p=0.29),1.399,0.286,0.79,9.0,0.08,-1.09,-1.09,2026-11-25
+STX/WDC,STX,WDC,Seagate Technology,Western Digital,Hard drives,dormant,not cointegrated (p=0.59),1.069,0.592,0.91,25.2,0.17,-1.05,-1.05,2026-11-25
+STZ/TAP,STZ,TAP,Constellation Brands,Molson Coors,Brewers,dormant,not cointegrated (p=0.23); unstable hedge ratio (drift 1.12),0.758,0.228,0.58,15.6,1.12,0.85,0.85,2026-11-25
+SU/IMO,SU,IMO,Suncor,Imperial Oil,Canadian oil,dormant,not cointegrated (p=0.60),1.16,0.604,0.84,27.6,0.32,0.19,0.19,2026-11-25
+SUI/ELS,SUI,ELS,Sun Communities,Equity LifeStyle,Manufactured housing REITs,dormant,not cointegrated (p=0.39),0.735,0.386,0.77,17.3,0.02,-0.51,-0.51,2026-11-25
+SYF/BFH,SYF,BFH,Synchrony Financial,Bread Financial,Private-label cards,dormant,not cointegrated (p=0.56); unstable hedge ratio (drift 7.54),0.075,0.559,0.73,17.4,7.54,-1.72,-1.72,2026-11-25
+SYK/ZBH,SYK,ZBH,Stryker Corporation,Zimmer Biomet,Orthopedics,dormant,not cointegrated (p=0.57); unstable hedge ratio (drift 2.32),0.257,0.566,0.65,27.9,2.32,1.65,1.65,2026-11-25
+SYY/PFGC,SYY,PFGC,Sysco,Performance Food Group,Foodservice distribution,dormant,not cointegrated (p=0.26); low return correlation (0.45),0.303,0.261,0.45,14.4,0.33,-0.11,-0.11,2026-11-25
+SYY/USFD,SYY,USFD,Sysco,US Foods,Foodservice distribution,dormant,not cointegrated (p=0.17); low return correlation (0.48); unstable hedge ratio (drift 0.73),0.365,0.166,0.48,11.3,0.73,-0.17,-0.17,2026-11-25
+T/TMUS,T,TMUS,AT&T,T-Mobile US,Telecom,dormant,not cointegrated (p=0.52); unstable hedge ratio (drift 1.27),0.569,0.523,0.7,31.0,1.27,-0.5,-0.5,2026-11-25
+T/VZ,T,VZ,AT&T,Verizon,Telecom,dormant,not cointegrated (p=0.72); unstable hedge ratio (drift 1.26),0.465,0.722,0.78,37.1,1.26,-0.47,-0.47,2026-11-25
+TAP/BUD,TAP,BUD,Molson Coors,AB InBev,Brewers,dormant,negative hedge ratio; not cointegrated (p=0.20); unstable hedge ratio (drift 2.23),-0.397,0.203,0.53,12.4,2.23,0.81,0.81,2026-11-25
+TDG/HEI,TDG,HEI,TransDigm Group,HEICO,Aero parts,dormant,not cointegrated (p=0.56),0.418,0.558,0.58,23.9,0.14,-0.8,-0.8,2026-11-25
+TJX/BURL,TJX,BURL,TJX Companies,Burlington,Off-price retail,dormant,not cointegrated (p=0.28); unstable hedge ratio (drift 0.56),0.407,0.284,0.57,15.7,0.56,1.6,1.6,2026-11-25
+TJX/ROST,TJX,ROST,TJX Companies,Ross Stores,Off-price retail,dormant,negative hedge ratio; not cointegrated (p=0.51); unstable hedge ratio (drift 2.26),-0.136,0.509,0.63,21.2,2.26,1.4,1.4,2026-11-25
+TM/HMC,TM,HMC,Toyota,Honda,Japanese automakers,dormant,not cointegrated (p=0.84); unstable hedge ratio (drift 0.50),0.163,0.841,0.73,52.5,0.5,1.85,1.85,2026-11-25
+TMO/A,TMO,A,Thermo Fisher Scientific,Agilent Technologies,Life science tools,dormant,not cointegrated (p=0.42),0.877,0.417,0.74,18.7,0.15,-1.31,-1.31,2026-11-25
+TMO/DHR,TMO,DHR,Thermo Fisher Scientific,Danaher Corporation,Life science tools,dormant,not cointegrated (p=0.66); unstable hedge ratio (drift 0.52),1.175,0.664,0.73,28.4,0.52,-0.21,-0.21,2026-11-25
+TRN/GBX,TRN,GBX,Trinity Industries,Greenbrier,Railcars,dormant,not cointegrated (p=0.59),0.627,0.589,0.63,30.9,0.16,1.97,1.97,2026-11-25
+TROW/BEN,TROW,BEN,T. Rowe Price,Franklin Resources,Traditional asset managers,dormant,not cointegrated (p=0.53); unstable hedge ratio (drift 1.08),0.398,0.53,0.58,23.4,1.08,-1.46,-1.46,2026-11-25
+TROW/IVZ,TROW,IVZ,T. Rowe Price,Invesco,Traditional asset managers,dormant,not cointegrated (p=0.37); unstable hedge ratio (drift 1.02),0.678,0.37,0.59,17.3,1.02,0.35,0.35,2026-11-25
+TRV/ALL,TRV,ALL,Travelers Companies (The),Allstate,P&C insurers,dormant,not cointegrated (p=0.29),1.133,0.289,0.7,14.6,0.17,-0.76,-0.76,2026-11-25
+TRV/HIG,TRV,HIG,Travelers Companies (The),Hartford (The),P&C insurers,dormant,not cointegrated (p=0.98); slow/no mean reversion,1.074,0.982,0.75,2195.3,0.45,0.37,0.37,2026-11-25
+TSN/PPC,TSN,PPC,Tyson Foods,Pilgrim's Pride,Chicken,dormant,not cointegrated (p=0.59); low return correlation (0.46); unstable hedge ratio (drift 1.34),0.131,0.59,0.46,23.7,1.34,1.75,1.75,2026-11-25
+TT/CARR,TT,CARR,Trane Technologies,Carrier Global,HVAC,dormant,not cointegrated (p=0.40); unstable hedge ratio (drift 0.83),0.599,0.398,0.67,14.7,0.83,-1.49,-1.49,2026-11-25
+TT/LII,TT,LII,Trane Technologies,Lennox International,HVAC,dormant,not cointegrated (p=0.53); unstable hedge ratio (drift 3.89),0.062,0.531,0.52,21.7,3.89,-1.44,-1.44,2026-11-25
+TXN/ADI,TXN,ADI,Texas Instruments,Analog Devices,Analog semis,dormant,not cointegrated (p=0.62),1.389,0.62,0.86,17.0,0.32,2.99,2.99,2026-11-25
+TXN/MCHP,TXN,MCHP,Texas Instruments,Microchip Technology,Analog/MCU semis,dormant,not cointegrated (p=0.98); slow/no mean reversion; unstable hedge ratio (drift 1.00),0.912,0.98,0.82,,1.0,1.27,1.27,2026-11-25
+TXRH/EAT,TXRH,EAT,Texas Roadhouse,Brinker,Casual dining,dormant,not cointegrated (p=0.40); low return correlation (0.45),0.253,0.397,0.45,17.4,0.28,0.96,0.96,2026-11-25
+UAL/AAL,UAL,AAL,United Airlines Holdings,American Airlines,Airlines,dormant,not cointegrated (p=0.30),0.72,0.299,0.85,9.7,0.12,-0.52,-0.52,2026-11-25
+UDR/CPT,UDR,CPT,"UDR, Inc.",Camden Property Trust,Apartment REITs,dormant,not cointegrated (p=0.46),0.903,0.458,0.86,23.2,0.01,1.86,1.86,2026-11-25
+UMBF/CBSH,UMBF,CBSH,UMB Financial,Commerce Bancshares,Regional banks Midwest,dormant,not cointegrated (p=0.20),1.29,0.201,0.78,14.4,0.08,0.22,0.22,2026-11-25
+UNH/ELV,UNH,ELV,UnitedHealth Group,Elevance Health,Managed care,dormant,not cointegrated (p=0.20); unstable hedge ratio (drift 0.77),1.092,0.2,0.68,17.7,0.77,-1.29,-1.29,2026-11-25
+UNM/GL,UNM,GL,Unum,Globe Life,Supplemental insurers,dormant,low return correlation (0.32),0.838,0.037,0.32,7.8,0.19,-0.55,-0.55,2026-11-25
+UNP/CSX,UNP,CSX,Union Pacific Corporation,CSX Corporation,Railroads,dormant,unstable hedge ratio (drift 0.67),0.745,0.071,0.81,9.0,0.67,0.46,0.46,2026-11-25
+UPS/FDX,UPS,FDX,United Parcel Service,FedEx,Parcel delivery,dormant,not cointegrated (p=0.48); unstable hedge ratio (drift 1.92),0.309,0.481,0.68,18.0,1.92,1.73,1.73,2026-11-25
+URI/HRI,URI,HRI,United Rentals,Herc Holdings,Equipment rental,dormant,not cointegrated (p=0.75),0.544,0.749,0.71,42.6,0.09,-0.48,-0.48,2026-11-25
+USB/PNC,USB,PNC,U.S. Bancorp,PNC Financial Services,Super-regional banks,dormant,not cointegrated (p=0.84),0.993,0.837,0.9,17.5,0.11,1.33,1.33,2026-11-25
+USB/TFC,USB,TFC,U.S. Bancorp,Truist Financial,Super-regional banks,dormant,not cointegrated (p=0.68),1.218,0.677,0.88,37.3,0.12,-0.76,-0.76,2026-11-25
+USFD/PFGC,USFD,PFGC,US Foods,Performance Food Group,Foodservice distribution,dormant,not cointegrated (p=0.63); unstable hedge ratio (drift 1.04),0.733,0.635,0.68,41.5,1.04,0.78,0.78,2026-11-25
+V/MA,V,MA,Visa Inc.,Mastercard,Card networks,dormant,not cointegrated (p=0.63),1.05,0.631,0.88,29.7,0.13,-1.56,-1.56,2026-11-25
+VAC/HGV,VAC,HGV,Marriott Vacations,Hilton Grand Vacations,Timeshare,dormant,negative hedge ratio; not cointegrated (p=0.82); unstable hedge ratio (drift 1.38),-0.471,0.823,0.56,49.4,1.38,0.67,0.67,2026-11-25
+VFC/PVH,VFC,PVH,VF Corp,PVH,Apparel brands,dormant,not cointegrated (p=0.81); low return correlation (0.43); unstable hedge ratio (drift 11.79),0.095,0.812,0.43,37.4,11.79,1.54,1.54,2026-11-25
+VICI/GLPI,VICI,GLPI,Vici Properties,Gaming and Leisure Properties,Gaming REITs,dormant,not cointegrated (p=0.28),0.813,0.283,0.79,13.6,0.44,1.85,1.85,2026-11-25
+VLO/PSX,VLO,PSX,Valero Energy,Phillips 66,Refiners,dormant,not cointegrated (p=0.49),1.18,0.486,0.87,17.9,0.23,-1.52,-1.52,2026-11-25
+VMC/CRH,VMC,CRH,Vulcan Materials Company,CRH plc,Aggregates,dormant,not cointegrated (p=0.48),0.443,0.484,0.79,12.7,0.1,1.45,1.45,2026-11-25
+VMRK/ESS,VMRK,ESS,Vivmark Residential,Essex Property Trust,Apartment REITs coastal,dormant,not cointegrated (p=0.12),0.716,0.125,0.82,11.0,0.16,0.88,0.88,2026-11-25
+VTR/DOC,VTR,DOC,Ventas,Healthpeak Properties,Health care REITs,dormant,low return correlation (0.39); unstable hedge ratio (drift 1.02),0.447,0.052,0.39,12.0,1.02,-0.76,-0.76,2026-11-25
+VTRS/TEVA,VTRS,TEVA,Viatris,Teva,Generics,dormant,not cointegrated (p=0.35); low return correlation (0.36); unstable hedge ratio (drift 0.58),1.204,0.346,0.36,15.3,0.58,2.09,2.09,2026-11-25
+VZ/TMUS,VZ,TMUS,Verizon,T-Mobile US,Telecom,dormant,negative hedge ratio; not cointegrated (p=0.49); unstable hedge ratio (drift 17.63),-0.041,0.49,0.65,25.6,17.63,0.6,0.6,2026-11-25
+WEC/LNT,WEC,LNT,WEC Energy Group,Alliant Energy,Utilities Midwest,dormant,not cointegrated (p=0.86),0.762,0.856,0.89,27.4,0.07,1.99,1.99,2026-11-25
+WELL/VTR,WELL,VTR,Welltower,Ventas,Senior housing REITs,dormant,not cointegrated (p=0.85),1.265,0.85,0.83,32.3,0.18,1.38,1.38,2026-11-25
+WFC/USB,WFC,USB,Wells Fargo,U.S. Bancorp,Banks,dormant,not cointegrated (p=0.52); unstable hedge ratio (drift 1.19),0.243,0.516,0.73,21.5,1.19,-0.98,-0.98,2026-11-25
+WH/CHH,WH,CHH,Wyndham Hotels,Choice Hotels,Economy hotels,dormant,not cointegrated (p=0.32),0.462,0.318,0.69,15.1,0.49,1.3,1.3,2026-11-25
+WM/RSG,WM,RSG,Waste Management,Republic Services,Waste,dormant,not cointegrated (p=0.39),0.577,0.385,0.82,18.8,0.49,1.56,1.56,2026-11-25
+WM/WCN,WM,WCN,Waste Management,Waste Connections,Waste,dormant,not cointegrated (p=0.27); unstable hedge ratio (drift 1.36),0.475,0.267,0.72,16.5,1.36,1.98,1.98,2026-11-25
+WMB/OKE,WMB,OKE,Williams Companies,Oneok,Midstream,dormant,not cointegrated (p=0.25); unstable hedge ratio (drift 0.76),0.736,0.247,0.64,12.3,0.76,-1.14,-1.14,2026-11-25
+WMT/COST,WMT,COST,Walmart,Costco,Mass retail,dormant,not cointegrated (p=0.23),0.887,0.23,0.66,16.2,0.18,0.64,0.64,2026-11-25
+WPC/O,WPC,O,W. P. Carey,Realty Income,Net lease REITs,dormant,not cointegrated (p=0.51),0.896,0.515,0.74,17.6,0.05,-1.21,-1.21,2026-11-25
+WPM/FNV,WPM,FNV,Wheaton Precious Metals,Franco-Nevada,Precious metals streamers,dormant,not cointegrated (p=0.26),1.233,0.262,0.91,11.2,0.14,-2.17,-2.17,2026-11-25
+WRB/MKL,WRB,MKL,W. R. Berkley Corporation,Markel,Specialty insurers,dormant,not cointegrated (p=0.75); low return correlation (0.47); unstable hedge ratio (drift 3.48),0.113,0.751,0.47,22.7,3.48,1.79,1.79,2026-11-25
+WSM/RH,WSM,RH,"Williams-Sonoma, Inc.",RH,Home furnishings,dormant,negative hedge ratio; not cointegrated (p=0.59); unstable hedge ratio (drift 49.27),-0.005,0.589,0.58,29.8,49.27,-1.77,-1.77,2026-11-25
+WTW/AON,WTW,AON,Willis Towers Watson,Aon plc,Insurance brokers,dormant,not cointegrated (p=0.91); slow/no mean reversion; unstable hedge ratio (drift 3.10),0.494,0.908,0.7,65.5,3.1,2.1,2.1,2026-11-25
+WYNN/MGM,WYNN,MGM,Wynn Resorts,MGM Resorts,Casinos,dormant,not cointegrated (p=0.55); unstable hedge ratio (drift 3.29),0.343,0.547,0.52,44.2,3.29,1.49,1.49,2026-11-25
+XOM/COP,XOM,COP,ExxonMobil,ConocoPhillips,Integrated oil,dormant,not cointegrated (p=0.40),0.833,0.398,0.84,15.1,0.19,-2.1,-2.1,2026-11-25
+XOM/CVX,XOM,CVX,ExxonMobil,Chevron Corporation,Integrated oil,dormant,not cointegrated (p=0.13),0.976,0.125,0.87,8.8,0.22,-2.99,-2.99,2026-11-25
+XOM/SHEL,XOM,SHEL,ExxonMobil,Shell,Integrated oil,dormant,not cointegrated (p=0.12),0.956,0.12,0.7,12.6,0.24,-1.33,-1.33,2026-11-25
+XYL/PNR,XYL,PNR,Xylem Inc.,Pentair,Water equipment,dormant,not cointegrated (p=0.33); low return correlation (0.24); unstable hedge ratio (drift 1.20),0.415,0.331,0.24,20.3,1.2,-1.39,-1.39,2026-11-25
+YUM/QSR,YUM,QSR,Yum! Brands,Restaurant Brands,Quick service,dormant,not cointegrated (p=0.67); low return correlation (0.39); unstable hedge ratio (drift 5.77),0.088,0.674,0.39,14.2,5.77,1.76,1.76,2026-11-25
+ZBH/SNN,ZBH,SNN,Zimmer Biomet,Smith & Nephew,Orthopedics,dormant,not cointegrated (p=0.69); unstable hedge ratio (drift 5.56),0.081,0.685,0.64,21.2,5.56,2.12,2.12,2026-11-25
+ZION/KEY,ZION,KEY,Zions,KeyCorp,Regional banks,dormant,not cointegrated (p=0.96),1.219,0.962,0.9,42.3,0.09,0.43,0.43,2026-11-25
+ZION/WAL,ZION,WAL,Zions,Western Alliance,Regional banks West,dormant,not cointegrated (p=0.40); unstable hedge ratio (drift 3.28),0.159,0.399,0.81,30.5,3.28,-0.63,-0.63,2026-11-25
+ZTS/ELAN,ZTS,ELAN,Zoetis,Elanco,Animal health,dormant,negative hedge ratio; not cointegrated (p=0.84); low return correlation (0.47); slow/no mean reversion; unstable hedge ratio (drift 36.86),-0.02,0.835,0.47,77.5,36.86,1.15,1.15,2026-11-25
+CFR/BOKF,CFR,BOKF,Cullen/Frost,BOK Financial,Regional banks Texas/OK,no_data,no price data for BOKF,,,,,,,,
 TMHC/MTH,TMHC,MTH,Taylor Morrison,Meritage Homes,Homebuilders,no_data,no price data for TMHC,,,,,,,,
 WBS/VLY,WBS,VLY,Webster Financial,Valley National,Regional banks Northeast,no_data,only 1 overlapping sessions,,,,,,,,
